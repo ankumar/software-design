@@ -85,11 +85,11 @@ https://incidentdatabase.ai/
 
 “computation may someday be organized as a public utility, just as the telephone system is a public utility. We can envisage computer service companies whose subscribers are connected to them [...]. Each subscriber needs to pay only for the capacity that he actually uses, but he has access to all programming languages characteristic of a very large system.” -- https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf
 
-## Cloud 
+### Cloud 
  * Providers - https://www.pulumi.com/docs/intro/cloud-providers
  * Universe - https://docs.dagger.io/reference/README
 
-### Identity, Authentication & Authorization 
+#### Identity, Authentication & Authorization 
   * OpenID
   * [GitHub](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/about-security-hardening-with-openid-connect#overview-of-openid-connect)
   * [GitLab](https://docs.gitlab.com/ee/administration/auth/README.html)
@@ -102,7 +102,7 @@ https://incidentdatabase.ai/
     * Okta
     * Google Workspace (Formerly G Suite)
 
-### Database
+#### Database
   
 Databricks 
 | Redis Labs
@@ -119,10 +119,10 @@ Databricks
 - https://cloudwars.co/cloud-database-report/
 - https://www.honeycomb.io/blog/time-series-database/
 
-### Queues
+#### Queues
   * Kafka or Kafka compat
   
-### Containers
+#### Containers
 
 * [Why?](https://insights.sei.cmu.edu/blog/11-leading-practices-when-implementing-a-container-strategy/)
 
@@ -132,15 +132,15 @@ Databricks
 * Thousands of ways on AWS, one way -> [Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 * Build better containerized apps with less friction - https://www.slim.ai/
 
-## Security
+### Security
 
 * [Cloud Native Security Whitepaper](https://github.com/cncf/tag-security/tree/main/security-whitepaper)
   * https://control-plane.io/
 
-## Testing
+### Testing
 * [Talk About Testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
 
-## Reliability
+### Reliability
 * SLOs, Error Budgets - https://nobl9.com/
 
 * Status Dashboards - Introduced 2008, https://aws.amazon.com/blogs/aws/the-service-hea/ 
@@ -160,7 +160,7 @@ Databricks
   * https://thenewstack.io/google-sre-site-reliability-engineering-at-a-global-scale/
 * [Single best repo of DevOps-related content](https://cloud.google.com/architecture/devops/capabilities) 
 
-## 
+### 
 * Infrastructure as Software - https://en.wikipedia.org/wiki/Infrastructure_as_Software
   * [Infrastructure as Software vs Infrastructure as Code](https://www.youtube.com/watch?v=rtng6GNQd4w)
   * https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/a-1-iac-vs-ias.zomg
