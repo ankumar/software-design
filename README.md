@@ -37,6 +37,7 @@
 ## Twitter
 
 * [rereading 25 of my favorite computer science papers](https://twitter.com/funcOfJoe/status/1473745632061837313)
+* [The technology adoption curve is much longer than people on the cutting edge assume](https://twitter.com/emollick/status/1473677758316355591)
 
 ## Things 
 
