@@ -4,10 +4,6 @@
 
 -- https://notes.ceilfors.com/Open_software_design.html
 
-## Twitter
-
-## Architecture
-
 ## Sandbox
 
 * [Cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
@@ -23,6 +19,9 @@
 * https://graphql.stepzen.com/
 * https://hopper.wundergraph.com/
 
+## Twitter
+
 ## Things 
 
+## Architecture
 
