@@ -36,6 +36,8 @@
 
 ## Twitter
 
+* [rereading 25 of my favorite computer science papers](https://twitter.com/funcOfJoe/status/1473745632061837313)
+
 ## Things 
 
 ## Architecture
