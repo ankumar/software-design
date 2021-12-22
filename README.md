@@ -288,8 +288,6 @@ Databricks
 
 ## Open Source
 
-* https://github.com/tufan-io/noun-and-verb
-* https://open-metadata.org/
 * https://github.com/hofstadter-io
 * https://backstage.io/docs/auth/ 
 * https://github.com/authzed
