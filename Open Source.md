@@ -1,7 +1,10 @@
 ## Open Source
 
 * https://github.com/hofstadter-io
-* https://backstage.io/
+
+
+* [Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
+  * https://backstage.io/
 
 * [What is Zanzibar?](https://authzed.com/blog/what-is-zanzibar/)
 * [Building Zanzibar from Scratch](https://www.osohq.com/post/zanzibar)
