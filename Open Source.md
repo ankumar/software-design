@@ -1,7 +1,7 @@
 ## Open Source
 
-* https://github.com/hofstadter-io
-
+* [Configure Unify Execute](https://cuelang.org/)
+  * https://github.com/hofstadter-io
 
 * [Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
   * https://backstage.io/
