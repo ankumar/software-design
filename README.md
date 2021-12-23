@@ -9,6 +9,7 @@
 * [rereading 25 of my favorite computer science papers](https://twitter.com/funcOfJoe/status/1473745632061837313)
 * [The technology adoption curve is much longer than people on the cutting edge assume](https://twitter.com/emollick/status/1473677758316355591)
 * [most lasting achievements of the early internet - Linux & open source, Wikipedia - were often driven by intrinsic incentives](https://twitter.com/emollick/status/1473721323688017927)
+* [I hope @cue_lang gains more popularity this year. It's been the correct fit for so many new greenfield projects lately.](https://twitter.com/rakyll/status/1473198774914748417)
 
 ## Sandbox
 
