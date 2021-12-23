@@ -44,8 +44,5 @@
 ## Architecture
 
 https://martinfowler.com/articles/scaling-architecture-conversationally.html
-1. A thinking and recording tool: **Decision Records**
-2. A time and place for conversations: **The Architecture Advisory Forum**
-3. </>
-4. </>
+
 
