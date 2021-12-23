@@ -12,9 +12,9 @@
   * https://github.com/authzed
   * https://github.com/ory
 
-
-* https://github.com/argoproj/argo-cd/
-
+* https://www.gitops.tech/ 
+* https://opengitops.dev/blog/1.0-announcement
+  * https://github.com/argoproj/argo-cd/
 
 * https://opentelemetry.io/
   * DataDog 
