@@ -34,7 +34,7 @@
 ## Open Source
 
 * https://github.com/hofstadter-io
-* https://backstage.io/docs/auth/ 
+* https://backstage.io/
 * https://github.com/authzed
 * https://github.com/ory
 * https://github.com/argoproj/argo-cd/
