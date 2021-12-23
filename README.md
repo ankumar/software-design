@@ -26,11 +26,6 @@
 * [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 * [Building](https://brickschema.org/get-started/)
 
-## API
-
-* https://graphql.stepzen.com/
-* https://hopper.wundergraph.com/
-
 ## Open Source
 
 * https://github.com/hofstadter-io
