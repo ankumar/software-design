@@ -41,8 +41,6 @@
     * https://github.com/SigNoz/signoz
 * https://artillery.io/
 
-## Things 
-
 ## Architecture
 
 https://martinfowler.com/articles/scaling-architecture-conversationally.html
