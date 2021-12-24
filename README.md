@@ -8,10 +8,9 @@
 -- https://notes.ceilfors.com/Open_software_design.html
 
 ## Learning
-* [Auth0](https://learn.sandcastle.cloud/)
-* [Authzed](https://play.authzed.com/schema)
-* [Metadata](https://sandbox.open-metadata.org/) & [DataHub](https://demo.datahubproject.io/)
-* [Buildings](https://brickschema.org/get-started/) & [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+* [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema)
+* [Metadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
+* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 
 ## Artefacts
 
