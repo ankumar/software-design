@@ -14,7 +14,7 @@
 * [DataHub](https://demo.datahubproject.io/)
 * [Buildings](https://brickschema.org/get-started/) & [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 
-## Open software design
+## Stack
 
 - Architecture (Private)
   - Decision Records
