@@ -17,6 +17,10 @@
 * [The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned.](https://twitter.com/adrianco/status/1466463836349763585)
 * [Software works at scale when it’s as simple as possible. Every click is friction. Every new mental model is friction. Every component of pricing is friction. Every question of trust or security is friction. Whatever you choose to build, the simplest software usually wins.](https://twitter.com/levie/status/1474155830777843712)
 
+## Architecture
+
+https://martinfowler.com/articles/scaling-architecture-conversationally.html
+
 ## Sandbox
 
 * [Cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
@@ -26,9 +30,3 @@
 * [DataHub](https://demo.datahubproject.io/)
 * [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 * [Building](https://brickschema.org/get-started/)
-
-## Architecture
-
-https://martinfowler.com/articles/scaling-architecture-conversationally.html
-
-
