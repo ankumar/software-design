@@ -11,10 +11,6 @@
 * [Metadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
 
-## Thinking
-* [Time difference & Flow?](https://www.timeanddate.com/worldclock/full.html)
-* [Building & Operating - Dev + Ops + Security + Cost Insights - It’s been 13 years since “you build it, you run it.” Did it deliver on its promises?](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it)
-
 ## Artefacts
 
 - Architecture (Private)
