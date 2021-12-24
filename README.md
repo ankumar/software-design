@@ -15,6 +15,7 @@
 * [I hope @cue_lang gains more popularity this year. It's been the correct fit for so many new greenfield projects lately.](https://twitter.com/rakyll/status/1473198774914748417)
 * [At the end of the day there wasn't one way to DevOps. The only real requirement was to be intentional about your engineering culture and continuously work to improve it.](https://twitter.com/kelseyhightower/status/1473370398498693120)
 * [The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned.](https://twitter.com/adrianco/status/1466463836349763585)
+* [Software works at scale when it’s as simple as possible. Every click is friction. Every new mental model is friction. Every component of pricing is friction. Every question of trust or security is friction. Whatever you choose to build, the simplest software usually wins.](https://twitter.com/levie/status/1474155830777843712)
 
 ## Sandbox
 
