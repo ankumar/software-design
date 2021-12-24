@@ -5,17 +5,13 @@
 > Open software design is the idea that software design must be available for public use. It's the idea that we should Work with the garage door up. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-## Inner Source
-
-["Distributed & Remote", Time difference & Flow?](https://www.timeanddate.com/worldclock/full.html)
-
-[Building & Operating - Dev + Ops + Security + Cost Insights - It’s been 13 years since “you build it, you run it.” Did it deliver on its promises?](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it)
-
 ## Learning
 * [Prisma](https://www.prisma.io/dataplatform), [Hofstadter](https://www.hofstadter.io/)
 * [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema), [Ory](https://www.ory.sh/), [Cerbos](https://cerbos.dev/)
 * [Metadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
+* ["Distributed & Remote", Time difference & Flow?](https://www.timeanddate.com/worldclock/full.html)
+* [Building & Operating - Dev + Ops + Security + Cost Insights - It’s been 13 years since “you build it, you run it.” Did it deliver on its promises?](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it)
 
 ## Artefacts
 
