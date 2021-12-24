@@ -7,8 +7,7 @@
 
 -- https://notes.ceilfors.com/Open_software_design.html
 
-## Designs
-
+## Artefacts
 * [Auth0](https://learn.sandcastle.cloud/)
 * [Authzed](https://play.authzed.com/schema)
 * [Metadata](https://sandbox.open-metadata.org/)
@@ -16,7 +15,6 @@
 * [Buildings](https://brickschema.org/get-started/) & [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 
 ## Stack
-
 - Architecture (Private)
   - Decision Records
   - Tech Radar
