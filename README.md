@@ -19,7 +19,7 @@
 
 ## Architecture
 
-https://martinfowler.com/articles/scaling-architecture-conversationally.html
+[Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
 ## Sandbox
 
