@@ -13,4 +13,4 @@
 * [Metadata](https://sandbox.open-metadata.org/)
 * [DataHub](https://demo.datahubproject.io/)
 * [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
-* [Building](https://brickschema.org/get-started/)
+* [Buildings](https://brickschema.org/get-started/)
