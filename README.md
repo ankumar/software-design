@@ -11,7 +11,7 @@
 * [Prisma](https://www.prisma.io/dataplatform), [Hofstadter](https://www.hofstadter.io/)
 * [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema), [Ory](https://www.ory.sh/), [Cerbos](https://cerbos.dev/)
 * [Metadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
-* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
 
 ## Artefacts
 
