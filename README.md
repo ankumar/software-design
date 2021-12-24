@@ -35,6 +35,7 @@
   - [Azure](https://azure.microsoft.com/)
  - Open Source (Public)
    - [Backstage](https://github.com/backstage/backstage)
+     - Cost Insights  
    - [Artillery](https://github.com/artilleryio) 
    - [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
