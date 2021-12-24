@@ -12,5 +12,43 @@
 * [Authzed](https://play.authzed.com/schema)
 * [Metadata](https://sandbox.open-metadata.org/)
 * [DataHub](https://demo.datahubproject.io/)
-* [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
-* [Buildings](https://brickschema.org/get-started/)
+* [Buildings](https://brickschema.org/get-started/) & [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+
+## Open software design
+
+- Architecture (Private)
+  - Decision Records
+  - Tech Radar
+  - C4 Model
+- Design System (Private) 
+   - Atrius 
+- Code (Private)
+  - Style Guides  
+  - Tech Docs
+  - Tests
+- SaaS (Public) 
+  - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
+  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
+  - [Miro](https://miro.com/)
+  - [DATADOG](https://www.datadoghq.com/)
+  - [Striim](https://www.striim.com/)
+  - [Aqua](https://www.aquasec.com/)
+  - [Google Cloud](https://cloud.google.com/)
+  - [Azure](https://azure.microsoft.com/)
+ - Open Source (Public)
+   - [Backstage](https://github.com/backstage/backstage)
+   - [Artillery](https://github.com/artilleryio) 
+   - [Playwright](https://github.com/microsoft/playwright)
+   - [Argo CD](https://github.com/argoproj/argo-cd/)
+   - [Temporal](https://github.com/temporalio/temporal)
+
+Sharing Threads from internal channels on Microsoft Teams
+
+> [12/16 10:27 AM] Quinn, Henry
+>
+> Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
+> I've been following this guy for a while as he's been very vocal about learning in public and helped push a lot of folks (including myself) to tackle fun projects to learn new technologies while teaching others. I was very excited to see he joined Temporal! https://www.swyx.io/why-temporal/
+
+>> [12/16 11:40 AM] Voils, Steven M
+>> 
+>> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
