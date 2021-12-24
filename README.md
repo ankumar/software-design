@@ -7,7 +7,6 @@
 
 ## Sandbox
 
-* [Cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
 * [Auth0](https://learn.sandcastle.cloud/)
 * [Authzed](https://play.authzed.com/schema)
 * [Metadata](https://sandbox.open-metadata.org/)
