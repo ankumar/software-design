@@ -10,7 +10,9 @@
 * [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema), [Ory](https://www.ory.sh/), [Cerbos](https://cerbos.dev/)
 * [Metadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
-* ["Distributed & Remote", Time difference & Flow?](https://www.timeanddate.com/worldclock/full.html)
+
+## Thinking
+* [Time difference & Flow?](https://www.timeanddate.com/worldclock/full.html)
 * [Building & Operating - Dev + Ops + Security + Cost Insights - It’s been 13 years since “you build it, you run it.” Did it deliver on its promises?](https://www.atlassian.com/incident-management/devops/you-built-it-you-run-it)
 
 ## Artefacts
