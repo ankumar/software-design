@@ -5,12 +5,6 @@
 
 -- https://notes.ceilfors.com/Open_software_design.html
 
-
-
-## Architecture
-
-[Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
-
 ## Sandbox
 
 * [Cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
