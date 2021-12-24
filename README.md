@@ -7,7 +7,7 @@
 
 -- https://notes.ceilfors.com/Open_software_design.html
 
-## Sandbox
+## Designs
 
 * [Auth0](https://learn.sandcastle.cloud/)
 * [Authzed](https://play.authzed.com/schema)
