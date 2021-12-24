@@ -37,8 +37,7 @@
  - Open Source (Public)
    - [Backstage](https://github.com/backstage/backstage)
      - Cloud Cost Insights  
-   - [Artillery](https://github.com/artilleryio) 
-   - [Playwright](https://github.com/microsoft/playwright)
+   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
 
