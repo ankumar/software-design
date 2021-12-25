@@ -17,9 +17,9 @@
   - Decision Records
   - Tech Radar
   - C4 Model
+- Agile Applications - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports,  
 - Design System (Private) 
    - Atrius - https://atrius.com/
-   - Agile Applications - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports,  
 - Code (Private)
   - Style Guides  
   - Tech Docs
