@@ -19,7 +19,7 @@
   - C4 Model
 - Design System (Private) 
    - Atrius - https://atrius.com/
-   - Agile Applications - WIP
+   - Agile Applications - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports,  
 - Code (Private)
   - Style Guides  
   - Tech Docs
