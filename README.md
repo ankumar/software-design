@@ -39,7 +39,7 @@
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
-   - [Prisma]()https://www.prisma.io/ - (https://github.com/tufan-io/noun_and_verb)
+   - [Prisma](https://www.prisma.io/) - https://github.com/tufan-io/noun_and_verb
 
 Sharing Threads from internal channels on Microsoft Teams
 
