@@ -24,7 +24,7 @@
   - Style Guides  
   - Tech Docs
   - Tests
-- SaaS (Public) 
+- SaaS 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
   - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
   - [Miro](https://miro.com/)
@@ -33,7 +33,7 @@
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud](https://cloud.google.com/)
   - [Azure](https://azure.microsoft.com/)
- - Open Source (Public)
+ - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
      - Cloud Cost Insights  
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
