@@ -46,6 +46,8 @@
 
 ## Developers
 
+[Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
+
 Sharing few Threads on Microsoft Teams internal channels:
 
 > [12/16 10:27 AM] Quinn, Henry
