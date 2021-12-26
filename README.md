@@ -34,7 +34,7 @@
   - [Striim](https://www.striim.com/)
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
-  - [Azure](https://azure.microsoft.com/)
+  - [Azure - Compute & Databases](https://azure.microsoft.com/)
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
      - Cloud Cost Insights  
