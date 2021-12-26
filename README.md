@@ -40,10 +40,13 @@
      - Cloud Cost Insights  
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
-   - [Temporal](https://github.com/temporalio/temporal)
    - [Prisma](https://www.prisma.io/) - https://github.com/tufan-io/noun_and_verb
+   - [Temporal](https://github.com/temporalio/temporal)
 
-Sharing Threads from internal channels on Microsoft Teams
+
+## Developers
+
+Sharing Threads from internal channels on Microsoft Teams:
 
 > [12/16 10:27 AM] Quinn, Henry
 >
