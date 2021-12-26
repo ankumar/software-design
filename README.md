@@ -46,7 +46,7 @@
 
 ## Developers
 
-Sharing few Threads from internal channels on Microsoft Teams:
+Sharing few Threads on Microsoft Teams internal channels:
 
 > [12/16 10:27 AM] Quinn, Henry
 >
