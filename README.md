@@ -33,7 +33,7 @@
   - [DATADOG](https://www.datadoghq.com/)
   - [Striim](https://www.striim.com/)
   - [Aqua](https://www.aquasec.com/)
-  - [Google Cloud](https://cloud.google.com/)
+  - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure](https://azure.microsoft.com/)
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
