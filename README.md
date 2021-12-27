@@ -10,12 +10,12 @@
 ## Artefacts
 
 - Architecture (Private)
+  - **"Agile"** Applications Suite - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
+  - Atrius - https://atrius.com/  
   - Decision Records
   - Tech Radar
   - C4 Model
-- Rewrite Agile Applications - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports,  
-- Design System (Private) 
-   - Atrius - https://atrius.com/
+- Design System (Private)
 - Code (Private)
   - Style Guides  
   - Tech Docs
