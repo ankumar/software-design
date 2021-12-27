@@ -10,8 +10,8 @@
 ## Artefacts
 
 - Architecture (Private)
-  - **"Agile"** Applications Suite - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
-  - Atrius - https://atrius.com/  
+  - ["Agile"](https://agile.acuitybrandslighting.net/) Applications Suite - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
+  - [Atrius](https://atrius.com/)  
   - Decision Records
   - Tech Radar
   - C4 Model
