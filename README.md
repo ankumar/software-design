@@ -12,9 +12,11 @@
 
 ## Artefacts
 
-- Architecture (Private)
+- Products
   - ["Agile"](https://agile.acuitybrandslighting.net/) Applications Suite - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
-  - [Atrius](https://atrius.com/)  
+  - [Atrius](https://atrius.com/) 
+
+- Architecture (Private) 
   - Decision Records
   - Tech Radar
   - C4 Model
@@ -23,6 +25,7 @@
   - Style Guides  
   - Tech Docs
   - Tests
+
 - SaaS / Provider / Component / Cloud 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
   - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
@@ -32,6 +35,7 @@
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
+ 
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
      - Cloud Cost Insights  
