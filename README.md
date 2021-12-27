@@ -13,7 +13,8 @@
 ## Artefacts
 
 - Products
-  - ["Agile"](https://agile.acuitybrandslighting.net/) Applications Suite - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
+  - ["Agile"](https://agile.acuitybrandslighting.net/) Applications Suite 
+    - Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius](https://atrius.com/) 
 
 - Architecture (Private) 
