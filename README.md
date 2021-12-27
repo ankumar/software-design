@@ -7,6 +7,9 @@
 
 - https://upmo.com/dev/ 
 
+
+- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
+
 ## Artefacts
 
 - Architecture (Private)
