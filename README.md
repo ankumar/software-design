@@ -54,7 +54,7 @@ Sharing few Threads on Microsoft Teams internal channels:
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
 
 ## Learning
-* [Retool](https://retool.com/), [Prisma](https://www.prisma.io/dataplatform), [Hofstadter](https://www.hofstadter.io/) 
+* [Retool](https://retool.com/), [Prisma](https://github.com/prisma), [Hofstadter](https://github.com/hofstadter-io) 
 * [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema), [Ory](https://www.ory.sh/), [Cerbos](https://cerbos.dev/)
 * [OpenMetadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
