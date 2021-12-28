@@ -42,8 +42,10 @@
      - Cloud Cost Insights  
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
-   - [Prisma](https://www.prisma.io/) - https://github.com/tufan-io/noun_and_verb
    - [Temporal](https://github.com/temporalio/temporal)
+ 
+ - Startups & Collaboration
+   - [Prisma](https://www.prisma.io/) - https://github.com/tufan-io/noun_and_verb 
 
 
 ## Developers - Sharing people & of stories
