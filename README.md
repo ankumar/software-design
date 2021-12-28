@@ -13,9 +13,9 @@
 ## Artefacts
 
 - Products
-  - ["Agile" Commerce Platform](https://agile.acuitybrandslighting.net/) 
+  - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
-  - [Atrius](https://atrius.com/) 
+  - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
 - Architecture (Private) 
   - Decision Records
