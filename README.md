@@ -45,7 +45,7 @@
    - [Temporal](https://github.com/temporalio/temporal)
  
  - Startups & Collaboration
-   - [Prisma](https://www.prisma.io/) - https://github.com/tufan-io/noun_and_verb 
+   - https://github.com/tufan-io/noun_and_verb 
 
 
 ## Developers - Sharing people & of stories
