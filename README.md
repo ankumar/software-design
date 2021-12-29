@@ -52,6 +52,8 @@ Few Threads on Microsoft Teams internal channels:
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
+
+- [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
  
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
@@ -59,9 +61,6 @@ Few Threads on Microsoft Teams internal channels:
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
- 
- - [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
-
- - [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+   - [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 
 
