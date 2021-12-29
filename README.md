@@ -61,6 +61,11 @@ Few Threads on Microsoft Teams internal channels:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-### Learn
+### Tools
 * [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+
+### Operations
+
+* [SRE with Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox)
+
