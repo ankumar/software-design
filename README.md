@@ -24,11 +24,7 @@ Few Threads on Microsoft Teams internal channels:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-### Build
-* [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
-* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
-
-## artifacts
+### Artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
