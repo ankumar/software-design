@@ -9,6 +9,25 @@
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox)
 
+## Developers - Sharing people & of stories
+
+Few Threads on Microsoft Teams internal channels:
+
+> [12/16 10:27 AM] Quinn, Henry
+>
+> Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
+> I've been following this guy for a while as he's been very vocal about learning in public and helped push a lot of folks (including myself) to tackle fun projects to learn new technologies while teaching others. I was very excited to see he joined Temporal! https://www.swyx.io/why-temporal/
+
+>> [12/16 11:40 AM] Voils, Steven M
+>> 
+>> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
+
+- More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
+
+### Build
+* [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
+* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
+
 ## artifacts
 
 - Products
@@ -45,27 +64,6 @@
  
  - Startups & Collaboration
    - https://github.com/tufan-io/noun_and_verb 
-
-
-## Developers - Sharing people & of stories
-
-Few Threads on Microsoft Teams internal channels:
-
-> [12/16 10:27 AM] Quinn, Henry
->
-> Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
-> I've been following this guy for a while as he's been very vocal about learning in public and helped push a lot of folks (including myself) to tackle fun projects to learn new technologies while teaching others. I was very excited to see he joined Temporal! https://www.swyx.io/why-temporal/
-
->> [12/16 11:40 AM] Voils, Steven M
->> 
->> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
-
-- More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
-
-### Build
-* [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
-* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
-
 
 
 
