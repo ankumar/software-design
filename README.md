@@ -8,9 +8,7 @@
 - Spaces:
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox)
-  - Startups & Collaboration
-    - https://github.com/tufan-io/noun_and_verb 
-
+    
 ## Developers - Sharing people & stories
 
 Few Threads on Microsoft Teams internal channels:
@@ -55,6 +53,7 @@ Few Threads on Microsoft Teams internal channels:
   - [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
  
  - Open Source 
+   - https://github.com/tufan-io/noun_and_verb 
    - [Backstage](https://github.com/backstage/backstage)
      - Cloud Cost Insights  
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
