@@ -21,10 +21,15 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
 
 * Database / Warehouse:
   * https://www.firebolt.io/resources/cloud-data-warehouse-comparison
+
 * Wrangling:
   * https://www.getdbt.com/
+
+* [Smart Data Models](https://smartdatamodels.org/)
+
 * Metadata:
   * </>
+
 * Private data:
 > Organizations have vast amounts of confidential data locked down due to privacy concerns. Opaque Systems makes confidential data useful by enabling secure analytics and machine learning on encrypted data that comes from one or more sources.
 With Opaque Systems, organizations can analyze encrypted data in the cloud using popular tools like Apache Spark, while ensuring that their data is never exposed unencrypted to the cloud provider. -- https://opaque.co/
