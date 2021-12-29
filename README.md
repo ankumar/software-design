@@ -8,7 +8,7 @@
 - Public Spaces:
   - https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
 
-## Artefacts
+## artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
