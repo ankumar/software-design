@@ -5,7 +5,7 @@
 > Open software design is the idea that software design must be available for public use. It's the idea that we should Work with the garage door up. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-- Public Spaces:
+- Spaces:
   - https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
 
 ## artifacts
