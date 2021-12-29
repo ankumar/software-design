@@ -9,7 +9,7 @@
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox)
 
-## Developers - Sharing people & of stories
+## Developers - Sharing people & stories
 
 Few Threads on Microsoft Teams internal channels:
 
