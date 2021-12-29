@@ -6,7 +6,7 @@
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
 - Spaces:
-  - https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
+  - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox)
 
 ## artifacts
