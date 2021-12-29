@@ -61,5 +61,8 @@ Few Threads on Microsoft Teams internal channels:
  - Startups & Collaboration
    - https://github.com/tufan-io/noun_and_verb 
 
+ - [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
+
+ - [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
 
 
