@@ -62,7 +62,5 @@ Few Threads on Microsoft Teams internal channels:
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
 ### Learn
-* [Retool](https://retool.com/), [Prisma](https://github.com/prisma), [Hofstadter](https://github.com/hofstadter-io) 
-* [Auth0](https://learn.sandcastle.cloud/), [Authzed](https://play.authzed.com/schema), [Ory](https://www.ory.sh/), [Cerbos](https://cerbos.dev/)
-* [OpenMetadata](https://sandbox.open-metadata.org/), [DataHub](https://demo.datahubproject.io/)
+* [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
 * [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
