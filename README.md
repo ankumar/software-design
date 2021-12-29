@@ -63,4 +63,4 @@ Few Threads on Microsoft Teams internal channels:
 
 ### Learn
 * [Retool](https://retool.com/), [Prisma](https://github.com/prisma)
-* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation), [Smart Data Models](https://smartdatamodels.org/)
+* [Buildings](https://brickschema.org/get-started/), [Energy](https://energy-models.com/what-is-energy-modeling-building-simulation)
