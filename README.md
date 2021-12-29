@@ -52,8 +52,7 @@ Few Threads on Microsoft Teams internal channels:
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
-
-- [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
+  - [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
  
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage)
