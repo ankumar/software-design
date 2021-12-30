@@ -26,6 +26,7 @@ Microsoft Teams Private internal channels, Few Threads:
 Startups & Collaboration:
 
 - https://github.com/tufan-io/noun_and_verb 
+- https://chaya.ai/ (Private, Open Source soon!)
 
 **Stay Tuned** </>
 
