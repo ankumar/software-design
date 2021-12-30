@@ -31,7 +31,7 @@ Open Source:
 
 ---
 
-## Artifacts
+## Acuity Brands Next, Artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
