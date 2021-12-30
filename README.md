@@ -23,7 +23,7 @@ Private - Microsoft Teams  internal channels, Few Threads:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-Startups & Collaboration:
+Public - Startups & Collaboration:
 
 - https://github.com/tufan-io/noun_and_verb 
 - https://chaya.ai/ (Private, Open Source soon!)
