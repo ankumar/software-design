@@ -23,7 +23,7 @@ Microsoft Teams Private internal channels, Few Threads:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-Open Source:
+Startups & Collaboration:
 
 - https://github.com/tufan-io/noun_and_verb 
 
