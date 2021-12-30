@@ -29,7 +29,9 @@ Open Source:
 
 **Stay Tuned**
 
-### Artifacts
+---
+
+## Artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
