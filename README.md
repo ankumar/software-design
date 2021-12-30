@@ -27,7 +27,7 @@ Open Source:
 
 - https://github.com/tufan-io/noun_and_verb 
 
-**Stay Tuned**
+**Stay Tuned** </>
 
 ---
 
