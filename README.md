@@ -53,8 +53,10 @@ Few Threads on Microsoft Teams internal channels:
  
  - Open Source 
    - https://github.com/tufan-io/noun_and_verb 
-   - [Backstage](https://github.com/backstage/backstage)
-     - Cloud Cost Insights  
+   - [Backstage](https://github.com/backstage/backstage) Create/Manage/Explore
+     - Create Components: APIs, Docs, Tests, ...
+     - Explore: Decision Records, Radar, Registry, ...
+     - Manage: Cloud Cost Insights, ...
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
