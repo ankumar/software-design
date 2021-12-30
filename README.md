@@ -59,6 +59,6 @@ Few Threads on Microsoft Teams internal channels:
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
-   - [Buildings](https://brickschema.org/get-started/)
+   
 
 
