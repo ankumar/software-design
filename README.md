@@ -10,7 +10,7 @@
     
 ## Developers - Sharing people & stories
 
-Microsoft Teams Private internal channels, Few Threads:
+Private - Microsoft Teams  internal channels, Few Threads:
 
 > [12/16 10:27 AM] Quinn, Henry
 >
