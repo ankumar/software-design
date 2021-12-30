@@ -32,6 +32,8 @@ Public - Startups & Collaboration:
 
 ---
 
+## Tech Stack
+
 ### Acuity Brands Next, Artifacts
 
 - Products
@@ -69,5 +71,7 @@ Public - Startups & Collaboration:
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
    
+## 
 
+1. [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
