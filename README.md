@@ -32,7 +32,7 @@ Public - Startups & Collaboration:
 
 ---
 
-## Tech Stack
+## Tech Stacks
 
 ### Acuity Brands Next, Artifacts
 
@@ -73,5 +73,6 @@ Public - Startups & Collaboration:
    
 ## 
 
+https://stackshare.io/stacks
 1. [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
