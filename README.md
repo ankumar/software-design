@@ -26,9 +26,9 @@ Behind firewall - Microsoft Teams internal channels, Few Threads:
 Public - Startups & Collaboration:
 
 - https://github.com/tufan-io/noun_and_verb 
-- https://chaya.ai/ (Private, Open Source soon!)
+  - Sample Apps: </>
 
-**Stay Tuned** </>
+- https://chaya.ai/ (Private, Open Source soon!)
 
 ---
 
