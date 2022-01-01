@@ -16,7 +16,7 @@
 
 ### Behind firewall
 
-Acuity Brands Next, Artifacts:
+[AcuityBrands Next](https://www.acuitybrands.com/), Artifacts:
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
