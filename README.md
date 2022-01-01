@@ -9,11 +9,11 @@ Networked, super-amplifier?
   - IoT <-> +\[AWS, Azure, GCP\]
   - SpaceX/STARLINK <-> +GCP
 
-- Open About
+- Open About:
   - [Sourcegraph](https://about.sourcegraph.com/about/)
   - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 
-- Open Tech
+- Open Tech:
   - [Scaling Open Culture](https://opensource.zalando.com/)
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
