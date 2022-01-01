@@ -4,7 +4,8 @@ Networked, super-amplifier?
   - Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
   - Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
   - Shopify, Twitter <-> GCP
-  - .............
+     .............
+     .............
   - "Edge", IoT <-> [AWS, Azure, GCP]
   - SpaceX/STARLINK <-> GCP
 
