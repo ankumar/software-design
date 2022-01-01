@@ -1,12 +1,16 @@
 Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
+- Open About
+  - [Sourcegraph](https://about.sourcegraph.com/about/)
+  - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 
-- [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
-- [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
-- [Tech Stacks](https://stackshare.io/stacks)
-1. [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
-2. [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
-3. [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
+- Open Technology
+  - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
+  - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
+  - [Tech Stacks](https://stackshare.io/stacks)
+    - [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
+    - [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+    - [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
 # Open software design
 
