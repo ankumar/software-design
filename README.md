@@ -7,6 +7,13 @@
 
 - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
 - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
+- Tech Stacks
+
+https://stackshare.io/stacks
+
+1. [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
+2. [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+3. [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
     
 ## Developers - Sharing people & stories
 
@@ -68,13 +75,5 @@ Acuity Brands Next, Artifacts:
 
 - https://chaya.ai/ (Private, Open Source soon!)
 
----
 
-## Tech Stacks
-
-https://stackshare.io/stacks
-
-1. [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
-2. [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
-3. [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
