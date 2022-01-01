@@ -1,8 +1,8 @@
 ## TLDR
 
-References & Evolving Context, Exponential growth of Nodes/Edges:
+References & Evolving Context, Exponential growth of Nodes/Edges - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-1. **Connected:** - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+1. **Connected:**
 - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
