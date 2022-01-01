@@ -61,7 +61,7 @@ Acuity Brands Next, Artifacts:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-### Public - Startups & Collaboration:
+### Public, Startups & Collaboration
 
 - https://github.com/tufan-io/noun_and_verb 
   - Sample Apps: </>
