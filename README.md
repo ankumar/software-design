@@ -74,5 +74,8 @@ Public - Startups & Collaboration:
 ## 
 
 https://stackshare.io/stacks
-1. [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
+
+1. [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
+2. [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+3. [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
