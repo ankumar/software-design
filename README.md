@@ -4,7 +4,7 @@ Open collaboration is "any system of innovation or production that relies on goa
   - [Sourcegraph](https://about.sourcegraph.com/about/)
   - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 
-- Open Technology
+- Open Tech
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
   - [Tech Stacks](https://stackshare.io/stacks)
