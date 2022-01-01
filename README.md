@@ -1,6 +1,6 @@
 Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
-- Networked, super-amplifier?
+Networked, super-amplifier?
   - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
   - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
   - Shopify, Twitter <-> +GCP
