@@ -22,12 +22,12 @@
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture (Private) 
+- Architecture 
   - Decision Records
   - Tech Radar
   - C4 Model
-- Design System (Private)
-- Code (Private)
+- Design System 
+- Code 
   - Style Guides  
   - Tech Docs
   - Tests
