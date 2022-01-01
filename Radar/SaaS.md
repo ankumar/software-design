@@ -64,10 +64,6 @@
 
 - **Patterns:**
   - Applications: OnPrem (Private Infra) -> SaaS? - [Oracle Cloud Applications](https://docs.oracle.com/en/cloud/saas/index.html) | 
-  - Tech Stack:
-    - https://stackshare.io
-    - https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c
-    - https://about.gitlab.com/handbook/business-technology/tech-stack/
   - Boost:
     - https://jonmeyers.io/series/build-a-saas-platform-with-next-js-prisma-auth0-and-stripe  
     - https://bedrock.mxstbr.com/
