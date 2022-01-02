@@ -13,9 +13,8 @@ Humans are hard-wired for collaboration, and new technologies of communication a
   
 Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
-Let's super-amplify...
+Let's super-amplify... Open Business & Technology:
 
-- Open Business & Tech:
   - [Sourcegraph](https://about.sourcegraph.com/about/)
   - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   - [Scaling Open Culture](https://opensource.zalando.com/)
