@@ -1,13 +1,13 @@
 Network Interconnections:
 - Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
-  - Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
-  - Shopify, Twitter <-> GCP
+- Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
+- Shopify, Twitter <-> GCP
 
      .............
 
      .............
-  - "Edge", IoT <-> [AWS, Azure, GCP]
-  - SpaceX/STARLINK <-> GCP
+- "Edge", IoT <-> [AWS, Azure, GCP]
+- SpaceX/STARLINK <-> GCP
 
 Humans are hard-wired for collaboration, and new technologies of communication act as a super-amplifier of our natural collaborative mindset. This new collaborative society might be characterized as a series of services and startups that enable peer-to-peer exchanges and interactions though technology. Some believe that the economic aspects of the new collaboration have the potential to make society more equitable; others see collaborative communities based on sharing as a cover for social injustice and user exploitation. -- [Collaborative Society](https://books.google.com/books?id=yLDMDwAAQBAJ). 
   
