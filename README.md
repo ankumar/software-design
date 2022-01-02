@@ -1,7 +1,5 @@
-Humans are hard-wired for collaboration, and new technologies of communication act as a super-amplifier of our natural collaborative mindset. This new collaborative society might be characterized as a series of services and startups that enable peer-to-peer exchanges and interactions though technology. Some believe that the economic aspects of the new collaboration have the potential to make society more equitable; others see collaborative communities based on sharing as a cover for social injustice and user exploitation. -- [Collaborative Society](https://books.google.com/books?id=yLDMDwAAQBAJ). 
-
-Networked, super-amplifier?
-  - Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
+Networked:
+- Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
   - Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
   - Shopify, Twitter <-> GCP
 
@@ -11,13 +9,15 @@ Networked, super-amplifier?
   - "Edge", IoT <-> [AWS, Azure, GCP]
   - SpaceX/STARLINK <-> GCP
 
+Humans are hard-wired for collaboration, and new technologies of communication act as a super-amplifier of our natural collaborative mindset. This new collaborative society might be characterized as a series of services and startups that enable peer-to-peer exchanges and interactions though technology. Some believe that the economic aspects of the new collaboration have the potential to make society more equitable; others see collaborative communities based on sharing as a cover for social injustice and user exploitation. -- [Collaborative Society](https://books.google.com/books?id=yLDMDwAAQBAJ). 
+  
 Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
-- Open About:
+Let's super-amplify...
+
+- Open Business & Tech:
   - [Sourcegraph](https://about.sourcegraph.com/about/)
   - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
-
-- Open Tech:
   - [Scaling Open Culture](https://opensource.zalando.com/)
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
