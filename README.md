@@ -26,14 +26,14 @@ Let's super-amplify...
   - [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
   - [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
-# Open software design
+## Open software design
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 >
 > Open software design is the idea that software design must be available for public use. It's the idea that we should Work with the garage door up. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-## Behind firewall
+### Behind firewall
 
 [AcuityBrands Next](https://www.acuitybrands.com/), Artifacts:
 - Products
@@ -86,7 +86,7 @@ Microsoft Teams internal channels, Few Threads:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-## Public, Startups & Collaboration
+### Public, Startups & Collaboration
 
 - https://github.com/tufan-io/noun_and_verb 
   - Sample Apps: </>
