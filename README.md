@@ -71,7 +71,9 @@ Let's super-amplify...
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
   
- Microsoft Teams internal channels, Few Threads:   
+Sharing people & few stories
+
+Microsoft Teams internal channels, Few Threads:   
    
 > [12/16 10:27 AM] Quinn, Henry
 >
