@@ -15,8 +15,7 @@ Open collaboration is "any system of innovation or production that relies on goa
 
 Let's super-amplify... Open Business & Technology:
 
-  - [Sourcegraph](https://about.sourcegraph.com/about/)
-  - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+  - [Sourcegraph](https://about.sourcegraph.com/about/) / [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public) / 
   - [Scaling Open Culture](https://opensource.zalando.com/)
   - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
   - [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
