@@ -30,7 +30,7 @@ Open collaboration is "any system of innovation or production that relies on goa
 > Open software design is the idea that software design must be available for public use. It's the idea that we should Work with the garage door up. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-### Behind firewall
+### Behind firewall - Sharing people & few stories
 
 [AcuityBrands Next](https://www.acuitybrands.com/), Artifacts:
 - Products
@@ -68,8 +68,6 @@ Open collaboration is "any system of innovation or production that relies on goa
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
   
-Sharing people & few stories
-
 Microsoft Teams internal channels, Few Threads:   
    
 > [12/16 10:27 AM] Quinn, Henry
