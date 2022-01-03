@@ -50,7 +50,6 @@
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
-  - [Retool](https://retool.com/), [Prisma](https://github.com/prisma) 
  
  - Open Source 
    - [Backstage](https://github.com/backstage/backstage) 
@@ -60,6 +59,8 @@
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
+   - [Retool](https://retool.com/)
+   - [Prisma](https://github.com/prisma) 
 
 
 
