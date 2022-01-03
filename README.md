@@ -1,17 +1,3 @@
-Humans are hard-wired for collaboration, and new technologies of communication act as a **super-amplifier** of our natural collaborative mindset. This new collaborative society might be characterized as a series of services and startups that enable peer-to-peer exchanges and interactions though technology. Some believe that the economic aspects of the new collaboration have the potential to make society more equitable; others see collaborative communities based on sharing as a cover for social injustice and user exploitation. -- [Collaborative Society](https://books.google.com/books?id=yLDMDwAAQBAJ). 
-
-Super-amplifier, Network Interconnections:
-- Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
-- Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
-- Shopify, Twitter <-> GCP
-     
-     .............
-     
-- "Edge", IoT <-> [AWS, Azure, GCP, ...]
-- SpaceX/STARLINK <-> GCP
-
-Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
-
 ## Open software design
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
