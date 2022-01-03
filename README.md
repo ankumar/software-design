@@ -11,8 +11,6 @@
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
 ### Behind firewall - Sharing People & few stories
-  
-Microsoft Teams internal channels:   
    
 > [12/16 10:27 AM] Quinn, Henry
 >
