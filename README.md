@@ -12,7 +12,7 @@
 
 ### Behind firewall - Sharing People & few stories
   
-Microsoft Teams internal channels, Few Threads:   
+Microsoft Teams internal channels:   
    
 > [12/16 10:27 AM] Quinn, Henry
 >
