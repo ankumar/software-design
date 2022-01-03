@@ -72,7 +72,7 @@ Microsoft Teams internal channels, Few Threads:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-### Public & Startups
+### Public - Startups & Collaboration
 
 - [Sourcegraph](https://about.sourcegraph.com/about/) / [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public) / 
 - [Scaling Open Culture](https://opensource.zalando.com/)
