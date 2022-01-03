@@ -72,10 +72,7 @@ Microsoft Teams internal channels, Few Threads:
 
 ### Public - Startups & Collaboration
 
-- https://github.com/tufan-io/noun_and_verb 
-  - Sample Apps: </>
 
-- https://chaya.ai/ (Private, Open Source soon!)
 
 
 
