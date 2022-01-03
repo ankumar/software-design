@@ -72,7 +72,7 @@ Microsoft Teams internal channels, Few Threads:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-### Public
+### Public & Startups
 
 - [Sourcegraph](https://about.sourcegraph.com/about/) / [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public) / 
 - [Scaling Open Culture](https://opensource.zalando.com/)
@@ -82,8 +82,6 @@ Microsoft Teams internal channels, Few Threads:
   - [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
   - [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
   - [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
-
- Startups & Collaboration:
 
 - https://github.com/tufan-io/noun_and_verb 
   - Sample Apps: </>
