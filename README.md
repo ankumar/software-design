@@ -56,11 +56,12 @@
      - **Explore:** Decision Records, Radar, Registry, ...
      - **Create Components:** APIs, Docs, Tests, ...
      - **Manage:** Cloud Cost Insights, ...
-   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-   - [Argo CD](https://github.com/argoproj/argo-cd/)
-   - [Temporal](https://github.com/temporalio/temporal)
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
      - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
+   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+   - [Argo CD](https://github.com/argoproj/argo-cd/)
+   - [Temporal](https://github.com/temporalio/temporal)
+   
 
 
