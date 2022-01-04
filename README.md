@@ -12,8 +12,6 @@
 
 ### Behind firewall - Sharing People & few stories
    
-> Life is lived in the windshield, not the rear-view mirror
->
 > Acuity’s Core Values are:
 > Integrity - We do the right thing, the first time, every time.   
 > Time - Time is the only constrained resource. We focus on what is most important.   
@@ -23,7 +21,8 @@
 > Community - We care about the environment and our neighbors.  We make communities better.   
 > Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.  
 >
-> Improve Say/Do Ratio 
+> Life is lived in the windshield, not the rear-view mirror / Improve Say/Do Ratio 
+
 -- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
    
 > [12/16 10:27 AM] Quinn, Henry
