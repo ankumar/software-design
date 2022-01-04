@@ -23,7 +23,7 @@
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-> Quarterly newsletter,  Relay API scale testing Going far, together – A tale of need, opportunity, and innovation
+> Quarterly newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
 ### Public - Startups & Collaboration
 
