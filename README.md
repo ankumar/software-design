@@ -12,6 +12,8 @@
 
 ### Behind firewall - Sharing People & few stories
    
+> Improve Say/Do Ratio
+   
 > [12/16 10:27 AM] Quinn, Henry
 >
 > Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
