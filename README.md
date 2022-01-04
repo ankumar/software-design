@@ -12,7 +12,7 @@
 
 ### Behind firewall - Opening Garage door, Sharing People & few stories
    
-Acuity’s Core Values are:
+[AcuityBrands Next](https://www.acuitybrands.com/), Core Values are:
 * Integrity - We do the right thing, the first time, every time.
 * Time - Time is the only constrained resource. We focus on what is most important.
 * Curiosity- We are always searching for a better way. We are willing and able to change.
@@ -44,7 +44,7 @@ Acuity’s Core Values are:
 > 
 ### Public - Startups & Collaboration
 
-[AcuityBrands Next](https://www.acuitybrands.com/), Artifacts:
+Artifacts:
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
