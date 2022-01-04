@@ -12,7 +12,7 @@
 
 ### Behind firewall - Opening Garage door
 
-[Evolution & Journeys are always fascinating from learning perspective, nice story - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & few stories
+[Evolution & Journeys are always fascinating from learning perspective, new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & few stories
    
 [AcuityBrands Next](https://www.acuitybrands.com/), Core Values are:
 * Integrity - We do the right thing, the first time, every time.
