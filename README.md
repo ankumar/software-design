@@ -49,7 +49,7 @@ Acuity’s Core Values are:
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture 
+- Architecture, [Build](https://github.com/ankumar/Open-software-design/wiki)
   - Decision Records
   - Tech Radar
   - C4 Model
