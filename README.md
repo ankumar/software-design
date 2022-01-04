@@ -37,7 +37,7 @@ Acuity’s Core Values are:
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 
-**Apps & Platform Team Collaboration:**
+**Product & Platform Team Collaboration:**
 
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
