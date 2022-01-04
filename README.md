@@ -12,7 +12,17 @@
 
 ### Behind firewall - Sharing People & few stories
    
-> Improve Say/Do Ratio -- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
+> Life is lived in the windshield, not the rear-view mirror
+Acuity’s Core Values are:
+Integrity - We do the right thing, the first time, every time.   
+Time - Time is the only constrained resource. We focus on what is most important.   
+Curiosity- We are always searching for a better way. We are willing and able to change.   
+Customer-obsessed – We see the world through the eyes of customers and end-users. We deliver on their needs.  
+People - We create the environment where the best people come to do their best work. We all succeed together.  
+Community - We care about the environment and our neighbors.  We make communities better.   
+Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.  
+> Improve Say/Do Ratio 
+-- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
    
 > [12/16 10:27 AM] Quinn, Henry
 >
