@@ -22,8 +22,10 @@ Acuity’s Core Values are:
 * Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.
 
 > Life is lived in the windshield, not the rear-view mirror / Improve Say/Do Ratio 
--- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
-   
+-- [Neil M. Ashe, Chairman, President & CEO](https://www.investors.acuitybrands.com/corporate)
+
+**Platform Team:**
+
 > [12/16 10:27 AM] Quinn, Henry
 >
 > Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
@@ -34,6 +36,8 @@ Acuity’s Core Values are:
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
 
 - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
+
+**App & Platform Teams Collaboration:**
 
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
