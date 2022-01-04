@@ -10,7 +10,7 @@
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
-### Behind firewall - Garage door partially open, Sharing People & few stories
+### Behind firewall - Opening Garage door, Sharing People & few stories
    
 Acuity’s Core Values are:
 * Integrity - We do the right thing, the first time, every time.
