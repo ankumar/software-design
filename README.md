@@ -21,6 +21,7 @@ Customer-obsessed – We see the world through the eyes of customers and e
 People - We create the environment where the best people come to do their best work. We all succeed together.  
 Community - We care about the environment and our neighbors.  We make communities better.   
 Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.  
+>
 > Improve Say/Do Ratio 
 -- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
    
