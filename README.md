@@ -73,6 +73,7 @@ Acuity’s Core Values are:
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
      - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
+     - https://github.com/tufan-io/noun_and_verb
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
