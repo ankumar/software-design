@@ -12,7 +12,7 @@
 
 ### Behind firewall - Sharing People & few stories
    
-> Improve Say/Do Ratio
+> Improve Say/Do Ratio -- [Neil M. Ashe](https://www.investors.acuitybrands.com/corporate)
    
 > [12/16 10:27 AM] Quinn, Henry
 >
