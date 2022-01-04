@@ -22,6 +22,7 @@ Acuity’s Core Values are:
 * Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.
 
 > Life is lived in the windshield, not the rear-view mirror / Improve Say/Do Ratio 
+
 -- [Neil M. Ashe, Chairman, President & CEO](https://www.investors.acuitybrands.com/corporate)
 
 **Platform Team:**
