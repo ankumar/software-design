@@ -10,7 +10,9 @@
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
-### Behind firewall - Opening Garage door, Sharing People & few stories
+### Behind firewall - Opening Garage door
+
+[Evolution & Journeys are always fascinating from learning perspective, nice story - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & few stories
    
 [AcuityBrands Next](https://www.acuitybrands.com/), Core Values are:
 * Integrity - We do the right thing, the first time, every time.
@@ -50,7 +52,7 @@ Artifacts:
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture, [Evolution & Journeys are always fascinating from learning perspective, nice story - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki)
+- Architecture
   - Decision Records
   - Tech Radar
   - C4 Model
