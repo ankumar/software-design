@@ -13,7 +13,7 @@
 ### Behind firewall - Sharing People & few stories
    
 > Life is lived in the windshield, not the rear-view mirror
-Acuity’s Core Values are:
+> Acuity’s Core Values are:
 Integrity - We do the right thing, the first time, every time.   
 Time - Time is the only constrained resource. We focus on what is most important.   
 Curiosity- We are always searching for a better way. We are willing and able to change.   
