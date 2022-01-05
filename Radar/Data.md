@@ -99,3 +99,7 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
 
   * https://sisudata.com/
   * https://www.anyscale.com/
+
+* Notebooks - https://code.visualstudio.com/blogs/2021/08/05/notebooks
+  * https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
+  * https://datalore.jetbrains.com/
