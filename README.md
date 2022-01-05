@@ -14,8 +14,6 @@
 
 [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & stories ...
 
-**Executive Team:**
-
 [AcuityBrands Next](https://www.acuitybrands.com/), Core Values are:
 * Integrity - We do the right thing, the first time, every time.
 * Time - Time is the only constrained resource. We focus on what is most important.
