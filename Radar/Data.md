@@ -103,3 +103,7 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
 * Notebooks - https://code.visualstudio.com/blogs/2021/08/05/notebooks
   * https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
   * https://datalore.jetbrains.com/
+  * https://docs.databricks.com/notebooks/index.html
+  * Vertex AI 
+  * Sagemaker 
+  * Azure Machine Learning Studio 
