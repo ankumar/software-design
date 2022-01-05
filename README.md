@@ -12,7 +12,7 @@
 
 ### Behind firewall - Opening Garage door
 
-[Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & few stories
+[Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & stories ...
 
 **Executive Team:**
 
