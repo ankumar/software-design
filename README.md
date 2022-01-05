@@ -84,5 +84,5 @@
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
    
-
+ - [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
 
