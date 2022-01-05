@@ -15,8 +15,6 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
   - https://github.com/opendatadiscovery/awesome-data-catalogs
   - https://github.com/quiltdata/quilt 
 
-Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
-
 --
 
 * Database / Warehouse:
@@ -64,3 +62,40 @@ CMU:
   * https://db.cs.cmu.edu/seminar2021-dose2/
 
 https://incidentdatabase.ai/
+
+---
+
+Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
+
+* MAD (Machine Learning, AI & Data) Crowded Landscape, 2021: https://mattturck.com/2021top10/ 
+* Linux Foundation Landscape https://landscape.lfai.foundation/ 
+
+* Databases, 2021: https://ottertune.com/blog/2021-databases-retrospective/
+
+* Dominance, Companies being built on top of As a Platform (Cloud - AWS, Azure & GCP)
+  * Snowflake
+  * Databricks
+
+* Growth of OSS:
+
+  * https://imply.io/
+  * https://vectorized.io/
+  * https://www.decodable.co/
+  * https://materialize.com/
+
+
+  * https://airbyte.com/
+  * https://www.getdbt.com/
+  * https://dagster.io/
+  * https://www.astronomer.io/
+  * https://www.prefect.io/
+  * https://chronosphere.io/
+
+  * https://greatexpectations.io/
+  * https://www.soda.io/
+
+  * https://datahubproject.io/ 
+  * https://open-metadata.org/
+
+  * https://sisudata.com/
+  * https://www.anyscale.com/
