@@ -70,7 +70,7 @@
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
  
- - Open Source 
+ - Open Source - [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
    - [Backstage](https://github.com/backstage/backstage) 
      - **Explore:** Decision Records, Radar, Registry, ...
      - **Create Components:** APIs, Docs, Tests, ...
@@ -84,5 +84,5 @@
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
    
- - [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
+ 
 
