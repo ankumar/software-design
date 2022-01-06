@@ -13,7 +13,6 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
   - https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
 
 - Open (Public?) Datasets Hub:
-  - https://github.com/opendatadiscovery/awesome-data-catalogs
   - https://github.com/quiltdata/quilt 
 
 --
@@ -24,10 +23,9 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 * Wrangling:
   * https://www.getdbt.com/
 
-* [Smart Data Models](https://smartdatamodels.org/)
-
 * Metadata:
-  * </>
+  * https://github.com/opendatadiscovery/awesome-data-catalogs
+  * [Smart Data Models](https://smartdatamodels.org/)
 
 * Private data:
 > Organizations have vast amounts of confidential data locked down due to privacy concerns. Opaque Systems makes confidential data useful by enabling secure analytics and machine learning on encrypted data that comes from one or more sources.
