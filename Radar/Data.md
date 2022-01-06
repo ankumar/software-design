@@ -67,6 +67,7 @@ https://incidentdatabase.ai/
 
 Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
 
+* https://rudderstack.com/blog/the-state-of-data-engineering-in-2022/
 * MAD (Machine Learning, AI & Data) Crowded Landscape, 2021: https://mattturck.com/2021top10/ 
 * Linux Foundation Landscape https://landscape.lfai.foundation/ 
 
