@@ -16,7 +16,7 @@
 
 -- [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki),
 
-### Behind firewall - Opening Garage door
+### Behind firewall 
 
 Sharing our people & stories ...
 
@@ -41,7 +41,7 @@ Sharing our people & stories ...
 
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
-### Public - Artifacts
+### Public - Opening Garage door, Artifacts
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
