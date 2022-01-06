@@ -16,7 +16,7 @@
 
 -- [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki),
 
-### Behind firewall - Sharing our people & stories ...
+### Behind firewall - Sharing people, influencing & stories ...
 
 > Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
 
