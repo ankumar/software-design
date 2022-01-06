@@ -10,9 +10,11 @@
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
+[Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki),
+
 ### Behind firewall - Opening Garage door
 
-[Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing our people & stories ...
+Sharing our people & stories ...
 
 > Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
 
