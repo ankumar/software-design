@@ -23,7 +23,7 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 * Wrangling:
   * https://www.getdbt.com/
 
-* Metadata:
+* Catalogs:
   * https://github.com/opendatadiscovery/awesome-data-catalogs
   * [Smart Data Models](https://smartdatamodels.org/)
 
