@@ -16,7 +16,7 @@
 
 > Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
 
--- [Neil M. Ashe, Chairman, President & CEO](https://www.investors.acuitybrands.com/corporate)
+-- [Neil M. Ashe, Chairman, President & CEO & Leadership Team](https://www.investors.acuitybrands.com/corporate)
 
 **Platform Team:**
 
