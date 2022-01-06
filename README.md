@@ -14,15 +14,6 @@
 
 [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki), Sharing People & stories ...
 
-[AcuityBrands Next](https://www.acuitybrands.com/), Core Values are:
-* Integrity - We do the right thing, the first time, every time.
-* Time - Time is the only constrained resource. We focus on what is most important.
-* Curiosity- We are always searching for a better way. We are willing and able to change.
-* Customer-obsessed – We see the world through the eyes of customers and end-users. We deliver on their needs.
-* People - We create the environment where the best people come to do their best work. We all succeed together.
-* Community - We care about the environment and our neighbors.  We make communities better.
-* Owner's mindset – We think and act like owners. We focus on long-term, sustainable value creation.
-
 > Life is lived in the windshield, not the rear-view mirror / Improve Say/Do Ratio 
 
 -- [Neil M. Ashe, Chairman, President & CEO](https://www.investors.acuitybrands.com/corporate)
