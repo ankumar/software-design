@@ -6,6 +6,8 @@
 
 > "the teams that produce data are decoupled from the downstream analytics and ML use cases. Likewise, the people dealing with analytics use cases are typically unaware of operational systems that produce the data" -- https://m.subbu.org/broken-state-of-data-4c8a8a30a0c3
 
+> "Towards Observability for Machine Learning Pipelines" -- https://arxiv.org/pdf/2108.13557.pdf
+
 Visualization of Data Science workflow https://docs.metaflow.org/introduction/why-metaflow
 
 - Citizen Data Science - https://future.a16z.com/solo-workers-software-stack/
