@@ -10,7 +10,9 @@
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
-> "Creating an Overnight Success" -- [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki),
+> "Creating an Overnight Success" 
+
+-- [Evolution & Journeys are always fascinating from learning perspective, writing new chapters - like all over night successes, 10+ years and 100s of man years of work!](https://github.com/ankumar/Open-software-design/wiki),
 
 ### Behind firewall - Opening Garage door
 
