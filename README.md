@@ -41,7 +41,7 @@ Sharing our people & stories ...
 
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
-### Public - Startups & Collaboration, Artifacts:
+### Public - Artifacts:
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
@@ -75,12 +75,12 @@ Sharing our people & stories ...
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
      - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
-     - https://github.com/tufan-io/noun_and_verb
-       - A first demo App: https://github.com/acuity-sr/nv-shopping-cart
    - [GraphQL](https://graphql.org/) 
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
+   - Startups & Collaboration:
+     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
    
  
 
