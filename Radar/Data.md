@@ -1,5 +1,7 @@
 ## Data
 
+> "Cloudy with High Chance of DBMS: A 10-year Prediction for Enterprise-Grade ML" -- http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf
+
 > "For the longest time, we fixated on cycles, making things work faster—the processors, CPUs, GPUs, and more parallel servers. We ignored the data part. Now we have to fixate on data." -- https://www.technologyreview.com/2021/10/27/1037134/data-science-challenges-trustworthy-ai/
 
 > "the teams that produce data are decoupled from the downstream analytics and ML use cases. Likewise, the people dealing with analytics use cases are typically unaware of operational systems that produce the data" -- https://m.subbu.org/broken-state-of-data-4c8a8a30a0c3
