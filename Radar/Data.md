@@ -10,8 +10,7 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 
 - Citizen Data Science - https://future.a16z.com/solo-workers-software-stack/
   - https://databricks.com/blog/2021/10/06/bringing-lakehouse-to-the-citizen-data-scientist-announcing-the-acquisition-of-8080-labs.html
-
-- https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
+  - https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
 
 - Open (Public?) Datasets Hub:
   - https://github.com/opendatadiscovery/awesome-data-catalogs
