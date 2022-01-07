@@ -12,7 +12,7 @@
 
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-### Behind firewall - connecting the dots
+### Behind firewall - Connecting the dots
   
 **Platform Team:**
 
