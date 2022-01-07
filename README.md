@@ -14,15 +14,15 @@
 
 ### Behind firewall - connecting the dots
 
+> Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
+
+-- [Neil M. Ashe, Chairman, President & CEO & Leadership Team](https://www.investors.acuitybrands.com/corporate)
+
 > The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
   
 Sharing people & stories , Tech Blogs?   
-
-> Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
-
--- [Neil M. Ashe, Chairman, President & CEO & Leadership Team](https://www.investors.acuitybrands.com/corporate)
 
 **Platform Team:**
 
