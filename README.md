@@ -16,7 +16,15 @@
 
 [Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns) - Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
 
-### Behind firewall - connecting the dots, sharing people & stories ...
+### Behind firewall - connecting the dots
+
+<TODO> 
+  
+  sharing people & stories ... 
+  
+  Tech Blogs?
+  
+</TODO> 
 
 > Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
 
