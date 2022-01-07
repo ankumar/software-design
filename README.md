@@ -22,8 +22,6 @@
 
 -- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
   
-Sharing people & stories , Tech Blogs?   
-
 **Platform Team:**
 
 > [12/16 10:27 AM] Quinn, Henry
