@@ -14,6 +14,10 @@
 
 ### Behind firewall - connecting the dots
 
+> The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
+
+-- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
+
 <TODO> 
   
   Sharing people & stories ... 
@@ -43,15 +47,13 @@
 
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
+
 ### Public - Opening Garage door, Artifacts
+
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
-
-> The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
-
--- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
 - Architecture
   - Decision Records
