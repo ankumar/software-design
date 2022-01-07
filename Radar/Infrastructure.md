@@ -18,6 +18,7 @@
     * Azure AD
     * Okta
     * Google Workspace (Formerly G Suite)
+  * https://authzed.com/blog/zanzibar-implementations/
 
 #### Database
   
