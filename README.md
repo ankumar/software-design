@@ -2,6 +2,10 @@
 
 [Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns) - Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
 
+> The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
+
+-- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
+
 ## Open software design
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
@@ -15,10 +19,6 @@
 > Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
 
 -- [Neil M. Ashe, Chairman, President & CEO & Leadership Team](https://www.investors.acuitybrands.com/corporate)
-
-> The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
-
--- [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
   
 **Platform Team:**
 
