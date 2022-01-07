@@ -13,10 +13,6 @@
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
 ### Behind firewall - connecting the dots
-
-> Life is lived in the windshield, not the rear-view mirror ; Improve Say/Do Ratio 
-
--- [Neil M. Ashe, Chairman, President & CEO & Leadership Team](https://www.investors.acuitybrands.com/corporate)
   
 **Platform Team:**
 
