@@ -82,4 +82,5 @@ Databricks
   * [Infrastructure as Software vs Infrastructure as Code](https://www.youtube.com/watch?v=rtng6GNQd4w)
   * https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/a-1-iac-vs-ias.zomg
   * https://nivenly.com/lib/2021-10-20-gitops/
+
 * Learning from Incidents - https://www.thevoid.community/
