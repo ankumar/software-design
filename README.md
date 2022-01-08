@@ -25,8 +25,7 @@ I (We) need almost daily reminder of above insights especially patient and persi
 
 **Products & Platform Team Collaboration:**
 
-> **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
-> 
+> **Going far, together** – company newsletter to share success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
 
 - More from Shawn Wang, [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
