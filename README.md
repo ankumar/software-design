@@ -26,6 +26,7 @@ We need almost daily reminder of above insights especially patient and persisten
 **Products & Platform Team Collaboration:**
 
 > **Going far, together** [1] 
+
 - Communities - Architecture, DevOps, Quality, Design/UX 
 – Company Newsletter - Sharing success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
 - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
