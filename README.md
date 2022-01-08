@@ -14,7 +14,9 @@
 
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-### Behind firewall - Garage door Up
+## Garage door Up
+
+### Behind firewall 
   
 **Platform Team:**
 
