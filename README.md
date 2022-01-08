@@ -25,7 +25,7 @@ We need almost daily reminder of above insights especially patient and persisten
 
 **Products & Platform Team Collaboration:**
 
-> **Going far, together** – company newsletter to share success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
+> **Going far, together** [1] – company newsletter to share success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
 
 - More from Shawn Wang, [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
