@@ -14,7 +14,7 @@
 
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-### Behind firewall - Connecting the dots
+### Behind firewall - Opening Garage door
   
 **Platform Team:**
 
@@ -34,7 +34,7 @@
 > Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
 > 
 
-### Public - Opening Garage door, Artifacts
+### Public - Artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
