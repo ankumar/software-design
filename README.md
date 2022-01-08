@@ -14,8 +14,6 @@
 
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
-
 **Platform Team:**
 
 > [12/16 10:27 AM] Quinn, Henry
@@ -39,6 +37,8 @@ Evolution & Journeys are always fascinating from learning perspective, like all 
 ## Garage door Up
 
 ### Artifacts
+
+Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
