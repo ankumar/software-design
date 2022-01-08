@@ -78,8 +78,7 @@ I (We) need almost daily reminder of above insights especially patient and persi
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
 
-   - Startups & Collaboration:
-     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
+   
   
    
  
