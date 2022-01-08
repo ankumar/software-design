@@ -29,8 +29,6 @@
 >> 
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
 
-- More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
-
 **Products & Platform Team Collaboration:**
 
 > **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
@@ -64,6 +62,7 @@
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
  
  - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
+   - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
    - [Backstage](https://github.com/backstage/backstage) 
      - **Explore:** Decision Records, Radar, Registry, ...
      - **Create Components:** APIs, Docs, Tests, ...
