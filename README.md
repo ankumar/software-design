@@ -63,7 +63,7 @@
  
  - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
  
-   - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
+   - More from Shawn Wang, [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
      - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
      - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
    - Startups & Collaboration:
