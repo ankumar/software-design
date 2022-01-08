@@ -31,6 +31,18 @@ We need almost daily reminder of above insights especially patient and persisten
 - Startups & Collaboration:
      - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
 
+- Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
+   - [Backstage](https://github.com/backstage/backstage) 
+     - **Explore:** Decision Records, Radar, Registry, ...
+     - **Create Components:** APIs, Docs, Tests, ...
+     - **Manage:** Deployments, Cloud Cost Insights, ...
+   - [Retool](https://retool.com/)
+   - [Prisma](https://github.com/prisma) 
+   - [GraphQL](https://graphql.org/) 
+   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+   - [Argo CD](https://github.com/argoproj/argo-cd/)
+   - [Temporal](https://github.com/temporalio/temporal)
+
 ## Garage door Up [2]
 
 ### Artifacts
@@ -62,18 +74,6 @@ We need almost daily reminder of above insights especially patient and persisten
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
    
-- Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
-   - [Backstage](https://github.com/backstage/backstage) 
-     - **Explore:** Decision Records, Radar, Registry, ...
-     - **Create Components:** APIs, Docs, Tests, ...
-     - **Manage:** Deployments, Cloud Cost Insights, ...
-   - [Retool](https://retool.com/)
-   - [Prisma](https://github.com/prisma) 
-   - [GraphQL](https://graphql.org/) 
-   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-   - [Argo CD](https://github.com/argoproj/argo-cd/)
-   - [Temporal](https://github.com/temporalio/temporal)
-
  ---
   
 1. [Polarity Management](https://www.youtube.com/watch?v=yyuFr4gTzjU)
