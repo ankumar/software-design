@@ -14,6 +14,23 @@
 
 -- [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
+**Platform Team:**
+
+> [12/16 10:27 AM] Quinn, Henry
+>
+> Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
+> I've been following this guy for a while as he's been very vocal about learning in public and helped push a lot of folks (including myself) to tackle fun projects to learn new technologies while teaching others. I was very excited to see he joined Temporal! https://www.swyx.io/why-temporal/
+>
+>> [12/16 11:40 AM] Voils, Steven M
+>> 
+>> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
+
+**Products & Platform Team Collaboration:**
+
+> **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
+> 
+
+
 ## Garage door Up
 
 ### Artifacts
@@ -43,22 +60,6 @@
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
    
-**Platform Team:**
-
-> [12/16 10:27 AM] Quinn, Henry
->
-> Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
-> I've been following this guy for a while as he's been very vocal about learning in public and helped push a lot of folks (including myself) to tackle fun projects to learn new technologies while teaching others. I was very excited to see he joined Temporal! https://www.swyx.io/why-temporal/
->
->> [12/16 11:40 AM] Voils, Steven M
->> 
->> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
-
-**Products & Platform Team Collaboration:**
-
-> **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
-> 
-
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
 
    - More from Shawn Wang, [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
