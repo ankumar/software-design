@@ -2,7 +2,7 @@
 
 [VS Code success in 10 years By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
 
-I (We) need almost daily reminder of above insights especially patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
+We need almost daily reminder of above insights especially patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
 
 ---
 
