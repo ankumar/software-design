@@ -17,11 +17,11 @@ We need almost daily reminder of above insights especially patient and persisten
 >> 
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
 
-**Products & Platform Team Collaboration:**
+**Products & Platform Team Collaboration:** [1] [2]
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-> **Going far, together** [1] 
+> **Going far, together** 
 
 - Communities - Architecture, DevOps, Quality, Design/UX
 - Company Newsletter - Sharing success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
@@ -54,7 +54,7 @@ We need almost daily reminder of above insights especially patient and persisten
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture [2]
+- Architecture 
   - Decision Records
   - Tech Radar
   - C4 Model
