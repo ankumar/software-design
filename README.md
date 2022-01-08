@@ -81,7 +81,9 @@ We need almost daily reminder of above insights especially patient and persisten
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
 
-   
+  ---
+  
+  [Polarity Management](https://www.youtube.com/watch?v=yyuFr4gTzjU)
   
    
  
