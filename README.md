@@ -34,6 +34,8 @@
 
 ### Artifacts
 
+Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
+
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
