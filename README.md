@@ -59,7 +59,7 @@ We need almost daily reminder of above insights especially patient and persisten
 
 - Design System 
 
-- Code [3]
+- Code
   - Style Guides  
   - Tech Docs
   - Tests
