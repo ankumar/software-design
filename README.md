@@ -43,7 +43,7 @@ We need almost daily reminder of above insights especially patient and persisten
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
 
-## Garage door Up [2]
+## Garage door Up [3]
 
 ### Artifacts
 
@@ -52,7 +52,7 @@ We need almost daily reminder of above insights especially patient and persisten
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture
+- Architecture [2]
   - Decision Records
   - Tech Radar
   - C4 Model
