@@ -19,6 +19,8 @@ We need almost daily reminder of above insights especially patient and persisten
 
 **Products & Platform Team Collaboration:**
 
+[![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
+
 > **Going far, together** [1] 
 
 - Communities - Architecture, DevOps, Quality, Design/UX
