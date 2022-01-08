@@ -84,7 +84,7 @@ We need almost daily reminder of above insights especially patient and persisten
 
   ---
   
-  1. [Polarity Management](https://www.youtube.com/watch?v=yyuFr4gTzjU)
+  1.[Polarity Management](https://www.youtube.com/watch?v=yyuFr4gTzjU)
   
    
  
