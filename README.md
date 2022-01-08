@@ -1,6 +1,8 @@
+Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
+
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
 
-[Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns) - Evolution & Journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
+[Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns)
 
 > The biggest lesson I’ve learned is that, once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 
