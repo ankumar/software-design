@@ -61,21 +61,25 @@
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - Compute & Databases](https://azure.microsoft.com/)
  
- - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s) & More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
+ - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)
+ 
+   - More from Shawn Wang: [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/) 
+     - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
+     - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
+   - Startups & Collaboration:
+     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
+   
    - [Backstage](https://github.com/backstage/backstage) 
      - **Explore:** Decision Records, Radar, Registry, ...
      - **Create Components:** APIs, Docs, Tests, ...
      - **Manage:** Deployments, Cloud Cost Insights, ...
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
-     - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
    - [GraphQL](https://graphql.org/) 
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
    - [Temporal](https://github.com/temporalio/temporal)
-     - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
-   - Startups & Collaboration:
-     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
+  
    
  
 
