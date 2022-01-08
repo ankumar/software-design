@@ -31,7 +31,7 @@ We need almost daily reminder of above insights especially patient and persisten
 - Startups & Collaboration:
      - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
 
-## Garage door Up
+## Garage door Up [2]
 
 ### Artifacts
 
@@ -40,7 +40,7 @@ We need almost daily reminder of above insights especially patient and persisten
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
-- Architecture [2]
+- Architecture
   - Decision Records
   - Tech Radar
   - C4 Model
