@@ -31,7 +31,7 @@
 
 **Products & Platform Team Collaboration:**
 
-> Q1'2022 Newsletter,  [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing Going far, together – A tale of need, opportunity, and innovation
+> **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
 > 
 
 ### Public - Artifacts
