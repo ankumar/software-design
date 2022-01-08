@@ -2,7 +2,7 @@
 
 [Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns)
 
-I (We) need almost daily reminder of above insigts, Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
+I (We) need almost daily reminder of above insights, Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!
 
 ---
 
