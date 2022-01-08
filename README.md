@@ -36,7 +36,7 @@
 > **Going far, together** – A tale of need, opportunity, and innovation in Q1'2022 company newsletter, [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
 > 
 
-### Public - Artifacts
+### Artifacts
 
 - Products
   - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
