@@ -59,6 +59,7 @@ The organic influence from public domain & open source is growing & healthy chan
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
+    - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
 - Architecture 
   - Decision Records
