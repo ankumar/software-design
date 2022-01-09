@@ -8,6 +8,8 @@ We need periodic reminder especially around being patient and persistent. Evolut
 
 ## Products & Platform Team Collaboration [1] [2]
 
+The organic influence from outside in is growing & healthy change for companies working on transformations. 
+
 > [12/16 10:27 AM] Quinn, Henry
 >
 > Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
@@ -20,7 +22,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-> **Going far, together** 
+> **Going far, Together** 
 
 - Communities - Architecture, DevOps, Quality, Design/UX
 - Company Newsletter - Sharing success, opportunity, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing 
