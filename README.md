@@ -49,7 +49,7 @@ We need almost daily reminder of above insights especially patient and persisten
 ### Artifacts
 
 - Products
-  - ["Agile" - Commerce Platform](https://agile.acuitybrandslighting.net/) 
+  - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
 
