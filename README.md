@@ -8,7 +8,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 
 ## Products & Platform Team Collaboration [1] [2]
 
-The organic influence from outside in is growing & healthy change for companies working on transformations. 
+The organic influence from public domain & open source is growing & healthy change for companies working on transformations. This decentralization is how we should think about accleration of man years of work involved while driving changes. 
 
 > [12/16 10:27 AM] Quinn, Henry
 >
