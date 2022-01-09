@@ -35,6 +35,8 @@ The organic influence from public domain & open source is growing & healthy chan
 
 - Startups & Collaboration:
      - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
+     - https://github.com/open-metadata/OpenMetadata 
+     - Incubating "Software Engineering to data science" around [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
 
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
    - [Backstage](https://github.com/backstage/backstage) 
