@@ -43,6 +43,7 @@ The organic influence from public domain & open source is growing & healthy chan
      - **Manage:** Deployments, Cloud Cost Insights, ...
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
+     - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
    - [GraphQL](https://graphql.org/) 
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
