@@ -6,7 +6,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 
 ---
 
-## Products & Platform Team Collaboration [1] 
+## Products & Platform Collaboration [1] 
 
 The organic influence from public domain & open source is growing & healthy change for companies working on transformations. This **decentralization** is how we should think about accleration of 10+ years and 100s of man years of work involved driving changes across organization [2].
 
