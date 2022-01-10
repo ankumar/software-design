@@ -78,7 +78,7 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - [Striim](https://www.striim.com/)
   - [Aqua](https://www.aquasec.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
-  - [Azure - Compute & Databases](https://azure.microsoft.com/)
+  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
    
  ---
   
