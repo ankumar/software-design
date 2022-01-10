@@ -22,8 +22,7 @@ The organic influence from public domain & open source is growing & healthy chan
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-<p align="center"> A Community Led Design palette </p>
-<p align="center">  
+<p align="center"> A Community Led Design palette  
      Explore: Decision Records, Radar, Registry, ...
      Create Components: APIs, Docs, Tests, ...
      Manage: Deployments, Cloud Cost Insights, ...
