@@ -82,7 +82,7 @@
       - https://heap.io/
 
     - **Auth**     
-      - https://auth0.com/blog/introducing-auth0-organizations/
+      - https://ga.dev/ | https://auth0.com/blog/introducing-auth0-organizations/
       - https://www.ory.sh/ | http://www.authzed.com | https://www.osohq.com/
       - https://docs.microsoft.com/en-us/azure/active-directory/develop/
       - https://oauth.io/ (120+ OAuth providers)
