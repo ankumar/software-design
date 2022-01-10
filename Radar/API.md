@@ -8,7 +8,6 @@
 5. Create APIs with Explicit and Well-Documented Failure Modes
 6. Avoid Leaking Implementation Details at All Costs
 
----
 ## Tools
 
   - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
