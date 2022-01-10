@@ -9,6 +9,7 @@
 6. Avoid Leaking Implementation Details at All Costs
 
 ---
+## Tools
 
   - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
   - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
