@@ -12,6 +12,7 @@
   * https://github.com/authzed
   * https://github.com/ory 
     * [Introducing Keto, the open source implementation of Google’s Zanzibar](https://medium.facilelogin.com/introducing-keto-the-open-source-implementation-of-googles-zanzibar-89f15162899e)
+  * https://www.permit.io/ 
  
 * https://www.gitops.tech/ 
 * https://opengitops.dev/blog/1.0-announcement
