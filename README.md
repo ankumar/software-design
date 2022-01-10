@@ -23,6 +23,11 @@ The organic influence from public domain & open source is growing & healthy chan
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
 <p align="center"> A Community Led Design palette </p>
+<p align="center">  
+     - **Explore:** Decision Records, Radar, Registry, ...
+     - **Create Components:** APIs, Docs, Tests, ...
+     - **Manage:** Deployments, Cloud Cost Insights, ...
+ </p>
 
 > **Going far, Together** 
 
@@ -40,9 +45,6 @@ The organic influence from public domain & open source is growing & healthy chan
 
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
    - [Backstage](https://github.com/backstage/backstage) 
-     - **Explore:** Decision Records, Radar, Registry, ...
-     - **Create Components:** APIs, Docs, Tests, ...
-     - **Manage:** Deployments, Cloud Cost Insights, ...
    - [Retool](https://retool.com/)
    - [Prisma](https://github.com/prisma) 
      - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
