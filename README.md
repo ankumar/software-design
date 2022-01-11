@@ -76,9 +76,9 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
   - [Miro](https://miro.com/)
   - [Postman](https://www.postman.com/)
-  - [DATADOG](https://www.datadoghq.com/)
   - [Striim](https://www.striim.com/)
   - [Aqua](https://www.aquasec.com/)
+  - [DatadoG](https://www.datadoghq.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
    
