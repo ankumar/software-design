@@ -78,7 +78,7 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - [Postman](https://www.postman.com/)
   - [Striim](https://www.striim.com/)
   - [Aqua](https://www.aquasec.com/)
-  - [DatadoG](https://www.datadoghq.com/)
+  - [Datadog](https://www.datadoghq.com/)
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
    
