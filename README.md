@@ -48,13 +48,13 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
   - [Backstage](https://github.com/backstage/backstage) 
-   - [Retool](https://retool.com/)
-   - [Prisma](https://github.com/prisma) 
-     - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
-   - [GraphQL](https://graphql.org/) 
-   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-   - [Argo CD](https://github.com/argoproj/argo-cd/)
-   - [Temporal](https://github.com/temporalio/temporal)
+  - [Retool](https://retool.com/)
+  - [Prisma](https://github.com/prisma) 
+    - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
+  - [GraphQL](https://graphql.org/) 
+  - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+  - [Argo CD](https://github.com/argoproj/argo-cd/)
+  - [Temporal](https://github.com/temporalio/temporal)
 
 ## Garage door Up [3]
 
