@@ -8,7 +8,12 @@ We need periodic reminder especially around being patient and persistent. Evolut
 
 ## Products & Platform Collaboration [1] 
 
-The organic influence from public domain & open source is growing & healthy change for companies working on transformations. This **decentralization** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations [2].
+The organic influence from public domain & open source is growing & healthy change for companies working on **challenges**. This **decentralization** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations [2].
+
+1. Application Modernization & Databases
+2. Analytics, AI & Machine Learning
+3. Securitym Infrastructure
+4. Retail, Manufacturing, Entertainment, ...
 
 > [12/16 10:27 AM] Quinn, Henry
 >
