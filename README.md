@@ -57,8 +57,6 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 
 ## Garage door Up [3]
 
-### Artifacts
-
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) 
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
