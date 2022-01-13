@@ -102,17 +102,19 @@ These are risky bets seeking acceleration in public communities and also solving
 > >
 > > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
 
-2. [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
+2. Scaling 
 
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
+> [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html#HowThisTypicallyWorksInPractice)
 
 > [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ)
 
-3. [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
+3. Thinking
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 >
 > Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
+> [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
 > [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
