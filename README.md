@@ -50,7 +50,7 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
   - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
-- Startups & Collaboration: These are be risky bets seeking to make progress outside and also looking for problems spanning beyound the current organization.
+- Startups & Collaboration: These are risky bets seeking to make progress outside and also solving problems spanning beyound the current organization.
   - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
   - https://github.com/open-metadata/OpenMetadata - Incubated by Uber alumni
   - "Software Engineering to Data Science" around [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) - Incubated by Walmart Global Tech alumni
