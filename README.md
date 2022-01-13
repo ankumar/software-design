@@ -67,12 +67,12 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
     - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
+- Design System 
+
 - Architecture 
   - Decision Records
   - Tech Radar
   - C4 Model
-
-- Design System 
 
 - Code
   - Style Guides  
