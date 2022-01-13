@@ -57,7 +57,7 @@ These are risky bets seeking acceleration in public communities and also solving
   - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart - Incubated by Acuity Brands
   - https://github.com/open-metadata/OpenMetadata - Incubated by Uber alumni
   - "Software Engineering to Data Science" - Incubated by Walmart Global Tech alumni
-    - [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) - 
+    - [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) 
   - Open Standards - IoT needs fresh perspectives
 
 ## Garage door Up [3]
