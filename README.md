@@ -13,6 +13,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
+A Thread inside an organization:
 > [12/16 10:27 AM] Quinn, Henry
 >
 > Good (but long) writeup on "why Temporal" from their Head of Developer Experience, Shawn Wang (aka Swyx).
