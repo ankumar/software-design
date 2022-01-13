@@ -35,11 +35,6 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 
 - Company Newsletter - Sharing success, opportunity, pivot, recognition, innovations etc. Ex: [Cloud Relay API](https://github.com/DistechControls/CloudRelay) scale testing
 
-- Startups & Collaboration:
-  - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
-  - https://github.com/open-metadata/OpenMetadata 
-  - "Software Engineering to Data Science" around [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
-
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
   - [Backstage](https://github.com/backstage/backstage) 
@@ -54,6 +49,11 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
   - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
+
+- Startups & Collaboration: These are risky bets where you are seeking to make progress outside firewall.
+  - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart
+  - https://github.com/open-metadata/OpenMetadata 
+  - "Software Engineering to Data Science" around [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
 
 ## Garage door Up [3]
 
