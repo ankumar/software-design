@@ -114,6 +114,8 @@ These are risky bets seeking acceleration in public communities and also solving
 >
 > Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
 
+- [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+
    
  
 
