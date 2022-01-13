@@ -31,7 +31,7 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 
 > **Going far, Together**, We need new models around:
 
-- Communities - Architecture, DevOps, Quality, Design/UX
+- Communities - Architecture, DevOps/SRE, Quality, Design/UX
 
 - Company Newsletter - Sharing success, opportunity, pivot, recognition, innovations etc. 
 
