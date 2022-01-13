@@ -11,7 +11,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 1. Application Modernization & Databases
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
-4. Retail, Manufacturing, Entertainment, ...
+4. Retail, Manufacturing, Finance, Entertainment, ...
 
 > [12/16 10:27 AM] Quinn, Henry
 >
