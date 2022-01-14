@@ -4,18 +4,27 @@
 - B: Billing, 
 - C: Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
 - D: Data, DevOps, 
-- E, F
+- E: 
+- F:
 - G: Go To Market (GTM) 
 - H: Health Insurance Portability & Accountability Act (HIPAA),  
 - I: Identity, Incident Management, Infrastructure, 
-- J, K, L
+- J:
+- K: 
+- L:
 - M: Multi-tenant, Marketing,
 - N: Network, 
 - O: Operations, Observability
 - P: Penetration Testing,  
 - Q, R, 
 - S: Security, System and Organization Controls (SOC)
-- T, U, V, W, X, Y, Z.) 
+- T:
+- U: 
+- V: 
+- W: 
+- X: 
+- Y: 
+- Z: 
     
 ---
 
