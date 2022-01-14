@@ -18,7 +18,8 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - A: Authentication, Authorization
     - B: 
     - C: Cloud Providers
-    - D, E, F, G, H, 
+    - D, E, F, G, 
+    - H: Health Insurance Portability & Accountability Act (HIPAA),  
     - I: Identity
     - J, K, L
     - M: Multi-Tenancy
