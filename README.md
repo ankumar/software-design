@@ -22,7 +22,9 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - I: Identity
     - J, K, L
     - M: Multi-Tenancy
-    - N, O, P, Q, R, S, T, U, V, W, X, Y, Z.) 
+    - N, O, P, Q, R, 
+    - S: Security
+    - T, U, V, W, X, Y, Z.) 
     
 - Design System 
 
