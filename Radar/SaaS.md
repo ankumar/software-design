@@ -8,7 +8,7 @@
 - H: Health Insurance Portability & Accountability Act (HIPAA),  
 - I: Identity, Incident Management, Infrastructure, 
 - J, K, L
-- M: Multi-Tenancy, Marketing,  
+- M: Multi-tenant, Marketing,
 - N: Network, 
 - O: 
 - P: Penetration Testing,  
