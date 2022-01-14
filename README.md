@@ -22,7 +22,9 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - I: Identity
     - J, K, L
     - M: Multi-Tenancy
-    - N, O, P, Q, R, 
+    - N, O
+    - P: Penetration Testing, 
+    - Q, R, 
     - S: Security, System and Organization Controls (SOC)
     - T, U, V, W, X, Y, Z.) 
     
