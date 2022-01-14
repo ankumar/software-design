@@ -23,7 +23,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - J, K, L
     - M: Multi-Tenancy
     - N, O, P, Q, R, 
-    - S: Security
+    - S: Security, System and Organization Controls (SOC)
     - T, U, V, W, X, Y, Z.) 
     
 - Design System 
