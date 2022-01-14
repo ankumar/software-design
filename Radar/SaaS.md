@@ -1,5 +1,23 @@
 ## SaaS
 
+- A: Authentication, Authorization, APIs
+- B: 
+- C: Cloud Providers, CRM, 
+- D: Data, 
+- E, F, G, 
+- H: Health Insurance Portability & Accountability Act (HIPAA),  
+- I: Identity, Incident Management, Infrastructure, 
+- J, K, L
+- M: Multi-Tenancy, Marketing,  
+- N: Network, 
+- O: 
+- P: Penetration Testing,  
+- Q, R, 
+- S: Security, System and Organization Controls (SOC)
+- T, U, V, W, X, Y, Z.) 
+    
+---
+
 [SaaS, the Past, Present and Future - A Continuum...](https://www.linkedin.com/pulse/saas-past-present-future-continuum-dr-srikanth-sundararajan/)
 
 ### Build
