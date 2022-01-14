@@ -61,7 +61,7 @@ The organic influence from public domain & open source is growing & healthy chan
 
 A Community Led Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud Cost Insights, ...
 
-> **Going far, Together**, We need new models around:
+> **Going far, Together**, Build new models around:
 
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 
