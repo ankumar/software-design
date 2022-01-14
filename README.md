@@ -89,7 +89,7 @@ These are risky bets seeking acceleration in public communities and also solving
 
 - Startups Alumni Network & Collaboration: 
   - Incubated by Acuity Brands
-    - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart - 
+    - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
   - Uber Alumni:
     - https://github.com/open-metadata/OpenMetadata 
