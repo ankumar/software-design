@@ -11,7 +11,7 @@
 - J, K, L
 - M: Multi-tenant, Marketing,
 - N: Network, 
-- O: Operations, 
+- O: Operations, Observability
 - P: Penetration Testing,  
 - Q, R, 
 - S: Security, System and Organization Controls (SOC)
