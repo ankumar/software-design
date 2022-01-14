@@ -17,13 +17,13 @@ We need periodic reminder especially around being patient and persistent. Evolut
   - SaaS Build/Buy Alphabet
     - A: Authentication, Authorization, APIs
     - B: 
-    - C: Cloud Providers
+    - C: Cloud Providers, CRM, 
     - D: Data, 
     - E, F, G, 
     - H: Health Insurance Portability & Accountability Act (HIPAA),  
     - I: Identity, Incident Management, Infrastructure, 
     - J, K, L
-    - M: Multi-Tenancy, 
+    - M: Multi-Tenancy, Marketing,  
     - N: Network, 
     - O: 
     - P: Penetration Testing,  
