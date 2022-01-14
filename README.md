@@ -21,11 +21,12 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - D: Data, 
     - E, F, G, 
     - H: Health Insurance Portability & Accountability Act (HIPAA),  
-    - I: Identity, Incident Management, 
+    - I: Identity, Incident Management, Infrastructure, 
     - J, K, L
-    - M: Multi-Tenancy
-    - N, O
-    - P: Penetration Testing, 
+    - M: Multi-Tenancy, 
+    - N: Network, 
+    - O: 
+    - P: Penetration Testing,  
     - Q, R, 
     - S: Security, System and Organization Controls (SOC)
     - T, U, V, W, X, Y, Z.) 
