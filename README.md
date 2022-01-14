@@ -4,8 +4,6 @@
 
 We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
----
-
 ## Garage door Up [1]
 
 - Products
