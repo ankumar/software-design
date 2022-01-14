@@ -73,7 +73,6 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 These are risky bets seeking acceleration in public communities and also solving problems spanning beyound the current organization.
 
   - [Backstage](https://github.com/backstage/backstage) 
-  - [Retool](https://retool.com/)
   - [Prisma](https://github.com/prisma) 
     - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
   - [OpenAPI](https://swagger.io/tools/swaggerhub/) / [GraphQL](https://graphql.org/) 
