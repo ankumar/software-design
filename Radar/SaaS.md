@@ -3,7 +3,7 @@
 - A: Applications, Authentication, Authorization, APIs, Analytics, 
 - B: Billing, 
 - C: Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
-- D: Data, DevOps, Deploy, 
+- D: Data, Docs, DevOps, Deploy, 
 - E: 
 - F:
 - G: Go To Market (GTM) 
