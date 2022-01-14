@@ -14,6 +14,12 @@ We need periodic reminder especially around being patient and persistent. Evolut
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
     - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
+  - Building SaaS A-Z
+    - A: Authentication & Authorization
+    - B: 
+    - (C)loud Providers: Cloud
+    - Z:  
+
 - Design System 
 
 - Architecture 
