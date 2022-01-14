@@ -15,21 +15,6 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
   - SaaS Build/Buy Alphabet
-    - A: Authentication, Authorization, APIs
-    - B: 
-    - C: Cloud Providers, CRM, 
-    - D: Data, 
-    - E, F, G, 
-    - H: Health Insurance Portability & Accountability Act (HIPAA),  
-    - I: Identity, Incident Management, Infrastructure, 
-    - J, K, L
-    - M: Multi-Tenancy, Marketing,  
-    - N: Network, 
-    - O: 
-    - P: Penetration Testing,  
-    - Q, R, 
-    - S: Security, System and Organization Controls (SOC)
-    - T, U, V, W, X, Y, Z.) 
     
 - Design System 
 
