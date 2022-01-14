@@ -16,7 +16,8 @@
 - N: Network, 
 - O: Operations, Observability
 - P: Penetration Testing,  
-- Q, R, 
+- Q:
+- R: 
 - S: Security, System and Organization Controls (SOC)
 - T:
 - U: 
