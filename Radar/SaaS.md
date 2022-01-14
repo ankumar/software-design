@@ -19,7 +19,7 @@
 - Q:
 - R: 
 - S: Security, System and Organization Controls (SOC)
-- T:
+- T: Telemetry, 
 - U: 
 - V: 
 - W: 
