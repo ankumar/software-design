@@ -15,9 +15,9 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
   - Building SaaS A-Z
-    - A: Authentication & Authorization
+    - A: Authentication, Authorization
     - B: 
-    - (C)loud Providers: Cloud
+    - C: Cloud Providers
     - Z:  
 
 - Design System 
