@@ -1,9 +1,9 @@
 ## SaaS Alphabet
 
-- A: Authentication, Authorization, APIs
+- A: Authentication, Authorization, APIs, Analytics
 - B: Billing, 
 - C: Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
-- D: Data, DevOps, 
+- D: Data, DevOps, Deploy, 
 - E: 
 - F:
 - G: Go To Market (GTM) 
@@ -12,15 +12,15 @@
 - J:
 - K: 
 - L:
-- M: Multi-tenant, Marketing,
+- M: Multi-tenant, Marketing, Metrics, 
 - N: Network, 
 - O: Operations, Observability
 - P: Penetration Testing,  
-- Q:
+- Q: Quotas, 
 - R: 
-- S: Security, System and Organization Controls (SOC)
+- S: Security, System and Organization Controls (SOC), Services
 - T: Telemetry, 
-- U: 
+- U: Users, 
 - V: 
 - W: 
 - X: 
