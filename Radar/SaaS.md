@@ -2,7 +2,7 @@
 
 - A: Authentication, Authorization, APIs
 - B: Billing, 
-- C: Cost Management, Cloud Providers, CRM, Customer Success, 
+- C: Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
 - D: Data, DevOps, 
 - E, F
 - G: Go To Market (GTM) 
