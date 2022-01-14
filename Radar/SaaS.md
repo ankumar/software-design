@@ -1,16 +1,17 @@
 ## SaaS Alphabet
 
 - A: Authentication, Authorization, APIs
-- B: 
-- C: Cloud Providers, CRM, 
-- D: Data, 
-- E, F, G, 
+- B: Billing, 
+- C: Cost Management, Cloud Providers, CRM, Customer Success, 
+- D: Data, DevOps, 
+- E, F
+- G: Go To Market (GTM) 
 - H: Health Insurance Portability & Accountability Act (HIPAA),  
 - I: Identity, Incident Management, Infrastructure, 
 - J, K, L
 - M: Multi-tenant, Marketing,
 - N: Network, 
-- O: 
+- O: Operations, 
 - P: Penetration Testing,  
 - Q, R, 
 - S: Security, System and Organization Controls (SOC)
