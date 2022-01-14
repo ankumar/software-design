@@ -11,9 +11,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
     - Applications Suite: Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
     - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
-
-  - SaaS Build/Buy Alphabet
-    
+  
 - Design System 
 
 - Architecture 
@@ -26,7 +24,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
   - Tech Docs
   - Tests
 
-- SaaS / Provider / Component / Cloud 
+- SaaS (Build/Buy Alphabet (A-Z)) / Provider / Component / Cloud 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
   - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
   - [Miro](https://miro.com/)
