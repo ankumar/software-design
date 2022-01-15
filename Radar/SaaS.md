@@ -6,7 +6,7 @@
 - D: Design System, Data [Infra, Platform, Stack], Docs, DevOps, Deploy, 
 - E: 
 - F:
-- G: Go To Market(GTM) 
+- G: Go To Market(GTM), GDPR 
 - H: Health Insurance Portability & Accountability Act(HIPAA),  
 - I: Identity, Incident Management, Infrastructure, Internet of Things(IoT), 
 - J: Jamstack, 
