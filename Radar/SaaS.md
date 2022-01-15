@@ -1,21 +1,20 @@
 ## SaaS Alphabet
 
-- A: Applications, Authentication, Authorization, APIs, Analytics, 
+- A: Applications, APIs, Analytics, Authentication, Authorization, 
 - B: Billing, 
-- C: Cost Management, Customer Identity and Access Management(CIAM), Like you were evaluating in the past for web scraping ![Uploading image.png…]()
-Cloud Providers, CRM, Customer Success, Chaos Engineering, 
-- D: Design System, Data [Infra, Platform, Stack], Docs, DevOps, Deploy, 
+- C: Customer Identity and Access Management(CIAM), Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
+- D: Design System, Docs, DevOps, Data [Infra, Platform, Stack], Deployment,
 - E: 
 - F:
-- G: Go To Market(GTM), GDPR 
+- G: GDPR, Go To Market(GTM), 
 - H: Health Insurance Portability & Accountability Act(HIPAA),  
-- I: Identity, Incident Management, Infrastructure, Internet of Things(IoT), 
+- I: Identity, Incident Management, Internet of Things(IoT), Infrastructure,
 - J: Jamstack, 
 - K: 
 - L:
-- M: Multi-tenant, Marketing, Mobile, Metrics, 
+- M: Mobile, Marketing, Metrics, Multi-tenant, 
 - N: Network, 
-- O: Operations, Observability, Onboarding
+- O: Onboarding, Observability, Operations, 
 - P: Penetration Testing,  
 - Q: Quotas, 
 - R: 
