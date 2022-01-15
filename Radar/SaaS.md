@@ -8,8 +8,8 @@
 - F:
 - G: Go To Market (GTM) 
 - H: Health Insurance Portability & Accountability Act (HIPAA),  
-- I: Identity, Incident Management, Infrastructure, 
-- J:
+- I: Identity, Incident Management, Infrastructure, Internet of Things (IoT), 
+- J: Jamstack, 
 - K: 
 - L:
 - M: Multi-tenant, Marketing, Mobile, Metrics, 
@@ -19,7 +19,7 @@
 - Q: Quotas, 
 - R: 
 - S: Security, Serverless, System and Organization Controls (SOC), Services
-- T: Telemetry, 
+- T: Telemetry, Things, 
 - U: Users, 
 - V: 
 - W: Web
