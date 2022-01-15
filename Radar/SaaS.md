@@ -27,8 +27,10 @@
 - Y: 
 - Z: 
     
-https://wso2.com/choreo/b/
-    
+[WSO2](https://github.com/wso2/reference-architecture)
+- [**ID**aaS](https://wso2.com/asgardeo/docs/)
+- 
+ 
 ---
 
 [SaaS, the Past, Present and Future - A Continuum...](https://www.linkedin.com/pulse/saas-past-present-future-continuum-dr-srikanth-sundararajan/)
