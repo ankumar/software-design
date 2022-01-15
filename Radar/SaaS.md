@@ -6,9 +6,9 @@
 - D: Design System, Data [Infra, Platform, Stack], Docs, DevOps, Deploy, 
 - E: 
 - F:
-- G: Go To Market (GTM) 
-- H: Health Insurance Portability & Accountability Act (HIPAA),  
-- I: Identity, Incident Management, Infrastructure, Internet of Things (IoT), 
+- G: Go To Market(GTM) 
+- H: Health Insurance Portability & Accountability Act(HIPAA),  
+- I: Identity, Incident Management, Infrastructure, Internet of Things(IoT), 
 - J: Jamstack, 
 - K: 
 - L:
@@ -18,7 +18,7 @@
 - P: Penetration Testing,  
 - Q: Quotas, 
 - R: 
-- S: Security, Service Level Objectives (SLOs), Serverless, System and Organization Controls (SOC), 
+- S: Security, Service Level Objectives(SLOs), System and Organization Controls (SOC), Serverless, 
 - T: Telemetry, 
 - U: Users, 
 - V: 
