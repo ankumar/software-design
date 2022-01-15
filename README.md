@@ -79,7 +79,6 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Temporal](https://github.com/temporalio/temporal)
 
 - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-  - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
   - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
 - Alumni Networks: 
@@ -120,4 +119,5 @@ These are risky bets seeking acceleration in public communities and also solving
 
 --
 
+ - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
  - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
