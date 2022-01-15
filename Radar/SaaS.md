@@ -2,7 +2,8 @@
 
 - A: Applications, Authentication, Authorization, APIs, Analytics, 
 - B: Billing, 
-- C: Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
+- C: Cost Management, Customer Identity and Access Management(CIAM), Like you were evaluating in the past for web scraping ![Uploading image.png…]()
+Cloud Providers, CRM, Customer Success, Chaos Engineering, 
 - D: Design System, Data [Infra, Platform, Stack], Docs, DevOps, Deploy, 
 - E: 
 - F:
