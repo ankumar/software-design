@@ -18,7 +18,7 @@
 - P: Penetration Testing,  
 - Q: Quotas, 
 - R: 
-- S: Security, Serverless, System and Organization Controls (SOC), Services
+- S: Security, Service Level Objectives (SLOs), Serverless, System and Organization Controls (SOC), Services
 - T: Telemetry, 
 - U: Users, 
 - V: 
