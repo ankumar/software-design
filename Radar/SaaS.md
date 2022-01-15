@@ -27,7 +27,7 @@
 - Y: 
 - Z: 
     
-- https://wso2.com/choreo/b/
+https://wso2.com/choreo/b/
     
 ---
 
