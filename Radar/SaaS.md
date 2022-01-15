@@ -19,7 +19,7 @@
 - Q: Quotas, 
 - R: 
 - S: Security, Serverless, System and Organization Controls (SOC), Services
-- T: Telemetry, Things, 
+- T: Telemetry, 
 - U: Users, 
 - V: 
 - W: Web
