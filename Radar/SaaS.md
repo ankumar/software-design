@@ -31,6 +31,10 @@
 - [**ID**aaS](https://wso2.com/asgardeo/docs/)
 - [**iPaaS**](https://wso2.com/choreo/b/)
  
+[SaaS Community](https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g/about) 
+- videos: https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g
+- podcast: https://anchor.fm/saas-for-developers
+
 ---
 
 [SaaS, the Past, Present and Future - A Continuum...](https://www.linkedin.com/pulse/saas-past-present-future-continuum-dr-srikanth-sundararajan/)
@@ -40,10 +44,6 @@
 * The Case for ‘Developer Experience’ -- https://future.a16z.com/the-case-for-developer-experience/
 > "There's a lot of hype around developer productivity platforms..."
 -- https://twitter.com/martinfowler/status/1387041315196702720
-
-[SaaS Community](https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g/about) 
-- videos: https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g
-- podcast: https://anchor.fm/saas-for-developers
 
 #### Perspectives
 
