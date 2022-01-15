@@ -7,7 +7,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
 ## Garage door Up [1]
 
 - Products
-  - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Reports, 
+  - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
    
 - Design System 
