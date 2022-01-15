@@ -31,7 +31,7 @@
 - [**ID**aaS](https://wso2.com/asgardeo/docs/)
 - [**iPaaS**](https://wso2.com/choreo/b/)
  
-[SaaS Community](https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g/about) 
+[SaaS Community](https://saas-community.github.io/) 
 - videos: https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g
 - podcast: https://anchor.fm/saas-for-developers
 
