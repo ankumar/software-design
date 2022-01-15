@@ -27,7 +27,7 @@
 - Y: 
 - Z: 
     
-[WSO2](https://github.com/wso2/reference-architecture)
+[WSO2-reference-architecture](https://github.com/wso2/reference-architecture)
 - [**ID**aaS](https://wso2.com/asgardeo/docs/)
 - [**iPaaS**](https://wso2.com/choreo/b/)
  
