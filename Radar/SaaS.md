@@ -27,6 +27,8 @@
 - Y: 
 - Z: 
     
+---
+
 [WSO2-reference-architecture](https://github.com/wso2/reference-architecture)
 - [**ID**aaS](https://wso2.com/asgardeo/docs/)
 - [**iPaaS**](https://wso2.com/choreo/b/)
@@ -35,9 +37,7 @@
 - videos: https://www.youtube.com/channel/UCZuLNqvV4oUMVyNq70mFF0g
 - podcast: https://anchor.fm/saas-for-developers
 
----
-
-[SaaS, the Past, Present and Future - A Continuum...](https://www.linkedin.com/pulse/saas-past-present-future-continuum-dr-srikanth-sundararajan/)
+- [SaaS, the Past, Present and Future - A Continuum...](https://www.linkedin.com/pulse/saas-past-present-future-continuum-dr-srikanth-sundararajan/)
 
 ### Build
 
