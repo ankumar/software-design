@@ -63,7 +63,7 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 
-- Company Newsletter - Sharing success, opportunity, pivot, recognition, innovations etc. 
+- Newsletter - Sharing success, Opportunity, Pivot, Recognition, Innovation etc. 
 
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
@@ -77,9 +77,6 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
   - [Argo CD](https://github.com/argoproj/argo-cd/)
   - [Temporal](https://github.com/temporalio/temporal)
-
-- More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-  - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
 - Alumni Networks: 
   - Incubated by Acuity Brands
@@ -109,9 +106,12 @@ These are risky bets seeking acceleration in public communities and also solving
 
 3. Communities
 
-- DevRel:
+- Developer Relations:
 
-- [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
+  - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
+    - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
+
+  - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
  
 - Architecture:
 
