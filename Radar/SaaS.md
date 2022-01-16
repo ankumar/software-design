@@ -1,3 +1,5 @@
+https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png
+
 ## SaaS Alphabet
 
 - A: Applications, APIs, Analytics, Authentication, Authorization, 
