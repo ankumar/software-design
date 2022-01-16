@@ -1,4 +1,6 @@
-https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816s)
+
+
 
 ## SaaS Alphabet
 
