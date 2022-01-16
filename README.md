@@ -36,8 +36,9 @@ We need periodic reminder especially around being patient and persistent. Evolut
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
- ## Products & Platform Collaboration [2] 
+## Products & Platform Collaboration [2] 
 
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 1. Application Modernization & Databases
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
