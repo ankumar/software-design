@@ -4,26 +4,6 @@
 
 We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
 
-## Garage door Up
-
-- Products
-  - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
-  - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
-   
-- SaaS [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
-  - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
-  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
-  - [Miro](https://miro.com/)
-  - [Postman](https://www.postman.com/)
-  - [Striim](https://www.striim.com/)
-  - [Aqua](https://www.aquasec.com/)
-  - [Datadog](https://www.datadoghq.com/)
-  - [Google Cloud - BigQuery](https://cloud.google.com/)
-  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
-   
- - Open Source
-   - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
- 
 ## Products & Platform Collaboration 
 
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
@@ -75,12 +55,11 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 >
 > [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-2. Scaling & Growth 
-
-> once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
->
-> [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
-
+Garage door Up:
+- Products
+  - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
+  - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
+ 
 - Design System 
 
 - Code
@@ -91,6 +70,26 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
  - Decision Records
   - Tech Radar
   - C4 Model
+
+- SaaS [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
+  - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
+  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
+  - [Miro](https://miro.com/)
+  - [Postman](https://www.postman.com/)
+  - [Striim](https://www.striim.com/)
+  - [Aqua](https://www.aquasec.com/)
+  - [Datadog](https://www.datadoghq.com/)
+  - [Google Cloud - BigQuery](https://cloud.google.com/)
+  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
+   
+ - Open Source
+   - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
+ 
+2. Scaling & Growth 
+
+> once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
+>
+> [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
