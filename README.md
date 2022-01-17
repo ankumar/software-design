@@ -36,7 +36,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
-# Products & Platform Collaboration [2] 
+## Products & Platform Collaboration 
 
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 1. Application Modernization & Databases
@@ -94,8 +94,6 @@ These are risky bets seeking acceleration in public communities and also solving
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 >
 > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
-
-3. Communities
 
 - Developer Relations:
 
