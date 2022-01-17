@@ -2,9 +2,9 @@
 
 <p align="center"> VS Code success 10 years journey By Erich Gamma, The "Gang of Four" </p>
 
-We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
 
-## Garage door Up [1]
+## Garage door Up
 
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
@@ -36,7 +36,7 @@ We need periodic reminder especially around being patient and persistent. Evolut
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
-## Products & Platform Collaboration [2] 
+# Products & Platform Collaboration [2] 
 
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 1. Application Modernization & Databases
