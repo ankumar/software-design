@@ -79,16 +79,6 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
   - [Argo CD](https://github.com/argoproj/argo-cd/)
   
-- Network Effect: 
-  - Acuity Brands:
-    - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  
-  - Uber Alumni:
-    - https://github.com/open-metadata/OpenMetadata 
-  
-  - Walmart Global Tech Alumni:
-    - Data Science w/ [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) & Software Engineering 
-
  ---
   
 1. Writing & Seeding
@@ -126,3 +116,13 @@ These are risky bets seeking acceleration in public communities and also solving
  - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ)   
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
  - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
+
+- Network Effect: 
+  - Acuity Brands:
+    - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+  
+  - Uber Alumni:
+    - https://github.com/open-metadata/OpenMetadata 
+  
+  - Walmart Global Tech Alumni:
+    - Data Science w/ [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) & Software Engineering 
