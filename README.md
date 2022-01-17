@@ -79,8 +79,8 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
   - [Argo CD](https://github.com/argoproj/argo-cd/)
   
-- Alumni Networks: 
-  - Incubated by Acuity Brands
+- Network Effect: 
+  - Acuity Brands:
     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
   - Uber Alumni:
