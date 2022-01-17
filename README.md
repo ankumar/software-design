@@ -81,11 +81,6 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 >
 > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
-- Architecture 
-  - Decision Records
-  - Tech Radar
-  - C4 Model
-
 - Design System 
 
 - Code
@@ -93,8 +88,11 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
   - Tech Docs
   - Tests
 
-- Developer Relations:
+ - Decision Records
+  - Tech Radar
+  - C4 Model
 
+- Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
     - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
