@@ -74,11 +74,11 @@ These are risky bets seeking acceleration in public communities and also solving
   - [Backstage](https://github.com/backstage/backstage) 
   - [Prisma](https://github.com/prisma) 
     - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)
-  - [OpenAPI](https://swagger.io/tools/swaggerhub/) / [GraphQL](https://graphql.org/) 
+    - [OpenAPI](https://swagger.io/tools/swaggerhub/) / [GraphQL](https://graphql.org/) 
+  - [Temporal](https://github.com/temporalio/temporal)
   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
   - [Argo CD](https://github.com/argoproj/argo-cd/)
-  - [Temporal](https://github.com/temporalio/temporal)
-
+  
 - Alumni Networks: 
   - Incubated by Acuity Brands
     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
