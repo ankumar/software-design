@@ -96,8 +96,6 @@ Garage door Up:
 
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
  
-- Architecture:
-
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
 > [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
