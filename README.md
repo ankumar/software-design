@@ -2,13 +2,12 @@
 
 <p align="center"> VS Code success 10 years journey By Erich Gamma (The "Gang of Four") </p>
 
-[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
-
-We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
 1. Application Modernization & Databases
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
+
+We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
 
 A Thread inside an organization:
 > [12/16 10:27 AM] Quinn, Henry
@@ -19,6 +18,8 @@ A Thread inside an organization:
 >> [12/16 11:40 AM] Voils, Steven M
 >> 
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
+
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
 The organic influence from public domain & open source is growing & healthy change for companies working on **challenges**. This **decentralization [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
