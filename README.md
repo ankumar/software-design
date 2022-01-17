@@ -4,8 +4,6 @@
 
 We need periodic reminder especially around being patient and persistent. Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
 
-## Products & Platform Collaboration 
-
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 1. Application Modernization & Databases
 2. Analytics, AI & Machine Learning
