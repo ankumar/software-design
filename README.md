@@ -87,7 +87,7 @@ These are risky bets seeking acceleration in public communities and also solving
     - https://github.com/open-metadata/OpenMetadata 
   
   - Walmart Global Tech Alumni:
-    - Data Science [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) & Software Engineering 
+    - Data Science w/ [Notebooks](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/) & Software Engineering 
 
  ---
   
