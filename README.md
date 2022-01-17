@@ -69,8 +69,6 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
 
-These are risky bets seeking acceleration in public communities and also solving problems spanning beyound the current organization.
-
   - [OpenAPI](https://swagger.io/tools/swaggerhub/) / [GraphQL](https://graphql.org/) 
   - [Backstage](https://github.com/backstage/backstage) 
   - [Prisma](https://github.com/prisma) 
@@ -115,7 +113,7 @@ These are risky bets seeking acceleration in public communities and also solving
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
  - [Creating sustainable, data-driven buildings](https://www.amazon.science/latest-news/creating-sustainable-data-driven-buildings)
 
-- Network Effect: 
+- Network Effect: These are risky bets seeking acceleration in public communities and also solving problems spanning beyound the current organization.
   - Acuity Brands:
     - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
