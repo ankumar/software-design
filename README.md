@@ -10,18 +10,6 @@ We need periodic reminder especially around being patient and persistent. Evolut
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
    
-- Design System 
-
-- Architecture 
-  - Decision Records
-  - Tech Radar
-  - C4 Model
-
-- Code
-  - Style Guides  
-  - Tech Docs
-  - Tests
-
 - SaaS [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
   - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
@@ -92,6 +80,18 @@ A Community Led Design palette - **Explore:** Decision Records, Radar, Registry,
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 >
 > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+
+- Architecture 
+  - Decision Records
+  - Tech Radar
+  - C4 Model
+
+- Design System 
+
+- Code
+  - Style Guides  
+  - Tech Docs
+  - Tests
 
 - Developer Relations:
 
