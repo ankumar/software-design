@@ -40,9 +40,10 @@ Cost Insights, ...
   
  ---
 
+1. Seeding
+
 [VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
-1. Writing & Seeding
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
@@ -52,7 +53,9 @@ Cost Insights, ...
 > [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
  - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
+ 
  - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
+ 
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
 Garage door Up:
