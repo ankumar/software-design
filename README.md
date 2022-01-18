@@ -88,7 +88,7 @@ Garage door Up:
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
-2. Scaling & Growth 
+2. Scaling  
 
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 >
