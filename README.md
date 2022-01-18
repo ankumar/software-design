@@ -1,4 +1,4 @@
-[![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
+[![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) [1]
 
 A Thread:
 > [12/16 10:27 AM] Quinn, Henry
@@ -39,7 +39,9 @@ Cost Insights, ...
   - [Argo CD](https://github.com/argoproj/argo-cd/)
   
  ---
-  
+
+[VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+
 1. Writing & Seeding
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
@@ -53,7 +55,7 @@ Cost Insights, ...
  - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
-[VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!, Garage door Up:
+Garage door Up:
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
