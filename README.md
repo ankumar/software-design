@@ -54,7 +54,7 @@ Cost Insights, ...
  - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
-VS Code success 10 years journey By Erich Gamma (The "Gang of Four"), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!, Garage door Up:
+[VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work!, Garage door Up:
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
