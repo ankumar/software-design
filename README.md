@@ -1,7 +1,5 @@
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
 
-[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
-
 A Thread:
 > [12/16 10:27 AM] Quinn, Henry
 >
@@ -43,6 +41,7 @@ Cost Insights, ...
  ---
   
 1. Writing & Seeding
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 >
