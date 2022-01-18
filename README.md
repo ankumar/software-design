@@ -1,10 +1,9 @@
-[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
-
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
-
 <p align="center"> VS Code success 10 years journey By Erich Gamma (The "Gang of Four") </p>
 
 Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! [1]
+
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
 A Thread:
 > [12/16 10:27 AM] Quinn, Henry
@@ -28,6 +27,7 @@ The organic influence from public domain & open source is expanding change for c
 A Community Led Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud 
 Cost Insights, ...
 
+> **Going far, Together**, Build new models around distributed work:
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 
 - Newsletter - Sharing success, Opportunity, Pivot, Recognition, Innovation etc. 
