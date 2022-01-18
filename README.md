@@ -110,10 +110,10 @@ Garage door Up:
 
 - Network Effect: These are tricky bets in public communities considering slow deliberate process for seeking acceleration.
   - Acuity Brands:
-    - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+    App Development - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
   - Uber Alumni:
-    - https://github.com/open-metadata/OpenMetadata 
+    Data - https://github.com/open-metadata/OpenMetadata 
   
   - Walmart Global Tech Alumni:
     - Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
