@@ -54,7 +54,8 @@ Cost Insights, ...
 >
 > [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
- - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ)   
+ - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
+ - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
 Garage door Up:
