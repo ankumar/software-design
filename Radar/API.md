@@ -8,6 +8,15 @@
 5. Create APIs with Explicit and Well-Documented Failure Modes
 6. Avoid Leaking Implementation Details at All Costs
 
+## Infrastructure
+
+Stripe - Building financial infrastructure for a lot more than payments
+- https://stripe.com/treasury 
+- https://stripe.com/issuing 
+
+Shopify - Business Online
+- shopify.com/balance
+
 ## Tools
 
 - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
