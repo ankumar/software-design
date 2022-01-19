@@ -18,7 +18,7 @@ A above thread inside a company focused on **challenges** is an instance of orga
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-A Community Led Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud 
+Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud 
 Cost Insights, ...
 
 > **Going far, Together**, Build new models around distributed work:
