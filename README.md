@@ -39,6 +39,11 @@ Cost Insights, ...
 
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
+Finance:
+- https://stripe.com/treasury
+- https://stripe.com/issuing
+- https://www.shopify.com/balance
+
 1. Seeding
 
 [VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
