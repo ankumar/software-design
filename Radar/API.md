@@ -15,7 +15,7 @@ Stripe - Building financial infrastructure for a lot more than payments
 - https://stripe.com/issuing 
 
 Shopify - Sell Online
-- shopify.com/balance
+- https://www.shopify.com/balance
 
 ## Tools
 
