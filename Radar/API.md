@@ -19,7 +19,7 @@ Shopify - Sell Online
 
 ## Tools
 
-Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, / Styles: REST, gRPC, EDA, GraphQL, ...
+Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... / Styles: REST, gRPC, EDA, GraphQL, ...
 
 - REST -  https://swagger.io/ | https://stoplight.io/studio/
 
