@@ -58,13 +58,6 @@ Cost Insights, ...
  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
-- Network Effect: These are big bets in public communities considering slow deliberate process for seeking acceleration.
-  - Acuity Brands: **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  
-  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata 
-  
-  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
-
 Garage door Up:
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
@@ -111,7 +104,14 @@ Connected, Collaboration Opportunities:
     - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
- 
+
+- Network Effect: These are big bets in public communities considering slow deliberate process for seeking acceleration.
+  - Acuity Brands: **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+  
+  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata 
+  
+  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
+
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
 > [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
