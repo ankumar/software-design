@@ -93,7 +93,15 @@ Garage door Up:
  
 2. Scaling 
 
+**Connected:**
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
+- Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
+- Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
+- Shopify, Twitter <-> +GCP
+- ...
+- ...
+- IoT <-> +\[AWS, Azure, GCP\]
+- SpaceX/STARLINK <-> +GCP
 
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 >
