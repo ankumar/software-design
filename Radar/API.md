@@ -7,6 +7,9 @@ Stripe - Building financial infrastructure for a lot more than payments
 Shopify - Sell Online
 - https://www.shopify.com/balance
 
+B2B Transactions - supply chain, logistics, healthcare & finance
+- https://www.stedi.com/
+
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
 - REST, gRPC, EDA, GraphQL, ...
