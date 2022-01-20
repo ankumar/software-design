@@ -38,7 +38,8 @@ Cost Insights, ...
   
  ---
 
-[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md)
+[API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md)
+- [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
 1. Seeding
 
