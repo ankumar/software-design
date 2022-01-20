@@ -45,7 +45,7 @@ Cost Insights, ...
   
  ---
 
-1. Seeding
+**1. Seeding:**
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 >
@@ -89,7 +89,7 @@ Garage door Up:
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
-2. Scaling
+**2. Scaling:**
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
