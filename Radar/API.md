@@ -1,8 +1,3 @@
-Specifications & Standard
-
-- Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
-- Styles: REST, gRPC, EDA, GraphQL, ...
-
 ## API
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
@@ -21,6 +16,10 @@ Stripe - Building financial infrastructure for a lot more than payments
 
 Shopify - Sell Online
 - https://www.shopify.com/balance
+
+Specifications & Standard
+- Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
+- Styles: REST, gRPC, EDA, GraphQL, ...
 
 ## Tools
 
