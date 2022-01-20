@@ -16,12 +16,13 @@ A above thread inside a company focused on **challenges** is an instance of orga
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
+> **Going far, Together**, Build new models around distributed work:
+> 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
 Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud 
 Cost Insights, ...
 
-> **Going far, Together**, Build new models around distributed work:
 - Newsletter - Sharing success, Opportunity, Pivot, Recognition, Innovation etc. 
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
