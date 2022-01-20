@@ -38,4 +38,4 @@ Specifications & Standards
 
 - FW's: https://linkedin.github.io/rest.li/
 
-- Schema: https://www.schemastore.org/json/ | https://buf.build/explore
+- Schemas: https://www.schemastore.org/json/ | https://buf.build/explore
