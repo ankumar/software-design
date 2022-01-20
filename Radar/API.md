@@ -34,6 +34,8 @@ Specifications & Standards
 
 - AsyncAPI: https://www.asyncapi.com/
 
+- API Contract: https://github.com/airtasker/spot
+
 - FW's: https://linkedin.github.io/rest.li/
 
 - Schema: https://www.schemastore.org/json/ | https://buf.build/explore
