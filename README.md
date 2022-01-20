@@ -13,16 +13,16 @@
 
 :arrow_up: thread inside a company **experimenting with changes[1]** & an instance of organic influence from public domain & open source. The **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
-1. Application Modernization & Databases 
-2. Analytics, AI & Machine Learning
-3. Security, Cloud Platforms & Infrastructure
-4. Retail, Manufacturing, Finance, Entertainment, ...
-
 > **Going far, Together**, Build new models around distributed work:
 >
 > > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 > >
 > > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
+
+1. Application Modernization & Databases 
+2. Analytics, AI & Machine Learning
+3. Security, Cloud Platforms & Infrastructure
+4. Retail, Manufacturing, Finance, Entertainment, ...
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
