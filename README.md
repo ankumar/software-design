@@ -43,23 +43,9 @@ Cost Insights, ...
   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
   - [Argo CD](https://github.com/argoproj/argo-cd/)
   
- ---
+ --
 
-**1. Seeding:**
-
-> Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
->
-> Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
->
-> [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
-
- - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
- 
- - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
- 
- - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
-
-Garage door Up:
+1. Garage door Up:
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
@@ -89,7 +75,25 @@ Garage door Up:
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
-**2. Scaling:**
+ 2. **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+
+ --
+
+**Seeding:**
+
+> Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
+>
+> Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
+>
+> [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
+
+ - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
+ 
+ - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
+ 
+ - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+ 
+**Scaling:**
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
@@ -115,10 +119,7 @@ Connected, Collaboration Opportunities:
   - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
 
 - Network Effect: These are big bets in public communities considering slow deliberate process for seeking acceleration.
-  - Acuity Brands: **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  
-  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata 
-  
+  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
   - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
 
 
