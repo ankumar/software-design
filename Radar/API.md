@@ -10,6 +10,9 @@ Shopify - Sell Online
 B2B Transactions - supply chain, logistics, healthcare & finance
 - https://www.stedi.com/
 
+Plaid - financial Accounts
+- https://plaid.com/
+
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
 - REST, gRPC, EDA, GraphQL, ...
