@@ -46,6 +46,7 @@ Cost Insights, ...
  --
 
 1. Garage door Up:
+
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
@@ -75,7 +76,9 @@ Cost Insights, ...
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
  
- 2. **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+2. Collaboration Opportunities:
+
+- **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
  --
 
