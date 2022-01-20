@@ -94,7 +94,7 @@ Garage door Up:
 2. Scaling 
 
 [![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-
+Connected, Opportunities:
 - Apple, Stripe, Meta <--> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <--> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <--> +GCP
