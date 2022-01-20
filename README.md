@@ -54,6 +54,13 @@ Cost Insights, ...
  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
+- Network Effect: These are big bets in public communities considering slow deliberate process for seeking acceleration.
+  - Acuity Brands: **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+  
+  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata 
+  
+  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
+
 Garage door Up:
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
@@ -106,9 +113,3 @@ Garage door Up:
 > >
 > > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
 
-- Network Effect: These are big bets in public communities considering slow deliberate process for seeking acceleration.
-  - Acuity Brands: **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  
-  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata 
-  
-  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
