@@ -1,13 +1,3 @@
-## API
-
-[Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
-1. APIs are Forever
-2. Never Break Backward Compatibility
-3. Work Backwards from Customer Use Cases
-4. Create APIs That are Self Describing and Have a Clear, Specific Purpose
-5. Create APIs with Explicit and Well-Documented Failure Modes
-6. Avoid Leaking Implementation Details at All Costs
-
 ## Infrastructure
 
 Stripe - Building financial infrastructure for a lot more than payments
@@ -20,6 +10,16 @@ Shopify - Sell Online
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
 - REST, gRPC, EDA, GraphQL, ...
+
+## API
+
+[Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
+1. APIs are Forever
+2. Never Break Backward Compatibility
+3. Work Backwards from Customer Use Cases
+4. Create APIs That are Self Describing and Have a Clear, Specific Purpose
+5. Create APIs with Explicit and Well-Documented Failure Modes
+6. Avoid Leaking Implementation Details at All Costs
 
 ## Tools
 
