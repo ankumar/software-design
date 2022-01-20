@@ -29,15 +29,6 @@
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
 
-  - [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
-  - [Backstage](https://github.com/backstage/backstage) 
-    - SaaS: https://roadie.io/
-  - [Prisma](https://github.com/prisma) 
-    - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
-  - [Temporal](https://github.com/temporalio/temporal)
-  - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-  - [Argo CD](https://github.com/argoproj/argo-cd/)
-  
  --
 
 1. Garage door Up:
@@ -74,7 +65,15 @@ Cost Insights, ...
    
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
- 
+   - [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
+  - [Backstage](https://github.com/backstage/backstage) 
+    - SaaS: https://roadie.io/
+  - [Prisma](https://github.com/prisma) 
+    - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
+  - [Temporal](https://github.com/temporalio/temporal)
+  - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+  - [Argo CD](https://github.com/argoproj/argo-cd/)
+  
 2. Collaboration Opportunities:
 
 - **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
