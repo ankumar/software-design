@@ -1,6 +1,6 @@
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
-( [VS Code success 10 years journey By Erich Gamma (The "Gang of Four")](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! )
+( [VS Code success 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! )
 
 > [12/16 10:27 AM] Quinn, Henry
 >
