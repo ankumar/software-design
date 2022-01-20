@@ -66,13 +66,11 @@ Cost Insights, ...
  - Open Source
    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
    - [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
-  - [Backstage](https://github.com/backstage/backstage) 
-    - SaaS: https://roadie.io/
-  - [Prisma](https://github.com/prisma) 
-    - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
-  - [Temporal](https://github.com/temporalio/temporal)
-  - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-  - [Argo CD](https://github.com/argoproj/argo-cd/)
+   - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
+   - [Prisma](https://github.com/prisma) / [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
+   - [Temporal](https://github.com/temporalio/temporal)
+   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+   - [Argo CD](https://github.com/argoproj/argo-cd/)
   
 2. Collaboration Opportunities:
 
