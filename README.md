@@ -11,7 +11,7 @@
 
 :arrow_up: thread inside a company focused on **challenges** is an instance of organic influence from public domain & open source. This **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
-1. Application Modernization & Databases
+1. Application Modernization & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
@@ -29,6 +29,7 @@ Cost Insights, ...
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
 
   - [OpenAPI](https://swagger.io/tools/swaggerhub/) / [GraphQL](https://graphql.org/) 
+    - [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
   - [Backstage](https://github.com/backstage/backstage) 
   - [Prisma](https://github.com/prisma) 
     - [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
