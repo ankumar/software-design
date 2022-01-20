@@ -29,8 +29,6 @@
 Design palette - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Cloud 
 Cost Insights, ...
 
-- Newsletter - Sharing success, Opportunity, Pivot, Recognition, Innovation etc. 
-
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [crossover project](https://www.hillelwayne.com/post/what-we-can-learn/)
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
