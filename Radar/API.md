@@ -1,3 +1,8 @@
+Specifications & Standard
+
+- Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
+- Styles: REST, gRPC, EDA, GraphQL, ...
+
 ## API
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
@@ -18,8 +23,6 @@ Shopify - Sell Online
 - https://www.shopify.com/balance
 
 ## Tools
-
-Formats: OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... / Styles: REST, gRPC, EDA, GraphQL, ...
 
 - REST -  https://swagger.io/ | https://stoplight.io/studio/
 
