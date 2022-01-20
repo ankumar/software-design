@@ -19,7 +19,7 @@
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
 > **Going far, Together**, Build new models around distributed work:
-
+>
 > > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 > >
 > > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
