@@ -2,7 +2,7 @@
 
 ( [VS Code success 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), Evolution & journeys are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! )
 
-1. Application Modernization & Databases 
+1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
