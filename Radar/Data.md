@@ -110,3 +110,4 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * Vertex AI - https://cloud.google.com/blog/topics/retail/retail-forecasting-ai-real-time-insights-vertex-ai-forecast
   * Sagemaker - https://studiolab.sagemaker.aws/
   * Azure Machine Learning Studio - 
+  * https://observablehq.com/
