@@ -72,9 +72,9 @@ Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ..
    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
    - [Argo CD](https://github.com/argoproj/argo-cd/)
   
-2. Collaboration Opportunities:
+2. Distributed & Collaboration Opportunities:
 
-- **Apps/State, Serverless Model & Sustainability** - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+- Apps/State, Serverless Model & Sustainability - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
  --
 
