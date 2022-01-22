@@ -34,11 +34,11 @@ Specifications & Standards
 
 - REST -  https://swagger.io/ | https://stoplight.io/studio/
 
+- AsyncAPI: https://www.asyncapi.com/
+
 - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ | https://hoppscotch.io/
 
 - Protocol Buffers - https://buf.build/
-
-- AsyncAPI: https://www.asyncapi.com/
 
 - API Contract: https://github.com/airtasker/spot
 
