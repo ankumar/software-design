@@ -41,6 +41,8 @@ Specifications & Standards
 
 - FW's: https://linkedin.github.io/rest.li/
 
+- Docs: https://github.com/veho-technologies/slate
+
 
 
 
