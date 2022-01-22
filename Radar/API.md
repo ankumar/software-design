@@ -1,17 +1,20 @@
 ## Infrastructure
 
-Stripe - Building financial infrastructure for a lot more than payments
+Building financial infrastructure for a lot more than payments - Stripe 
 - https://stripe.com/treasury 
 - https://stripe.com/issuing 
 
-Shopify - Sell Online
+Sell Online - Shopify 
 - https://www.shopify.com/balance
 
 B2B Transactions - supply chain, logistics, healthcare & finance
 - https://www.stedi.com/
 
-Plaid - financial Accounts
+Consumer Accounts - Plaid 
 - https://plaid.com/
+
+ Digital goods - ?
+ - ?
 
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
