@@ -3,13 +3,13 @@
 Digital goods - ?
  - ?
 
-Financial infrastructure for a lot more than payments - Stripe 
+REST: Financial infrastructure for a lot more than payments - Stripe 
 - https://stripe.com/treasury 
 - https://stripe.com/issuing  
 - https://www.shopify.com/balance
 - https://plaid.com/
 
-B2B Transactions, Supply chain, Logistics, Healthcare & Finance
+EDI: B2B Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
 
 ## Design
