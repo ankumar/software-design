@@ -10,7 +10,6 @@ EDI: B2B Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
 
 Digital goods: ?
- - 
 
 ## Design
 
