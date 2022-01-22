@@ -31,6 +31,49 @@
 
 The work **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
+1. **Seeding / Changing / Scaling:**
+
+> There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
+>
+> But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
+> 
+> Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
+> Videos: https://www.youtube.com/user/brandst/videos
+
+> Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
+>
+> Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
+>
+> [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
+
+ - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
+ 
+ - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
+ 
+ - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+
+2. **Distributed:**
+
+> [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
+>
+> [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
+>
+> > Ruth Malan: Here's my understanding: In a polarity map, we recognize that there are poles, and over-emphasis could get us putting too much effort in one or other pole -- at which point the impetus to move away from the downsides of the pole would be strong. So we're seeking to get more "both and" which takes taking actions, and watching for the signals of a dip into too much of a pole (and hence too much of its downsides).  The polarities are unavoidable -- for example, we can't avoid there being some architecture decisions made in the teams without coordinating across teams. We want high autonomy in teams, so they're making a lot of decisions.  And some of these will turn out to be architectural(ly significant). At the same time as wanting teams to have degrees of independence, we want architecturally significant decisions to be made from a system perspective. So what can we do, to make more of that happen, and happen in time? (Whereas a dichotomy would say: pick one, you can't have both. If you have team autonomy you can't have architects (role or hat); if you have more team autonomy, you have less architecture (at least, less architecture (as intentional design; there will still be "accidental" architecture, etc.); etc. There is no notion that by taking actions, you could get more autonomy (where it matters) while still having (just enough) architecture (where it matters). Etc.) 
+> >
+> > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
+
+- Developer Relations:
+  - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
+    - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
+
+  - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
+
+- Network Effect & Collaboration Opportunities: These are big bets in public communities considering slow deliberate process for seeking acceleration.
+  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
+  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
+
+[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
+
  --
 
 1. Garage door Up:
@@ -76,50 +119,4 @@ Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ..
 2. Collaboration Opportunities:
 
 - Apps/State, Serverless Model & Sustainability - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-
- --
-
-1. **Seeding / Changing / Scaling:**
-
-> There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
->
-> But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
-> 
-> Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
-> Videos: https://www.youtube.com/user/brandst/videos
-
-> Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
->
-> Open software design is the idea that software design must be available for public use. It's the idea that **we should Work with the garage door up**. The main audience of the design is developers who built the software, and not external people. The contents are living artefacts, they naturally evolve as the software evolve. In the world where the majority of large real-world programs are closed-source, opening up our software design documentation is the least we can do to contribute back to the community.
->
-> [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
-
- - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
- 
- - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
- 
- - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
-
-2. **Distributed:**
-
-> [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
->
-> [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
->
-> > Ruth Malan: Here's my understanding: In a polarity map, we recognize that there are poles, and over-emphasis could get us putting too much effort in one or other pole -- at which point the impetus to move away from the downsides of the pole would be strong. So we're seeking to get more "both and" which takes taking actions, and watching for the signals of a dip into too much of a pole (and hence too much of its downsides).  The polarities are unavoidable -- for example, we can't avoid there being some architecture decisions made in the teams without coordinating across teams. We want high autonomy in teams, so they're making a lot of decisions.  And some of these will turn out to be architectural(ly significant). At the same time as wanting teams to have degrees of independence, we want architecturally significant decisions to be made from a system perspective. So what can we do, to make more of that happen, and happen in time? (Whereas a dichotomy would say: pick one, you can't have both. If you have team autonomy you can't have architects (role or hat); if you have more team autonomy, you have less architecture (at least, less architecture (as intentional design; there will still be "accidental" architecture, etc.); etc. There is no notion that by taking actions, you could get more autonomy (where it matters) while still having (just enough) architecture (where it matters). Etc.) 
-> >
-> > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
-
-- Developer Relations:
-  - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-    - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
-
-  - [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
-
-- Network Effect & Collaboration Opportunities: These are big bets in public communities considering slow deliberate process for seeking acceleration.
-  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
-  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
-
-[![Imagine this for an enterprise's cloud infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-
 
