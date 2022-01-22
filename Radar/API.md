@@ -16,10 +16,6 @@ Consumer Accounts - Plaid
  Digital goods - ?
  - ?
 
-Specifications & Standards
-- OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
-- REST, gRPC, EDA, GraphQL, ...
-
 ## Design
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
@@ -29,6 +25,10 @@ Specifications & Standards
 4. Create APIs That are Self Describing and Have a Clear, Specific Purpose
 5. Create APIs with Explicit and Well-Documented Failure Modes
 6. Avoid Leaking Implementation Details at All Costs
+
+Specifications & Standards
+- OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
+- REST, gRPC, EDA, GraphQL, ...
 
 ## Dev
 
