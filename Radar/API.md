@@ -20,7 +20,7 @@ Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
 - REST, gRPC, EDA, GraphQL, ...
 
-## API
+## Design
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
 1. APIs are Forever
