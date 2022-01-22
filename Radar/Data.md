@@ -42,6 +42,7 @@ OpenAI:
 * [Can Code](https://spectrum.ieee.org/openai-wont-replace-coders)
 > "due to the cost of training, it wasn't feasible to retrain the model."
 [Cost of Training](https://spectrum.ieee.org/deep-learning-computational-cost)
+* [AI and Compute](https://openai.com/blog/ai-and-compute/)
 * [Cohere](https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/)
 
 Stanford:
