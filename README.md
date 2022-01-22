@@ -31,7 +31,7 @@
 
 The work **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
-1. **Seeding / Changing / Scaling:**
+**1. Seeding / Changing / Scaling:**
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
@@ -52,7 +52,7 @@ The work **distributed [2]** is how we should think about acceleration of 10+ ye
  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
-2. **Distributed:**
+**2. Distributed:**
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
