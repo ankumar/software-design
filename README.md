@@ -79,7 +79,7 @@ Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ..
 
  --
 
-**Seeding / Changing / Scaling:**
+1. **Seeding / Changing / Scaling:**
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
@@ -100,7 +100,7 @@ Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ..
  
  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
-**Distributed:**
+2. **Distributed:**
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
