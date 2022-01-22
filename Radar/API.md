@@ -1,8 +1,5 @@
 ## Infrastructure
 
-Digital goods - ?
- - ?
-
 REST: Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
 - https://stripe.com/treasury 
 - https://stripe.com/issuing  
@@ -11,6 +8,9 @@ REST: Financial infrastructure for a lot more than payments - Stripe, Plaid, Sho
 
 EDI: B2B Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
+
+Digital goods - ?
+ - ?
 
 ## Design
 
