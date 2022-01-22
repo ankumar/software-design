@@ -15,7 +15,7 @@
 >> 
 >> swyx has, presumably by happenstance, happened to show up on a number of podcasts i've been monitoring.  i agree that he's got a very refreshing take on how to learn, how to grow, and he's got a great story backing up his philosophy given his transition from finance to software. Quinn, Henry - this is actually a really great article (i'm perusing it) that i hadn't run into before.  i think it'd be a great thing to share on the blast i did in general, just to whet people's appetites for what's motivating us to do this kind of exploration in the first place
 
-:arrow_up: thread inside a company **experimenting with changes [1]** & an instance of organic influence from public domain & open source. The **distributed work [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
+:arrow_up: thread inside a company **experimenting with changes [1]** & an instance of organic influence from public domain & open source. 
 
 > **Going far, Together**: Exploring & Building new models around distributed work:
 >
@@ -28,6 +28,8 @@
 
 - Open Source & [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
+
+The work **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
  --
 
