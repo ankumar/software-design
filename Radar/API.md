@@ -1,16 +1,12 @@
 ## Infrastructure
 
 Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
-
-REST:
 - https://stripe.com/treasury 
 - https://stripe.com/issuing  
 - https://www.shopify.com/balance
 - https://plaid.com/
 
 B2B Transactions, Supply chain, Logistics, Healthcare & Finance
-
-EDI:
 - https://www.stedi.com/
 
 Digital goods: ?
