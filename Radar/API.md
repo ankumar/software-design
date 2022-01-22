@@ -35,7 +35,7 @@ Specifications & Standards
 
 - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ | https://hoppscotch.io/
 
-- Schemas: https://www.schemastore.org/json/ | https://smartdatamodels.org/index.php/list-of-data-models/ | https://buf.build/explore | https://cloud.prisma.io/
+- Schemas: https://www.schemastore.org/json/ | https://doc.crds.dev/ | https://smartdatamodels.org/index.php/list-of-data-models/ | https://buf.build/explore | https://cloud.prisma.io/
 
 - API Contract: https://github.com/airtasker/spot
 
