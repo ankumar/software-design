@@ -9,8 +9,8 @@ REST: Financial infrastructure for a lot more than payments - Stripe, Plaid, Sho
 EDI: B2B Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
 
-Digital goods - ?
- - ?
+?: Digital goods - ?
+ - 
 
 ## Design
 
