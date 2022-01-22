@@ -3,7 +3,7 @@
 Digital goods - ?
  - ?
 
-REST: Financial infrastructure for a lot more than payments - Stripe 
+REST: Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
 - https://stripe.com/treasury 
 - https://stripe.com/issuing  
 - https://www.shopify.com/balance
