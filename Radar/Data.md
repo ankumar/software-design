@@ -103,6 +103,8 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * https://sisudata.com/
   * https://www.anyscale.com/
 
+  * https://observablehq.com/
+
 * Notebooks: Jupyter was awarded the 2017 ACM Software Systems Award — a prestigious honor it shares with Java, Unix, and the Web.
   * https://netflixtechblog.com/notebook-innovation-591ee3221233
   * https://code.visualstudio.com/blogs/2021/08/05/notebooks / https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
@@ -111,4 +113,3 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * Vertex AI - https://cloud.google.com/blog/topics/retail/retail-forecasting-ai-real-time-insights-vertex-ai-forecast
   * Sagemaker - https://studiolab.sagemaker.aws/
   * Azure Machine Learning Studio - 
-  * https://observablehq.com/
