@@ -43,7 +43,12 @@ Specifications & Standards
   -  API Graph: https://hopper.wundergraph.com/
   -  API Design: https://hoppscotch.io/
 
-- Schemas: https://www.schemastore.org/json/ | https://doc.crds.dev/ | https://smartdatamodels.org/index.php/list-of-data-models/ | https://buf.build/explore | https://cloud.prisma.io/
+- Schemas:
+  - https://www.schemastore.org/json/ 
+  - https://doc.crds.dev/ 
+  - https://smartdatamodels.org/index.php/list-of-data-models/ 
+  - https://buf.build/explore 
+  - https://cloud.prisma.io/
 
 - API Contract: https://github.com/airtasker/spot
 
