@@ -26,7 +26,7 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
   * https://www.getdbt.com/
 
 * Catalogs:
-  * https://github.com/opendatadiscovery/awesome-data-catalogs
+  * [Awesome Data Discovery and Observability](https://github.com/opendatadiscovery/awesome-data-catalogs)
   * [Smart Data Models](https://smartdatamodels.org/)
 
 * Private data:
