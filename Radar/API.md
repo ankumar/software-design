@@ -43,7 +43,9 @@ Specifications & Standards
     - Studio: https://www.apollographql.com/studio/develop/
     - Studio: https://graphql.stepzen.com/ 
     - Graph: https://hopper.wundergraph.com/
-    - REST/GraphQL/Realtime: https://hoppscotch.io/
+  
+  - https://www.postman.com/product/what-is-postman/
+  - https://hoppscotch.io/
 
 - Schemas:
   - https://www.schemastore.org/json/ 
