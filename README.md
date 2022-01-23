@@ -75,8 +75,9 @@ The work **distributed [2]** is how we should think about acceleration of 10+ ye
   - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
   - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
 
-- [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-  - [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
+[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
+  
+- [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
 
  --
 
