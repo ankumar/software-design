@@ -1,5 +1,7 @@
 ## Infrastructure
 
+“Will AWS and Azure become "dumb pipes" of compute, storage, and other fundamental data center primitives? Or will they continue to compete and beat third party providers at high level services?” -- https://matt-rickard.com/aws-is-not-a-dumb-pipe/
+
 “computation may someday be organized as a public utility, just as the telephone system is a public utility. We can envisage computer service companies whose subscribers are connected to them [...]. Each subscriber needs to pay only for the capacity that he actually uses, but he has access to all programming languages characteristic of a very large system.” -- https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf
 
 ### Cloud 
