@@ -37,11 +37,13 @@ Specifications & Standards
 - GraphQL:
   -  AWS: https://sandbox.amplifyapp.com/getting-started
   -  Cassandra: https://stargate.io/
-  -  Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ ( Studio: https://www.apollographql.com/studio/develop/ )
   -  Prisma: https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
-  -  Studio: https://graphql.stepzen.com/ 
-  -  API Graph: https://hopper.wundergraph.com/
-  -  API Design: https://hoppscotch.io/
+  
+  - Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ 
+    - Studio: https://www.apollographql.com/studio/develop/
+    - Studio: https://graphql.stepzen.com/ 
+    - Graph: https://hopper.wundergraph.com/
+    - REST/GraphQL/Realtime: https://hoppscotch.io/
 
 - Schemas:
   - https://www.schemastore.org/json/ 
