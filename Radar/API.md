@@ -44,10 +44,11 @@ Specifications & Standards
     - Studio: https://graphql.stepzen.com/ 
     - Graph: https://hopper.wundergraph.com/
   
+- Platform:  
   - https://www.postman.com/product/what-is-postman/
   - https://hoppscotch.io/
 
-- Schemas:
+- Schema:
   - https://www.schemastore.org/json/ 
   - https://doc.crds.dev/ 
   - https://smartdatamodels.org/index.php/list-of-data-models/ 
