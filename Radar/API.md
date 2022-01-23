@@ -1,7 +1,5 @@
 ## Infrastructure
 
-Digital goods: ?
-
 Healthcare
 - https://docs.truepill.com/
 
