@@ -117,7 +117,6 @@ Shared Context: Product/Tech, **Explore:** Decision Records, Radar, Registry, ..
   - Open Source
     - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
     - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
-    - [Prisma](https://github.com/prisma) / [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
     - [Temporal](https://github.com/temporalio/temporal)
     - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
     - [Argo CD](https://github.com/argoproj/argo-cd/)
