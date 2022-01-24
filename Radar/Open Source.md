@@ -37,3 +37,5 @@
 * [Prisma](https://github.com/prisma)
   * [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
   * [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0) / https://dev.to/sabinthedev/nx-prisma-generator-af3 
+
+* [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
