@@ -27,7 +27,7 @@
 
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
 
-The work **distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
+The **cognitive load & work distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
 **1. Seeding / Changing / Scaling:**
 
