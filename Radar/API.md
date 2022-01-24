@@ -40,9 +40,9 @@ Specifications & Standards
   -  Prisma: https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
   
   - Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ 
-    - Studio: https://www.apollographql.com/studio/develop/
-    - Studio: https://graphql.stepzen.com/ 
-    - Graph: https://hopper.wundergraph.com/
+    - https://www.apollographql.com/studio/develop/
+    - https://graphql.stepzen.com/ 
+    - https://hopper.wundergraph.com/
   
 - Platform:  
   - https://www.postman.com/product/what-is-postman/
