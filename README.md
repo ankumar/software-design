@@ -74,8 +74,6 @@ The work **distributed [2]** is how we should think about acceleration of 10+ ye
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
   
-- [API's](https://github.com/ankumar/Open-software-design/blob/main/Radar/API.md) 
-
  --
 
 1. Garage door Up:
