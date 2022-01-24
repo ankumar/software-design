@@ -29,7 +29,7 @@
 
 The **cognitive load & work distributed [2]** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
-**1. Seeding / Changing / Scaling:**
+**1. Seeding / Changing / Learning & Scaling:**
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
