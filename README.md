@@ -19,7 +19,7 @@
 
 > **Going far, Together** - Exploring & Building new models around distributed work:
 
-- Communities - Architecture, DevOps/SRE, Quality, Design/UX
+- Communities - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
