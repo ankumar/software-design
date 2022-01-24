@@ -33,3 +33,6 @@
   * https://github.com/dosco/graphjin
   * https://wundergraph.com/docs/introduction/sequence_diagram (going to be Open Source soon!)
   * https://www.onegraph.com/docs/intro.html / [Merged with Netlify!](https://www.onegraph.com/blog/post/9/onegraph-is-joining-netlify)
+
+* Prisma
+  * https://dev.to/sabinthedev/nx-prisma-generator-af3 
