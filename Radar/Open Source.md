@@ -34,5 +34,5 @@
   * https://wundergraph.com/docs/introduction/sequence_diagram (going to be Open Source soon!)
   * https://www.onegraph.com/docs/intro.html / [Merged with Netlify!](https://www.onegraph.com/blog/post/9/onegraph-is-joining-netlify)
 
-* Prisma
-  * https://dev.to/sabinthedev/nx-prisma-generator-af3 
+* [Prisma](https://github.com/prisma)
+  * [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0) / https://dev.to/sabinthedev/nx-prisma-generator-af3 
