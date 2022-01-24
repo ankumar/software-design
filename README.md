@@ -17,7 +17,7 @@
 
 :arrow_up: thread inside a company **experimenting with changes [1]** & an instance of organic influence from public domain & open source. 
 
-> **Going far, Together**: Exploring & Building new models around distributed work:
+> **Going far, Together** - Exploring & Building new models around distributed work:
 
 - Communities - Architecture, DevOps/SRE, Quality, Design/UX
 
