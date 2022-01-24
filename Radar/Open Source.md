@@ -35,4 +35,5 @@
   * https://www.onegraph.com/docs/intro.html / [Merged with Netlify!](https://www.onegraph.com/blog/post/9/onegraph-is-joining-netlify)
 
 * [Prisma](https://github.com/prisma)
+  * [how Prisma works under the hood](https://twitter.com/nikolasburk/status/1476844880219488257)
   * [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0) / https://dev.to/sabinthedev/nx-prisma-generator-af3 
