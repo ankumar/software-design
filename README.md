@@ -67,8 +67,7 @@ The work **distributed [2]** is how we should think about acceleration of 10+ ye
 
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-    - [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
-
+   
 - Network Effect & Collaboration Opportunities: These are big bets in public communities considering slow deliberate process for seeking acceleration.
   - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
   - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
