@@ -29,6 +29,6 @@
 
 * https://artillery.io/
 
-* https://github.com/dosco/graphjin
-
-* https://wundergraph.com/docs/introduction/sequence_diagram (going to be Open Source soon!)
+* [Building Modern APIs with GraphQL](https://www.youtube.com/watch?v=bRnu7xvU1_Y)
+  * https://github.com/dosco/graphjin
+  * https://wundergraph.com/docs/introduction/sequence_diagram (going to be Open Source soon!)
