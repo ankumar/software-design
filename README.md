@@ -85,7 +85,8 @@ The work **distributed [2]** is how we should think about acceleration of 10+ ye
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
+Shared Context: Product/Tech, **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
+
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
@@ -101,24 +102,25 @@ Product/Tech Shared Context - **Explore:** Decision Records, Radar, Registry, ..
   - Tech Radar
   - C4 Model
 
-- SaaS [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
-  - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
-  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
-  - [Miro](https://miro.com/)
-  - [Postman](https://www.postman.com/)
-  - [Striim](https://www.striim.com/)
-  - [Aqua](https://www.aquasec.com/)
-  - [Datadog](https://www.datadoghq.com/)
-  - [Google Cloud - BigQuery](https://cloud.google.com/)
-  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
+- Developer Experience
+  - SaaS [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
+    - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
+    - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
+    - [Miro](https://miro.com/)
+    - [Postman](https://www.postman.com/)
+    - [Striim](https://www.striim.com/)
+    - [Aqua](https://www.aquasec.com/)
+    - [Datadog](https://www.datadoghq.com/)
+    - [Google Cloud - BigQuery](https://cloud.google.com/)
+    - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
    
- - Open Source
-   - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
-   - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
-   - [Prisma](https://github.com/prisma) / [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
-   - [Temporal](https://github.com/temporalio/temporal)
-   - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-   - [Argo CD](https://github.com/argoproj/argo-cd/)
+  - Open Source
+    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
+    - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
+    - [Prisma](https://github.com/prisma) / [Generators](https://prismaio.notion.site/Prisma-Generators-a2cdf262207a4e9dbcd0e362dfac8dc0)  
+    - [Temporal](https://github.com/temporalio/temporal)
+    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+    - [Argo CD](https://github.com/argoproj/argo-cd/)
   
 2. Collaboration Opportunities:
 
