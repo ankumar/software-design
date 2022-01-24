@@ -26,7 +26,7 @@ Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, ... 
 - REST, gRPC, EDA, GraphQL, ...
 
-## Dev
+## Developer experience
 
 - REST -  https://swagger.io/ | https://stoplight.io/studio/
 
