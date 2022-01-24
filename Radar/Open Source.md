@@ -30,3 +30,5 @@
 * https://artillery.io/
 
 * https://github.com/dosco/graphjin
+
+* https://wundergraph.com/docs/introduction/sequence_diagram (going to be Open Source soon!)
