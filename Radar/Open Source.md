@@ -41,3 +41,7 @@
 * [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
 * [The App Framework for Startups](https://github.com/redwoodjs/redwood)
+
+* Networks & Collaboration Opportunities
+  * Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
+  * Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
