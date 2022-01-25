@@ -68,10 +68,6 @@ The **cognitive load & work distributed [2]** is how we should think about accel
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
    
-- Networks & Collaboration Opportunities: These are big bets in public communities considering slow deliberate process for seeking acceleration.
-  - Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
-  - Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
-
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
   
  --
