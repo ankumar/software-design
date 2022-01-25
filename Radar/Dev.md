@@ -8,7 +8,7 @@ https://about.sourcegraph.com/podcast
 - https://www.atomicjar.com/
 - https://www.jetbrains.com/fleet/
  
-## Autopilot 
+## Pilots 
 
-- AI - https://copilot.github.com/
-- GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
+- Copilot - https://copilot.github.com/
+- Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
