@@ -6,6 +6,6 @@ https://about.sourcegraph.com/podcast
 - Cloud IDE - Gitpod, GitHub, Codespaces, Replit
 - Comparison Guide - https://harness.io/learn/comparison-guide/
 - https://www.atomicjar.com/
-- https://www.jetbrains.com/fleet/
+- Next-generation IDE - https://www.jetbrains.com/fleet/
 - Copilot - https://copilot.github.com/
 - Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
