@@ -1,6 +1,8 @@
 ## Open Source
 
-[Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
+These are big bets in public communities considering slow deliberate process for seeking acceleration.
+
+* [Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
 
 * [Configure Unify Execute](https://cuelang.org/)
   * https://github.com/hofstadter-io
