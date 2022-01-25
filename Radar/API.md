@@ -35,9 +35,11 @@ Specifications & Standards
 - Protocol Buffers - https://buf.build/
 
 - GraphQL:
-  -  AWS: https://sandbox.amplifyapp.com/getting-started
-  -  Cassandra: https://stargate.io/
-  -  Prisma: https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
+  - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
+  
+  - AWS: https://sandbox.amplifyapp.com/getting-started
+  - Cassandra: https://stargate.io/
+  - Prisma: https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
   
   - Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ 
     - https://www.apollographql.com/studio/develop/
