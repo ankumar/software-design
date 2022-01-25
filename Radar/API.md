@@ -43,6 +43,7 @@ Specifications & Standards
     - https://www.apollographql.com/studio/develop/
     - https://graphql.stepzen.com/ 
     - https://hopper.wundergraph.com/
+    - https://www.pothos-graphql.dev/ (Code-First Type-Safe GraphQL Schema builder)
   
 - Platform:  
   - https://www.postman.com/product/what-is-postman/
