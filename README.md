@@ -67,6 +67,7 @@
 
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
+  - Videos: https://www.youtube.com/c/Honeypotio/videos
    
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
   
