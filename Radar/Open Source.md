@@ -40,4 +40,4 @@
 
 * [discuss Temporal.io and how it's like React for the backend!](https://www.youtube.com/watch?v=-mxqCOJA-xI)  
 
-* The App Framework for Startups - https://github.com/redwoodjs/redwood
+* [The App Framework for Startups](https://github.com/redwoodjs/redwood)
