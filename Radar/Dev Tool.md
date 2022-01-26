@@ -8,3 +8,7 @@
 - Next-generation IDE - https://www.jetbrains.com/fleet/
 - Copilot - https://copilot.github.com/
 - Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
+
+--
+
+- https://thenewstack.io/aws-dev-tools-head-ken-exner-one-cloud-api-to-rule-them-all/
