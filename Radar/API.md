@@ -65,7 +65,10 @@ Specifications & Standards
 
 - API Contract: https://github.com/airtasker/spot
 
-- FW's: https://linkedin.github.io/rest.li/
+- FW's & Guidelines: 
+
+- https://linkedin.github.io/rest.li/
+- https://opensource.zalando.com/restful-api-guidelines/
 
 - Docs: https://github.com/veho-technologies/slate
 
