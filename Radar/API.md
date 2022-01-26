@@ -15,6 +15,7 @@ Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify e
 Postman
 - Database APIs: https://blog.postman.com/top-database-apis/
 - Payment APIs: https://blog.postman.com/top-payment-apis-fintech/
+- Communication APIs: https://blog.postman.com/explore-top-communication-apis/
 
 ## Design
 
