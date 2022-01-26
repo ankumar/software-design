@@ -44,7 +44,7 @@ Specifications & Standards
   
   - AWS: https://sandbox.amplifyapp.com/getting-started
   - Cassandra: https://stargate.io/
-  - Prisma: https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
+  - Prisma: [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg) / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
   
   - Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ 
     - https://www.apollographql.com/studio/develop/
