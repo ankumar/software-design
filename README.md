@@ -29,7 +29,7 @@ Evolution are always fascinating from learning perspective, like all over night 
 
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great.
 
-**1. Seeding / Changing / Learning:**
+**1. Seeding / Learning / Changing:**
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
