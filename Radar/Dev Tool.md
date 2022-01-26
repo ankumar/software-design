@@ -1,4 +1,4 @@
-## Infrastructure - Edit, Build & Deploy
+## Editor, Build & Deploy
 
 - Insights from dev tool creators- https://about.sourcegraph.com/podcast
 - Desktop Integrated Developer Environment (IDE) - VSCode, JetBrains, Eclipse, etc.
