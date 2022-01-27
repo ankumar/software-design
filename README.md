@@ -8,7 +8,7 @@ Switching to building software for Business:
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
-**Going far, Together** - Exploring & Building new models around collaborative distributed work:
+**Going far, Together** - Improvement to models around collaborative distributed work:
 
 - Communities - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
