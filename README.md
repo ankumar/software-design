@@ -7,7 +7,7 @@
 > Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
 >
 
-Dev Tools like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). [Xcode Through the Years (https://martiancraft.com/blog/2022/01/xcode-through-the-years/).
+Dev Tools like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). [Xcode Through the Years](https://martiancraft.com/blog/2022/01/xcode-through-the-years/).
 
 Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
