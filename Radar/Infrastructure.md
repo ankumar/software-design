@@ -21,6 +21,8 @@
     * Okta
     * Google Workspace (Formerly G Suite)
   * https://authzed.com/blog/zanzibar-implementations/
+  * https://docs.permit.io/overview/authorization_concepts
+
 
 #### Database
   
