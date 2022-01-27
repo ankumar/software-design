@@ -11,6 +11,9 @@
 
 --
 
+- [Xcode Through the Years](https://martiancraft.com/blog/2022/01/xcode-through-the-years/)
+
+--
 - https://blog.jetbrains.com/blog/2021/11/29/introducing-remote-development-for-jetbrains-ides/
 - https://thenewstack.io/aws-dev-tools-head-ken-exner-one-cloud-api-to-rule-them-all/
 - https://ing-bank.github.io/baker/sections/feature-comparison/
