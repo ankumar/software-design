@@ -8,13 +8,13 @@ Switching to building software inside Business:
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
-**Going far, Together**:
+**Going far, Together**
 
 - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
-- Open Source
+- Open Source, Inner Source, ...
 
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great. -- [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 
