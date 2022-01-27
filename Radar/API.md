@@ -12,11 +12,6 @@ Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify e
 - https://www.shopify.com/balance
 - https://plaid.com/
 
-Postman Collections
-- Database APIs: https://blog.postman.com/top-database-apis/
-- Payment APIs: https://blog.postman.com/top-payment-apis-fintech/
-- Communication APIs: https://blog.postman.com/explore-top-communication-apis/
-
 ## Design
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
@@ -53,7 +48,11 @@ Specifications & Standards
     - https://twitter.com/daniel2color/status/1485926819157192705 (Code-First Type-Safe GraphQL Schema builder)
   
 - Platform:  
-  - https://www.postman.com/product/what-is-postman/
+  - https://www.postman.com/product/what-is-postman/, Postman Collections
+    - Database APIs: https://blog.postman.com/top-database-apis/
+    - Payment APIs: https://blog.postman.com/top-payment-apis-fintech/
+    - Communication APIs: https://blog.postman.com/explore-top-communication-apis/
+  
   - https://hoppscotch.io/
 
 - Schema:
