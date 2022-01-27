@@ -7,7 +7,7 @@
 > Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
 >
 
-Dev Tools like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/), []()
+Dev Tools like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/), [Tool Chain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Dev%20Tool.md)
 
 Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! Switching to building software using Dev Tools:
 1. Applications ( Modernization ) & Databases 
