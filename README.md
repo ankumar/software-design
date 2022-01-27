@@ -1,5 +1,12 @@
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
+> There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
+>
+> But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
+> 
+> Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
+>
+
 Dev Tools like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another success and design in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 Switching to building software using the Dev Tools:
@@ -20,12 +27,6 @@ Design a sustainable model with core principle of **Going far, Together**
 
 **1. Seeding / Learning / Changing:**
 
-> There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
->
-> But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
-> 
-> Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
->
 > Videos: 
 > 1. https://www.youtube.com/user/brandst/videos
 > 2. https://vimeo.com/669587851 (PDF: http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
