@@ -1,6 +1,8 @@
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
 Starting with Dev Tools [VS Code success 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another Journey underway at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+
+Switching to building:
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
