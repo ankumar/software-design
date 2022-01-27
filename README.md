@@ -28,8 +28,8 @@ Design a sustainable model with core principle of **Going far, Together**
 **1. Seeding / Learning / Changing:**
 
 > Videos: 
-> 1. https://www.youtube.com/user/brandst/videos
-> 2. https://vimeo.com/669587851 (PDF: http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
+> 1. [Programming as architecture, design and urban planning](https://vimeo.com/669587851) (PDF: http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
+> 2. https://www.youtube.com/user/brandst/videos
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
 
