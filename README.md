@@ -8,7 +8,7 @@ Switching to building software inside Business:
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
-**Going far, Together**
+Design a sustainable model with core principle of **Going far, Together**
 
 - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
