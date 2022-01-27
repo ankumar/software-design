@@ -8,7 +8,7 @@ Switching to building software inside Business:
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, ...
 
-**Going far, Together** - Improvement to models around collaborative work:
+**Going far, Together**:
 
 - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
