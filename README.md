@@ -1,3 +1,8 @@
+1. Applications ( Modernization ) & Databases 
+2. Analytics, AI & Machine Learning
+3. Security, Cloud Platforms & Infrastructure
+4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
+
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
@@ -7,15 +12,9 @@
 > Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
 >
 
-Devtools &  [Tool Chain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Devtools.md) evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+First Devtools & [Tool Chain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Devtools.md) evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
-Switching to building software using Devtools:
-1. Applications ( Modernization ) & Databases 
-2. Analytics, AI & Machine Learning
-3. Security, Cloud Platforms & Infrastructure
-4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
-
-Design a sustainable model with core principle of **Going far, Together**
+Switching to building software using Devtools, cesign a sustainable model with core principle of **Going far, Together**
 
 - Design/UX, Architecture, DevOps/SRE, Quality, ...
 
