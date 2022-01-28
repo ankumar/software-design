@@ -11,6 +11,7 @@
 
 --
 
+- [Visual Studio](https://visualstudio.microsoft.com/free-developer-offers/)
 - [Xcode Through the Years](https://martiancraft.com/blog/2022/01/xcode-through-the-years/)
 - [Celebrating Eclipse at 20](https://blogs.eclipse.org/post/mike-milinkovich/celebrating-eclipse-20)
 
