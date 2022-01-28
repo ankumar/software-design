@@ -1,3 +1,5 @@
+Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
@@ -10,7 +12,7 @@
 > Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
 >
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
-[Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), first Devtools evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). More design evolution in-progress with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) at JetBrains & [Toolchain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Devtools.md). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+[Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), first Devtools evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). More design evolution in-progress with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) at JetBrains & [Toolchain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Devtools.md). 
 
 Switching to building software using Devtools, design a sustainable model with core principle of **Going far, Together**
 
