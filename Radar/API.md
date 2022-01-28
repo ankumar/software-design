@@ -1,18 +1,18 @@
 ## Infrastructure
 
-Healthcare
-- https://docs.truepill.com/
-
-B2B Transactions, Supply chain, Logistics, Healthcare & Finance
-- https://www.stedi.com/
-
-Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
+**Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
 - https://stripe.com/treasury 
 - https://stripe.com/issuing  
 - https://www.shopify.com/balance
 - https://plaid.com/
 
-Things
+**B2B** Transactions, Supply chain, Logistics, Healthcare & Finance
+- https://www.stedi.com/
+
+**Healthcare**
+- https://docs.truepill.com/
+
+**Things**
 - https://www.mapped.com/developers
 
 ## Design
