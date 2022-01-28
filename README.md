@@ -9,7 +9,7 @@
 
 Devtools &  [Tool Chain](https://github.com/ankumar/Open-software-design/blob/main/Radar/Devtools.md) evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). Another design evolution in-progress at JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/), [Gateway](https://www.jetbrains.com/remote-development/gateway/) & [Fleet](https://www.jetbrains.com/fleet/). Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
-Switching to building software using Dev Tools:
+Switching to building software using Devtools:
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
