@@ -13,7 +13,7 @@ Switching to building software using Devtools:
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
-4. Retail, Manufacturing, Finance, Entertainment, ...
+4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
 Design a sustainable model with core principle of **Going far, Together**
 
