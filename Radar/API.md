@@ -12,6 +12,9 @@ Financial infrastructure for a lot more than payments - Stripe, Plaid, Shopify e
 - https://www.shopify.com/balance
 - https://plaid.com/
 
+Things
+- https://www.mapped.com/developers
+
 ## Design
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
