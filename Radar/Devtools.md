@@ -2,10 +2,10 @@
 
 - Insights from dev tool creators- https://about.sourcegraph.com/podcast
 - Desktop Integrated Developer Environment (IDE) - VSCode, JetBrains, Eclipse, etc.
-- Cloud IDE - Gitpod, GitHub, Codespaces, Replit
-- Comparison Guide - https://harness.io/learn/comparison-guide/
-- Testing - https://www.atomicjar.com/
 - Next-generation IDE - https://www.jetbrains.com/fleet/
+- Cloud IDE - Gitpod, GitHub, Codespaces, Replit
+- DevOps, Comparison Guide - https://harness.io/learn/comparison-guide/
+- Testing - https://www.atomicjar.com/
 - Copilot - https://copilot.github.com/
 - Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 
