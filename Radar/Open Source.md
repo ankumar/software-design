@@ -5,6 +5,7 @@ These are big bets in public communities considering slow deliberate process for
 * [Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
 
 * [Configure Unify Execute](https://cuelang.org/)
+  * https://blog.cedriccharly.com/post/
   * https://github.com/hofstadter-io
 
 * [Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
