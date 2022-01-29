@@ -30,7 +30,7 @@ Switching to building software using DevTools, design a sustainable model with c
 
 > Videos: 
 > 1. [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
-> 2. [How Buildings Learn](https://www.youtube.com/user/brandst/videos) / ["Stay Hungry, Stay Foolish"](https://youtu.be/UF8uR6Z6KLc?t=783)
+> 2. [How Buildings Learn By Stewart Brand](https://www.youtube.com/user/brandst/videos) / ["Stay Hungry, Stay Foolish" Reference bv Steve Jobs during ](https://youtu.be/UF8uR6Z6KLc?t=783)
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
 
