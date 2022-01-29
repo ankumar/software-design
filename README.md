@@ -28,7 +28,6 @@ Switching to building software using DevTools, design a sustainable model with c
 
 **1. Seeding / Learning / Changing:**
 
-> Videos: 
 > 1. [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
 > 2. [How Buildings Learn By Stewart Brand](https://www.youtube.com/user/brandst/videos)
 > > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
