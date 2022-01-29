@@ -16,7 +16,7 @@ Evolution are always fascinating from learning perspective, like all over night 
 
 Switching to building software using DevTools, design a sustainable model with core principle of **Going far, Together**
 
-- Design/UX, Architecture, Application Frontend/Backend, DevOps/SRE, Quality, ...
+- Design/UI/UX, Architecture, Application Frontend/Backend, DevOps/SRE, Quality, ...
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
