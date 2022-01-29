@@ -30,6 +30,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 > 1. [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
 > 2. [How Buildings Learn By Stewart Brand](https://www.youtube.com/user/brandst/videos)
+> > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 > > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
 > > named Stewart Brand not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the late 1960s, before personal computers and
 > > desktop publishing, so it was all made with typewriters, scissors and Polaroid cameras. It was sort of like Google in paperback form, 35 years before Google
@@ -39,7 +40,6 @@ Switching to Building software using DevTools, design a sustainable model with c
 > > and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on
 > > if you were so adventurous. Beneath it were the words: "Stay Hungry. Stay Foolish." It was their farewell message as they signed off. 
 > > Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.
-> > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
 
