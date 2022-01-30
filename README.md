@@ -63,7 +63,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 **2. Distributed:**
 
-- [Control & Structure](https://twitter.com/seldo/status/1486563446099300359/photo/1)
+- [Visualization of Control & Structures](https://twitter.com/seldo/status/1486563446099300359/photo/1)
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
