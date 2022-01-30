@@ -65,7 +65,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 > This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
 >
-> While the underlying system can be decentralized the control structure may not be.
+> While the underlying system can be decentralized the control structure may not be. -- https://twitter.com/kelseyhightower/status/1487876237917777927
 
 - [Visualization - Control & Structures](https://twitter.com/seldo/status/1486563446099300359/photo/1)
 
