@@ -58,7 +58,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 >
 > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
-- [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
+> "In most open-source projects, efforts to attract and bring in new contributors are clearly aimed at developers, but this means they miss the opportunity to attract other types of profiles that could be easier to bring in and could also help the progress and long-term sustainability of the project," - [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - Videos: https://www.youtube.com/c/Honeypotio/videos
