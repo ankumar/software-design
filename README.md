@@ -50,7 +50,6 @@ Switching to Building software using DevTools, design a sustainable model with c
 >
 > [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
-- [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
 - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
 - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
@@ -59,6 +58,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 >
 > [Scaling the Practice of Architecture, Conversationally](https://martinfowler.com/articles/scaling-architecture-conversationally.html)
 
+- [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
 - Developer Relations:
   - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - Videos: https://www.youtube.com/c/Honeypotio/videos
