@@ -58,6 +58,8 @@ These are big bets in public communities considering slow deliberate process for
 2. https://www.oss.fund/
 * https://opencollective.com/
 
+--
+
 - [Sourcegraph](https://about.sourcegraph.com/about/) / [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public) / 
 - [Scaling Open Culture](https://opensource.zalando.com/)
 - [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
