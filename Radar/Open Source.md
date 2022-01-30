@@ -57,3 +57,12 @@ These are big bets in public communities considering slow deliberate process for
 * https://github.com/ankumar?tab=sponsoring
 2. https://www.oss.fund/
 * https://opencollective.com/
+
+- [Sourcegraph](https://about.sourcegraph.com/about/) / [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public) / 
+- [Scaling Open Culture](https://opensource.zalando.com/)
+- [Wikimedia Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team)
+- [SRE with Cloud Operations Sandbox](https://cloud-ops-sandbox.dev/)
+- [Tech Stacks](https://stackshare.io/stacks)
+  - [Startup-Stack](https://www.notion.so/Founders-Checklist-Startup-Stack-f24d0601ffc04abfb6b5faf86098371c)
+  - [GitLab](https://about.gitlab.com/handbook/business-technology/tech-stack/)
+  - [Shopify](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
