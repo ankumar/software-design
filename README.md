@@ -67,7 +67,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 >
 > While the underlying system can be decentralized the control structure may not be.
 
-- [Visualization of Control & Structures](https://twitter.com/seldo/status/1486563446099300359/photo/1)
+- [Visualization - Control & Structures](https://twitter.com/seldo/status/1486563446099300359/photo/1)
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
