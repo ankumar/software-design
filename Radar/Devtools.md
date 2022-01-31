@@ -4,6 +4,7 @@
 - Desktop Integrated Developer Environment (IDE) - VSCode, JetBrains, Eclipse, etc.
 - Next-generation IDE - https://www.jetbrains.com/fleet/
 - Cloud IDE - Gitpod, GitHub, Codespaces, Replit
+- AppMap is a free and open-source interactive code analysis tool - https://appland.com/
 - DevOps, Comparison Guide - https://harness.io/learn/comparison-guide/
 - Testing - https://www.atomicjar.com/
 - Copilot - https://copilot.github.com/
