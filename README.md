@@ -1,9 +1,9 @@
-Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
-
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
+
+Evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
