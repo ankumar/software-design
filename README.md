@@ -53,8 +53,8 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 > "In most open-source projects, efforts to attract and bring in new contributors are clearly aimed at developers, but this means they miss the opportunity to attract other types of profiles that could be easier to bring in and could also help the progress and long-term sustainability of the project," - [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
 - Developer Relations & Development Stories:
-  - More from Shawn Wang, [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-  - Videos: https://www.youtube.com/c/Honeypotio/videos
+  - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
+  - https://www.youtube.com/c/Honeypotio/videos
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
 
 - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
