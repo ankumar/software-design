@@ -22,7 +22,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
-**1. Seeding / Learning / Changing:**
+**Seeding / Learning / Changing:**
 
 - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
 
@@ -62,7 +62,7 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
 
-**2. Distributed:**
+**Distributed:**
 
 > This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
 >
