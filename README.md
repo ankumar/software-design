@@ -18,11 +18,11 @@ DevTools (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang o
 
 Switching to Building software using DevTools, design a sustainable model with core principle of **Going far, Together**
 
+**Seeding / Learning / Changing:**
+
 - Design, Architecture, Frontend/Backend, DevOps/SRE, Quality, ...
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
-
-**Seeding / Learning / Changing:**
 
 - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
 
