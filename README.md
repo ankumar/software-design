@@ -25,6 +25,15 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 **Seeding / Learning / Changing:**
 
+> In my last product release we designed stickers to thank the village of people that helped make the release happen. In our list of people to send stickers, there were 85+ people. 
+>>  product takes a village
+
+design, design research, development (across different areas), data expertise, marketing,  product management, (and many more)
+
+...the idea that product = product management is very limiting. 
+
+https://twitter.com/eileendoodles/status/1488617248529035272
+
 - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
 
 > [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
