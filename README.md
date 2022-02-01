@@ -4,7 +4,7 @@
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
 
-> ProductDevelopment as a collaborative discipline between all parties with one common goal: solve the real problem of our customer. It can be done, it is no voodoo, no magic. 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
+> ProductDevelopment as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
 > I would be happy to show you how and to have a discussion about it https://virtualddd.com/sessions/78
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
