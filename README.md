@@ -27,10 +27,8 @@ Switching to Building software using DevTools, design a sustainable model with c
 
 > In my last product release we designed stickers to thank the village of people that helped make the release happen. In our list of people to send stickers, there were 85+ people. 
 >>  product takes a village
-
-design, design research, development (across different areas), data expertise, marketing,  product management, (and many more)
-
-...the idea that product = product management is very limiting. 
+>> design, design research, development (across different areas), data expertise, marketing,  product management, (and many more)
+>> ...the idea that product = product management is very limiting. 
 
 https://twitter.com/eileendoodles/status/1488617248529035272
 
