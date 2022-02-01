@@ -3,6 +3,9 @@
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
+> ProductDevelopment as a collaborative discipline between all parties with one common goal: solve the real problem of our customer. It can be done, it is no voodoo, no magic. I would be happy to show you how and to have a discussion about it 
+> https://virtualddd.com/sessions/78
+
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
 > But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
