@@ -13,6 +13,7 @@
 - https://docs.truepill.com/
 
 **Things**
+- https://www.twilio.com/iot
 - https://www.mapped.com/developers
 
 ## Design
