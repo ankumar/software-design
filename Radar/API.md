@@ -6,7 +6,7 @@
 - https://www.shopify.com/balance
 - https://plaid.com/
 
-**B2B** Transactions, Supply chain, Logistics, Healthcare & Finance
+**B2B** - Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
 
 **Healthcare**
