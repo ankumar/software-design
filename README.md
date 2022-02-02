@@ -95,6 +95,8 @@ Switching to Building software using DevTools, design a sustainable model with c
   
  --
 
+Sharing journey ...
+
 1. Garage door Up:
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
