@@ -3,7 +3,6 @@
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
-
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
 > ProductDevelopment as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
