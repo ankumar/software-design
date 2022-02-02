@@ -12,11 +12,12 @@
 **Healthcare**
 - https://docs.truepill.com/
 
-**Things**
+**Things - Cities, Buildings, & Infrastructure**
 - https://www.twilio.com/iot
 - https://blues.io/
 - https://www.mapped.com/developers
 - https://cityzenith.com/
+- https://developer.io.constructconnect.com/
 
 ## Design
 
