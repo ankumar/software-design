@@ -93,7 +93,7 @@ Developer Tools (co)evolving like [VS Code 10 years journey By Erich Gamma, The 
   
  --
 
-Sharing journey ...
+Sharing a journey ...
 
 1. Garage door Up:
 
