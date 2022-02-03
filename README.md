@@ -24,7 +24,7 @@
 
 Developer Tools (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq). At JetBrains more design (co)evolution in-progress with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) & growing sprawl of developer experience [Toolchain](https://github.com/ankumar/Open-software-design/blob/main/Radar). 
 
-Switching to Building software using DevTools, design a sustainable model with core principle of **Going far, Together**
+DevTools or Building software using DevTools, design a sustainable model with core principle of **Going far, Together** with product, community and engineering.
 
 **Seeding / Learning / Changing:**
 
