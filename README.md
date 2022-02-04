@@ -5,9 +5,10 @@
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
-![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
+
 > > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
 > >
 > > 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
