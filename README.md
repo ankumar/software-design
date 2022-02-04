@@ -1,5 +1,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+
 1. Applications ( Modernization ) & Databases 
 2. Analytics, AI & Machine Learning
 3. Security, Cloud Platforms & Infrastructure
@@ -21,7 +22,7 @@
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
-Developer Tools [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) to (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) & sprawl of developer experience [Toolchain](https://github.com/ankumar/Open-software-design/blob/main/Radar). Building tools or coding using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
+Developer Tools [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) to (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) & sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Radar). Building tools or coding using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
 
 **Seeding / Learning / Changing:**
 
@@ -66,7 +67,7 @@ Developer Tools [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool](
   - https://www.youtube.com/c/Honeypotio/videos
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
 
-- Design, Architecture, Frontend/Backend, DevOps/SRE, Quality, ...
+- Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, Quality, ...
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
