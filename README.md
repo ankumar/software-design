@@ -6,12 +6,13 @@
 3. Security, Cloud Platforms & Infrastructure
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
-> Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
->
-> 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
-> I would be happy to show you how and to have a discussion about it 
->
-> [Domain-Driven Design: From The Problem To Software - a Walkthrough with Krisztina Hirth](https://virtualddd.com/sessions/78)
+
+> [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
+> > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
+> >
+> > 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
+> > I would be happy to show you how and to have a discussion about it [From The Problem To Software - a Walkthrough with Krisztina Hirth](https://virtualddd.com/sessions/78)
+
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
