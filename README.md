@@ -109,9 +109,6 @@ Shared Context: Business, Product & Tech
 
 - Apps/State, Serverless Model & Sustainability - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
-[![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
-- [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
-
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
@@ -146,3 +143,5 @@ Shared Context: Business, Product & Tech
     - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
     - [Argo CD](https://github.com/argoproj/argo-cd/)
   
+[![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
+- [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
