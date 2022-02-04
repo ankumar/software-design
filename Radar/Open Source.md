@@ -7,6 +7,7 @@ These are big bets in public communities considering slow deliberate process for
 * [Configure Unify Execute](https://cuelang.org/)
   * https://blog.cedriccharly.com/post/
   * https://github.com/hofstadter-io
+  * https://github.com/grafana/thema
 
 * [Happy Birthday, Backstage: Spotify’s Biggest Open Source Project Grows Up Fast](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
   * https://backstage.io/
