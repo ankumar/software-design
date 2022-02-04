@@ -66,8 +66,8 @@ Developer Tools ReImagined [Repl.it is not an IDE](https://amasad.me/replit_ide)
 
 - Medium: Developer Relations & Development Stories:
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-  - https://www.youtube.com/c/Honeypotio/videos
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
+  - https://www.youtube.com/c/Honeypotio/videos
 
 - Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
 
