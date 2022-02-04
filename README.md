@@ -14,7 +14,6 @@
 > > 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
 > > I would be happy to show you how and to have a discussion about it [From The Problem To Software - a Walkthrough with Krisztina Hirth](https://virtualddd.com/sessions/78)
 
-
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
 > But the more I learn about how buildings evolve, I think this process is actually a perfect analogy for designing software!
@@ -24,7 +23,7 @@
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 
-Developer Tools ReImagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) To (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) & growing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Radar). Building tools or coding using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
+Developer Tools ReImagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) To (co)evolving like [VS Code 10 years journey By Erich Gamma, The "Gang of Four"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) & increasing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Radar). Building tools or programming using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
 
 **Seeding / Learning / Changing:**
 
