@@ -1,7 +1,6 @@
 Building tools or programming using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
-
 <p align="center"> VS Code Day Keynote with Erich Gamma, The "Gang of Four </p>
 
 Developer Tools "IDE" (co)evolving like [VS Code 10 years journey"](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) to reimagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [The future of internal tools](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) and increasing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Radar). 
