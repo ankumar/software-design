@@ -73,7 +73,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey By Erich Gamma
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
 
-- Developer Relations & Stories:
+- Developer Relations & Storytelling:
+  - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
   - https://www.youtube.com/c/Honeypotio/videos
