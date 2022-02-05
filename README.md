@@ -63,11 +63,6 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey By Erich Gamma
 
 > "In most open-source projects, efforts to attract and bring in new contributors are clearly aimed at developers, but this means they miss the opportunity to attract other types of profiles that could be easier to bring in and could also help the progress and long-term sustainability of the project," - [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
 
-- Medium: Developer Relations & Development Stories:
-  - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
-  - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
-  - https://www.youtube.com/c/Honeypotio/videos
-
 - Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
   
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
@@ -77,6 +72,11 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey By Erich Gamma
 - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
 - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/)  
+
+- Developer Relations & Stories:
+  - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
+  - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
+  - https://www.youtube.com/c/Honeypotio/videos
 
 **Distributed:**
 
