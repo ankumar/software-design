@@ -34,8 +34,6 @@ Developer Tools ReImagined [Repl.it is not an IDE](https://amasad.me/replit_ide)
 >> In my last product release we designed stickers to thank the village of people that helped make the release happen. In our list of people to send stickers, there were 85+ people. 
 >> https://twitter.com/eileendoodles/status/1488617248529035272
 
-- [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
-
 > [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
 >
 > > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
@@ -70,8 +68,10 @@ Developer Tools ReImagined [Repl.it is not an IDE](https://amasad.me/replit_ide)
   - https://www.youtube.com/c/Honeypotio/videos
 
 - Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
-
+  
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
+
+- [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
 
 - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
 
