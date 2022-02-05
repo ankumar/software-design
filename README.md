@@ -9,8 +9,11 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey"](https://www.
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 1. Applications ( Modernization ) & Databases 
+
 2. Analytics, AI & Machine Learning
+
 3. Security, Cloud Platforms & Infrastructure
+
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
