@@ -149,7 +149,7 @@ Shared Context: Business, Product & Tech
     - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
     - [Argo CD](https://github.com/argoproj/argo-cd/)
  
-- Apps/State, Serverless Model & Sustainability - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+- Apps/State & Serverless - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
 [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
