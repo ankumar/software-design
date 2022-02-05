@@ -77,7 +77,7 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey By Erich Gamma
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
-  - https://www.youtube.com/c/Honeypotio/videos
+  - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
 
 **Distributed:**
 
