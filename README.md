@@ -21,6 +21,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 
 **Seeding / Learning / Changing:**
 
+- Experimentation, Apps/State & Serverless: https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
 > >
 > > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
@@ -151,8 +153,6 @@ Shared Context: Business, Product & Tech
     - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
     - [Argo CD](https://github.com/argoproj/argo-cd/)
  
-- Apps/State & Serverless - https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
-
 [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
