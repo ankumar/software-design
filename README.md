@@ -18,7 +18,7 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 
 **Seeding / Learning / Changing:**
 
-- An Experimentation, Apps/State (_Machine & Managemnt_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+- An Experimentation, Apps/State (_Machine & Managemnt_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
