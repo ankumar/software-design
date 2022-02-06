@@ -19,6 +19,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
+**Seeding / Learning / Changing:**
+
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
 > >
 > > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
@@ -32,8 +34,6 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 > 
 > Thread: https://twitter.com/geoffreylitt/status/1272542423001022467 
 >
-
-**Seeding / Learning / Changing:**
 
 >  product takes a village
 > design, design research, development (across different areas), data expertise, marketing,  product management, (and many more)
