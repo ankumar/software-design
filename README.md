@@ -6,7 +6,6 @@ Building tools or programming using tools, documenting a sustainable model with 
 Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) to reimagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [The future of internal tools](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/) and increasing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Radar). 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 1. Applications ( Modernization ) & Databases 
 
@@ -15,6 +14,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 3. Security, Cloud Platforms & Infrastructure
 
 4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
+
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
