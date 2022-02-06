@@ -20,6 +20,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 
 - An Experimentation, Apps/State (_Machine & Managemnt_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
+
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
 > >
 > > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
