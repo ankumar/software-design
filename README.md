@@ -21,7 +21,7 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
 
 **Seeding / Learning / Changing:**
 
-- Experimentation, Apps/State (_Machine & Managemnt_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
+- An Experimentation, Apps/State (_Machine & Managemnt_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / A first demo App: https://github.com/acuity-sr/nv-shopping-cart 
 
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
 > >
