@@ -75,6 +75,8 @@ Developer Tools "IDE" (co)evolving like [VS Code 10 years journey](https://www.y
   
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
+- [Technical Leadership Masterclass](https://www.ruthmalan.com/)
+
 - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
 
 - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
