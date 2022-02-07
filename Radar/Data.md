@@ -50,8 +50,7 @@ Stanford:
   * https://ai.stanford.edu/blog/
   * https://hai.stanford.edu/
   * https://crfm.stanford.edu/
-> In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model.
-    * Foundation models - https://www.youtube.com/watch?v=RLrjKGN89Fc
+> In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model. Foundation models - https://www.youtube.com/watch?v=RLrjKGN89Fc
 
 University of Washington:
   * https://falx.cs.washington.edu/
