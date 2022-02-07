@@ -1,4 +1,4 @@
-Building tools or programming using tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
+Building tools or using best tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 <p align="center"> (VS Code Day Keynote with Erich Gamma, The "Gang of Four) </p>
