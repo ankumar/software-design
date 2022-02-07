@@ -21,6 +21,9 @@ Developer Tools Studios & IDE's  (co)evolving like [VS Code 10 years journey](ht
 - An Experimentation, Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
   - [Baker: recipes allows product owners, architects and developers to talk the same language](https://github.com/ing-bank/baker)
 
+- Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned
+  - [Foundation: stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) 
+
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
