@@ -46,6 +46,7 @@ Specifications & Standards
 
 - GraphQL:
   - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
+  - [GraphQL: The Landscape](https://github.com/graphql/graphql-landscape)
   
   - AWS: https://sandbox.amplifyapp.com/getting-started
   - Cassandra: https://stargate.io/
