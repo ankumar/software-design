@@ -28,7 +28,6 @@ Building tools or using best tools, documenting a sustainable model with univers
 - Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
 - Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned!
-  - [Foundation: stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
