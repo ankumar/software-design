@@ -22,11 +22,12 @@ Developer Tools Notebook, Studio & IDE  (co)evolving like [VS Code 10 years jour
 > * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
 >
 > * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more.
+> - https://stately.ai/
+
+> Baker, recipes allows product owners, architects and developers to talk the same language -- https://github.com/ing-bank/baker
 
 - Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  - [Like?: Baker, recipes allows product owners, architects and developers to talk the same language](https://github.com/ing-bank/baker)
-  - https://stately.ai/
-
+  
 - Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned!
   - [Foundation: stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) 
 
