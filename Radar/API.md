@@ -36,6 +36,8 @@ Specifications & Standards
 
 ## Developer experience
 
+- https://github.com/awslabs/smithy
+
 - REST -  https://swagger.io/ | https://stoplight.io/studio/
 
 - AsyncAPI: https://www.asyncapi.com/
