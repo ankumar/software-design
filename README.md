@@ -32,16 +32,16 @@ Building tools or using best tools, documenting a sustainable model with univers
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
+> Once more: we are not modeling reality, but the way information about reality is processed, by people. — Bill Kent
+> 
+> https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/
+
 > [Domain-Driven Design Sessions](https://virtualddd.com/sessions)
 > >
 > > Product Development as a collaborative discipline between all parties with one common goal: **solve the real problem of our customer**. It can be done, it is no voodoo, no magic. 
 > >
 > > 'It is not the domain experts knowledge that goes in production, it is the assumption of the developers that goes into production' This famous quote from Alberto Brandolini is unfortunately true but it also points to the right direction: we need to bring the domain knowledge into our software. 
 > > I would be happy to show you how and to have a discussion about it [From The Problem To Software - a Walkthrough with Krisztina Hirth](https://virtualddd.com/sessions/78)
-
-> Once more: we are not modeling reality, but the way information about reality is processed, by people. — Bill Kent
-> 
-> https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/
 
 > There's a saying that writing software is more like tending a garden than constructing a building -- things constantly change.
 >
