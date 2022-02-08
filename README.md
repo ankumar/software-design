@@ -26,7 +26,6 @@ Building tools or using best tools, documenting a sustainable model with univers
 > Baker, recipes allows product owners, architects and developers to talk the same language -- https://github.com/ing-bank/baker
 
 - Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
-  - https://github.com/awslabs/smithy
   
 - Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned!
   - [Foundation: stack graphs](https://github.blog/2021-12-09-introducing-stack-graphs/) 
