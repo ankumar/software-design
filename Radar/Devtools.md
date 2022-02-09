@@ -11,6 +11,7 @@
 - Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
 - Diagrams & Visualizations using text & code - https://mermaid-js.github.io/mermaid/#/
   - https://github.com/EddieHubCommunity/LinkFree/discussions/1087
+
 --
 
 - [Visual Studio](https://visualstudio.microsoft.com/free-developer-offers/)
@@ -18,6 +19,7 @@
 - [Celebrating Eclipse at 20](https://blogs.eclipse.org/post/mike-milinkovich/celebrating-eclipse-20)
 
 --
+
 - https://blog.jetbrains.com/blog/2021/11/29/introducing-remote-development-for-jetbrains-ides/
 - https://thenewstack.io/aws-dev-tools-head-ken-exner-one-cloud-api-to-rule-them-all/
 - https://ing-bank.github.io/baker/sections/feature-comparison/
