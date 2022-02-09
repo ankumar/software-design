@@ -9,6 +9,7 @@
 - Testing - https://www.atomicjar.com/
 - Copilot - https://copilot.github.com/
 - Autopilot, GKE - https://cloud.google.com/kubernetes-engine/docs/concepts/autopilot-overview
+- Diagrams & Visualizations using text & code - https://mermaid-js.github.io/mermaid/#/
 
 --
 
