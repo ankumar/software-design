@@ -29,6 +29,7 @@ Building tools or using best tools, documenting a sustainable model with univers
 >
 > * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
 >
+> Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
 > Baker, recipes allows product owners, architects and developers to talk the same language -- https://github.com/ing-bank/baker
