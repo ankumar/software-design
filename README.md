@@ -100,7 +100,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
 
-**Distributed:**
+**Distributed / Manage:**
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
 > This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
