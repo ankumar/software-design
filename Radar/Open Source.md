@@ -4,6 +4,8 @@ These are big bets in public communities considering slow deliberate process for
 
 * [Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
 
+* [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/docs/zero/about/overview)
+
 * [Configure Unify Execute](https://cuelang.org/)
   * https://blog.cedriccharly.com/post/
   * https://github.com/hofstadter-io
