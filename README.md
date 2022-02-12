@@ -107,6 +107,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 >
 > While the underlying system can be decentralized the control structure may not be. -- https://twitter.com/kelseyhightower/status/1487876237917777927
 
+> Why do suspension bridges have stranded cables not solid rods? The major reason is that solid rods would fail suddenly and catastrophically, whereas stranded cables fail slowly and make alarming noises while they do. We build software systems out of solid rods; they fail abruptly and completely.
+>
+> https://blog.dshr.org/2022/02/ee380-talk.html
+
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
 > [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
