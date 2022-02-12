@@ -5,7 +5,7 @@
 * Security, Cloud Platforms & Infrastructure
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
-1. Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
+1. Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun-and-verb-src/ demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
