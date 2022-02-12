@@ -1,16 +1,16 @@
 # Experimentation:
 
-1. Applications ( Modernization ) & Databases 
-2. Analytics, AI & Machine Learning
-3. Security, Cloud Platforms & Infrastructure
-4. Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
-
-![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+* Applications ( Modernization ) & Databases 
+* Analytics, AI & Machine Learning
+* Security, Cloud Platforms & Infrastructure
+* Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
 1. Apps/State (_Machine & Data Management_) & Serverless (_Sustainability_): https://github.com/tufan-io/noun_and_verb / demo App: https://github.com/acuity-sr/nv-shopping-cart 
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
+
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 ## Seeding / Learning / Changing:
 
