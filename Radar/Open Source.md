@@ -4,6 +4,9 @@ These are big bets in public communities considering slow deliberate process for
 
 * [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
+* Alternative
+  * [Twilio Alternative](https://fonoster.com/) 
+
 * [Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
 
 * [Configure Unify Execute](https://cuelang.org/)
