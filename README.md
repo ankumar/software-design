@@ -4,7 +4,8 @@
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
-3. Opinionated Infrastructure https://getzero.dev/ liking this, to take you from idea to production on day one
+3. Opinionated Infrastructure 
+- liking this https://getzero.dev/ to take you from idea to production on day one
 
 ## Seeding / Learning / Changing:
 
