@@ -1,10 +1,10 @@
 # Experimentation:
 
-1. Apps/State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ demo App: https://github.com/acuity-sr/nv-shopping-cart 
+1. Apps/State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
-3. Opinionated Infrastructure 
+3. Opinionated Infrastructure & Sustainable Deployment model
 - like this https://getzero.dev/ to take you from idea to production on day one
 
 ## Seeding / Learning / Changing:
