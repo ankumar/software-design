@@ -7,7 +7,7 @@
 3. Opinionated Infrastructure & Sustainable Deployment model
 - To Take you from idea to Production on day one https://getzero.dev/ 
 
-## Seeding / Learning / Changing:
+## Seeding / Changing / Learning :
 
 * Applications ( Modernization ) & Databases 
 * Analytics, AI & Machine Learning
