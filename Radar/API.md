@@ -47,10 +47,11 @@ Specifications & Standards
 - GraphQL:
   - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8)
   - [GraphQL: The Landscape](https://github.com/graphql/graphql-landscape)
-  
+   
   - AWS: https://sandbox.amplifyapp.com/getting-started
   - Cassandra: https://stargate.io/
   - Prisma: [Prisma in 100 Seconds](https://www.youtube.com/watch?v=rLRIB6AF2Dg) / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql
+  - [Code Gen](https://www.graphql-code-generator.com/)
   
   - Glossary: https://www.apollographql.com/docs/resources/graphql-glossary/ 
     - https://www.apollographql.com/studio/develop/
