@@ -1,6 +1,6 @@
 # Experimentation:
 
-1. Apps/State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
+1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
