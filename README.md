@@ -82,6 +82,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 >
 > [Wisen's notes](https://notes.ceilfors.com/%C2%A7What's_top_of_mind.html)
 
+> Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
+> 
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+
 > think a lot of it we benefit a ton from the open source community and just all the learnings there that are laid bare in the open, all the mistakes, all the success, all the problems, it's a very slow moving process, usually open source, but it's very deliberate. And you get to see because of the the pace, you get to see what it takes to really build something meaningful, learned most most of everything I learned about hacking and programming and engineering has been due to open source and the the generosity that people have given to give up their time, sacrifice their time without any expectation in return other than being a part of something much larger than themselves. Yeah, I think it's great. -- [Engineering at scale](https://www.youtube.com/watch?v=60KJz1BVTyU&t=168s)  
 
 > "In most open-source projects, efforts to attract and bring in new contributors are clearly aimed at developers, but this means they miss the opportunity to attract other types of profiles that could be easier to bring in and could also help the progress and long-term sustainability of the project," - [Software for all: how do open-source communities work?](https://www.uoc.edu/portal/en/news/actualitat/2022/014-opens-source-software.html) 
