@@ -1,6 +1,6 @@
 # Experimentation:
 
-- [To Take you from Idea to Production on Day 1](https://getzero.dev/) 
+[To Take you from Idea to Production on Day 1](https://getzero.dev/) 
 
 1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   
