@@ -6,8 +6,7 @@
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
-3. Opinionated Infrastructure & Sustainable Deployment model
-- [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+3. Opinionated Infrastructure & Sustainable Deployment model, [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
 
 ## Seeding / Changing / Learning :
 
