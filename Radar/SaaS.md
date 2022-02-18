@@ -1,14 +1,14 @@
 ## SaaS Alphabet
 
-- A: Applications, APIs, Analytics, Authentication, Authorization, 
+- A: Applications, APIs, Analytics, Authentication, Authorization, Audit Logs, 
 - B: Billing, 
-- C: Customer Identity and Access Management(CIAM), Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, 
+- C: Customer Identity and Access Management(CIAM), Cost Management, Cloud Providers, CRM, Customer Success, Chaos Engineering, Compliance
 - D: Design System, Docs, DevOps, Data [Infra, Platform, Stack], Deployment,
 - E: 
 - F:
 - G: GDPR, Go To Market(GTM), 
-- H: Health Insurance Portability & Accountability Act(HIPAA),  
-- I: Identity, Incident Management, Internet of Things(IoT), Infrastructure,
+- H: Health Insurance Portability & Accountability Act(HIPAA), Human Resources Information System (HRIS)
+- I: Identity, Incident Management, Internet of Things(IoT), Infrastructure, ISO, 
 - J: Jamstack, 
 - K: 
 - L:
@@ -17,7 +17,7 @@
 - O: Onboarding, Observability, Operations, 
 - P: Penetration Testing,  
 - Q: Quotas, 
-- R: 
+- R: Role-Based Access Control (RBAC)
 - S: Single sign-on(SSO),Security, Service Level Objectives(SLOs), System and Organization Controls (SOC), Serverless, 
 - T: Telemetry, 
 - U: Users, 
