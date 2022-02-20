@@ -4,9 +4,9 @@
   
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
 
-3. "To Take you from Idea to Production on Day 1", Reference Implementation https://getzero.dev/
+3. Opinionated Infrastructure & Sustainable Deployment model, "To Take you from Idea to Production on Day 1", Reference Implementation https://getzero.dev/
 
-- Opinionated Infrastructure & Sustainable Deployment model, Good Paper [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+- Good Paper [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
 
 ## Seeding / Changing / Learning :
 
