@@ -1,6 +1,6 @@
 # Experimentation:
 
-Opinionated Infrastructure & Sustainable Deployment model, Good Reference [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336) 
+Opinionated Infrastructure & Sustainable Deployment model, Good Paper [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336) 
 
 1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   
