@@ -13,7 +13,7 @@
 3. Opinionated Infrastructure & Sustainable Deployment model: 
 
 - Paper: [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
-- Trying:
+- Learning:
   - https://getzero.dev/
   - http://devze.ro/
   
