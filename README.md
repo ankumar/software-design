@@ -144,6 +144,8 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ### Walmart Global Tech
 
+Mobile / Web Products & Services - Unify & Grow People, Process & Systems, eCommerce & Stores
+
 > Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
 
 > digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, secuirty and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
