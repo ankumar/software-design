@@ -36,6 +36,7 @@ Schemas:
 Paper: [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
 
 Learning:
+  - Cloud sandbox
   - https://getzero.dev/
   - http://devze.ro/
   
