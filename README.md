@@ -14,7 +14,7 @@
 
 > Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+> [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
 
 # Experimentation:
 
