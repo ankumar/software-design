@@ -12,6 +12,10 @@
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
+> Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
+> 
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+
 # Experimentation:
 
 1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
@@ -78,10 +82,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
 >
 > > [How Buildings Learn By Stewart Brand](https://www.youtube.com/user/brandst/videos)
-
-> Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
-> 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
 
 > once you empower people, giving them an environment in which to succeed, and recognise their successes, they will rapidly, and as a collective, start thinking about things which haven’t even crossed your mind. That’s the real benefit of this kind of approach: access to the collective intelligence of the many, over reliance on the much more restricted intelligence of the few.
 >
