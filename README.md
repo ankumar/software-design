@@ -142,6 +142,12 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## Journey ...
 
+### Walmart Global Tech
+
+
+
+### Acuity Brands 
+
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
 > [12/16 10:27 AM] Quinn, Henry
