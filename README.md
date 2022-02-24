@@ -25,7 +25,7 @@
 
 1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
-- https://github.com/prisma/database-schema-examples
+- [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
 2. Super charge model development transparency, lineage tracking, collaboration & fun. Stay Tuned! https://app.chaya.ai/
