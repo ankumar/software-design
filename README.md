@@ -154,6 +154,8 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in Donella Meadow’s list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
 > 
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
+> 
+> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
 ### 1. Acuity Brands 
 
