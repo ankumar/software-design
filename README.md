@@ -149,7 +149,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## Journey ...
 
-### Acuity Brands 
+### 1. Acuity Brands 
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
@@ -201,7 +201,7 @@ Shared Context: Business, Product & Tech
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-### Walmart Global Tech
+### 2. Walmart Global Tech
 
 Mobile / Web Products & Services - Unify & Grow People, Process & Systems, eCommerce & Stores
 
