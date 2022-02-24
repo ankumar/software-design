@@ -144,7 +144,9 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ### Walmart Global Tech
 
+> digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, secuirty and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
 
+> The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
 ### Acuity Brands 
 
