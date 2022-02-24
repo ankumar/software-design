@@ -77,6 +77,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 > [Programming as architecture, design and urban planning](https://vimeo.com/669587851) / [PDF](http://tomasp.net/academic/papers/metaphors/metaphors.pdf)
 >
+> > [How Buildings Learn By Stewart Brand](https://www.youtube.com/user/brandst/videos)
 
 > Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
@@ -99,7 +100,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > Humans are hard-wired for collaboration, and new technologies of communication act as a **super-amplifier** of our natural collaborative mindset. This new collaborative society might be characterized as a series of services and startups that enable peer-to-peer exchanges and interactions though technology. Some believe that the economic aspects of the new collaboration have the potential to make society more equitable; others see collaborative communities based on sharing as a cover for social injustice and user exploitation. -- [Collaborative Society](https://books.google.com/books?id=yLDMDwAAQBAJ). 
 
 > Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
-
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
 
