@@ -35,7 +35,8 @@ Schemas:
 
 3. \[Opinionated\] Infrastructure & Sustainable Deployment model: 
 
-Paper: [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+Papers: 
+  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
 
 Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
