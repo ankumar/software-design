@@ -33,7 +33,7 @@ Schemas:
 
 - https://app.chaya.ai/
 
-3. Opinionated Infrastructure & Sustainable Deployment model: 
+3. \[Opinionated\] Infrastructure & Sustainable Deployment model: 
 
 Paper: [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
 
