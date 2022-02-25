@@ -214,7 +214,7 @@ Shared Context: Business, Product & Tech
 
 ### 2. Walmart Global Tech
 
-Mobile / Web / Retail Products & Services: Unify & Grow People, Process & Systems, eCommerce & Stores
+Mobile / Web / Retail (Curbside Pickup / Delivery) Products & Services: Unify & Grow People, Process & Systems, eCommerce & Stores
 
 > Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
 
