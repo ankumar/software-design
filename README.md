@@ -1,3 +1,5 @@
+# Experimentation:
+
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
@@ -29,28 +31,6 @@
 > Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-# Experimentation:
-
-1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
-
-Schemas:
-- [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
-- [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
-
-2. Super charge model development transparency, lineage tracking, collaboration & fun.
-
-- https://app.chaya.ai/
-
-3. \[Opinionated\] Infrastructure & Sustainable Deployment model: 
-
-Papers: 
-  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
-
-Learning:
-  - https://notes.ceilfors.com/Cloud_sandbox.html
-  - https://getzero.dev/
-  - http://devze.ro/
   
 ## Seeding / Changing / Learning :
 
