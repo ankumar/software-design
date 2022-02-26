@@ -141,6 +141,26 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## "Transformation" Journey ...
 
+1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
+
+Schemas:
+- [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+- [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
+2. Super charge model development transparency, lineage tracking, collaboration & fun.
+
+- https://app.chaya.ai/
+
+3. \[Opinionated\] Infrastructure & Sustainable Deployment model: 
+
+Papers: 
+  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+
+Learning:
+  - https://notes.ceilfors.com/Cloud_sandbox.html
+  - https://getzero.dev/
+  - http://devze.ro/
+
 > The way that change actually happens is action or behaviour first, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
 > 
 > Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in Donella Meadow’s list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
