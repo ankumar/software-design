@@ -13,6 +13,8 @@
 - Diagrams & Visualizations using text & code - https://mermaid-js.github.io/mermaid/#/
   - https://github.com/EddieHubCommunity/LinkFree/discussions/1087
 
+- http://devze.ro/
+
 --
 
 - [Visual Studio](https://visualstudio.microsoft.com/free-developer-offers/)
