@@ -166,7 +166,6 @@ Papers:
 Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
-  - http://devze.ro/
 
 ### 1. Acuity Brands 
 
