@@ -221,7 +221,7 @@ Shared Context: Business, Product & Tech
 
 ### 2. Walmart Global Tech
 
-Mobile / Web / [Retail](https://www.walmart.com/store/finder?location=95125&distance=50) (Curbside Pickup / Delivery) Products & Services: [Unify/Grow People, Process, Systems & eCommerce/Stores](https://www.retailsupplychaininsights.com/doc/responding-to-pressure-from-amazon-walmart-invests-billions-in-e-commerce-revamp-0001)
+Products & Services, Mobile / Web / [Retail](https://www.walmart.com/store/finder?location=95125&distance=50) (Curbside Pickup / Delivery): [Unify/Grow People, Process, Systems & eCommerce/Stores](https://www.retailsupplychaininsights.com/doc/responding-to-pressure-from-amazon-walmart-invests-billions-in-e-commerce-revamp-0001)
 
 > Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
 
