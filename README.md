@@ -38,6 +38,14 @@
 * Security, Cloud Platforms & Infrastructure
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
+> The way that change actually happens is action or behaviour first, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
+> 
+> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in Donella Meadow’s list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
+> 
+> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
+> 
+> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
+
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
@@ -159,14 +167,6 @@ Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
   - http://devze.ro/
-
-> The way that change actually happens is action or behaviour first, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
-> 
-> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in Donella Meadow’s list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
-> 
-> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
-> 
-> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
 ### 1. Acuity Brands 
 
