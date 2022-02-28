@@ -12,7 +12,7 @@
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 
-"Free", ⤵️
+"Free" ⤵️
 
 1. "Encyclopedia" & More ...
 
