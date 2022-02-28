@@ -169,7 +169,7 @@ Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
 
-### 1. Acuity Brands 
+### 1. Acuity Brands Lighting & More
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
