@@ -14,7 +14,7 @@
 
 "Free" ⤵️
 
-1. "Encyclopedia" & More ...
+1. "Encyclopedia" 
 
 > We design in the open with a transparent and participatory process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create well-designed solutions, together.
 > 
