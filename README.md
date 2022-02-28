@@ -12,7 +12,7 @@
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 
-"Free" ⤵️
+⤵️ "Free"
 
 1. "Encyclopedia" 
 
@@ -31,9 +31,7 @@
 
 > "YouTube confers agency at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
-⤵️
-
-- https://blog.dshr.org/2022/02/ee380-talk.html ? 
+⤵️ Still Learning, https://blog.dshr.org/2022/02/ee380-talk.html ? 
 
 > Open design welcomes the free exchange of ideas, knowledge, processes, and tools. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
