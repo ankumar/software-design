@@ -37,7 +37,7 @@
 * Security, Cloud Platforms & Infrastructure
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
--- Credit for above categories [GCP](https://cloud.google.com/)
+-- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
 > The way that change actually happens is action or behaviour first, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
 > 
