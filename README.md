@@ -12,7 +12,7 @@
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 
-"Free" encyclopedia ⤵️
+"Free", 1. Encyclopedia ⤵️
 
 > We design in the open with a transparent and participatory process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create well-designed solutions, together.
 > 
