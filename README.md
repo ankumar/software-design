@@ -12,7 +12,7 @@
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 
-⤵️ "Free"
+⤵️ "free", "open", ...
 
 1. "Encyclopedia" 
 
@@ -29,7 +29,7 @@
 > 
 > -- https://notes.ceilfors.com/Open_software_design.html
 
-3. & More ....
+3. & more ....
 
 > "YouTube confers agency at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
