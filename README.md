@@ -179,7 +179,7 @@ Learning:
 
 ### 0. </>
 
-- [Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
+- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
  
 ### 1. Acuity Brands Lighting & More
 
