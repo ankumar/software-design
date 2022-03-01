@@ -159,6 +159,8 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 1. Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
+- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
+
 Schemas:
 - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
@@ -175,11 +177,6 @@ Papers:
 Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
-
-
-### 0. </>
-
-- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
  
 ### 1. Acuity Brands Lighting & More
 
