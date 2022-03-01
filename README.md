@@ -177,7 +177,7 @@ Learning:
   - https://getzero.dev/
 
 
-### 0. 
+### 0. </>
 
 - [Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
  
