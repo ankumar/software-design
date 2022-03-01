@@ -176,6 +176,11 @@ Learning:
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
 
+
+### 0. 
+
+- [Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack)
+ 
 ### 1. Acuity Brands Lighting & More
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
@@ -242,8 +247,3 @@ Shared Context: Business, Product & Tech
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
-### 3. More
-
-- [MEAN](https://en.wikipedia.org/wiki/MEAN_(solution_stack))
-- [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle))
-- 
