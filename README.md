@@ -21,7 +21,7 @@
 > -- https://design.wikimedia.org/
 > -- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
 
-* ["real-time authoritative journalism in depth." & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
+* ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 2. Open Core 
 
