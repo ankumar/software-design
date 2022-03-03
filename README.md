@@ -172,7 +172,7 @@ Schemas:
 
 - https://app.chaya.ai/
 
-3. \[Open-ended\] vs \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
+3. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
 Papers: 
   - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
