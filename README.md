@@ -3,7 +3,7 @@
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
-> named [Stewart Brand](https://www.youtube.com/watch?v=lBiEBTp8Rko) not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the **late 1960s**, before personal computers and
+> named [Stewart Brand](https://www.amazon.com/Whole-Earth-Lives-Stewart-Brand/dp/0735223947) not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the **late 1960s**, before personal computers and
 > desktop publishing, so it was all made with typewriters, scissors and Polaroid cameras. It was sort of like Google in paperback form, 35 years before Google
 > came along: It was idealistic, and overflowing with **neat tools and great notions.**
 >  
@@ -11,6 +11,7 @@
 
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
+- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler)](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
 ⤵️ "free", "open", ...
