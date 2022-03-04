@@ -162,7 +162,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
-1. [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) --> Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
+1. [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) ---> Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
@@ -170,7 +170,7 @@ Schemas:
   - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
   - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-2. Super charge model development transparency, lineage tracking, collaboration & fun. https://app.chaya.ai/
+2. Super charge model development transparency, lineage tracking, collaboration, ... ---> https://app.chaya.ai/
   
   - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
 
