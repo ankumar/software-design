@@ -176,8 +176,8 @@ Schemas:
 
 3. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
-  - https://notes.ceilfors.com/Cloud_sandbox.html
-  - https://getzero.dev/
+  - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
+  - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
   - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
  
 ### 1. Acuity Brands Lighting & More
