@@ -11,7 +11,7 @@
 
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
-- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler)](https://www.youtube.com/watch?v=lBiEBTp8Rko)
+- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
 ⤵️ "free", "open", ...
