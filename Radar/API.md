@@ -22,6 +22,8 @@
 
 ## Design
 
++
+
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
 1. APIs are Forever
 2. Never Break Backward Compatibility
@@ -33,6 +35,10 @@
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, [JSON Schema](https://json-schema.org/blog/posts/json-schema-in-5-minutes) ... 
 - REST, gRPC, EDA, GraphQL, ...
+
+-
+
+[Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
 
 ## Developer experience
 
