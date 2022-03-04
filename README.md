@@ -170,9 +170,9 @@ Schemas:
   - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
   - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-2. Super charge model development transparency, lineage tracking, collaboration & fun.
-
-  - https://app.chaya.ai/
+2. Super charge model development transparency, lineage tracking, collaboration & fun. https://app.chaya.ai/
+  
+  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
 
 3. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
