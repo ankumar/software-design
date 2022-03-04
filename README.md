@@ -176,9 +176,9 @@ Schemas:
 
 3. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
-  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
   - https://notes.ceilfors.com/Cloud_sandbox.html
   - https://getzero.dev/
+  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
  
 ### 1. Acuity Brands Lighting & More
 
