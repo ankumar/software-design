@@ -14,7 +14,7 @@
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
-⤵️ "free", "open", ...
+⤵️ web, "free", "open", ...
 
 1. Encyclopedia
 
