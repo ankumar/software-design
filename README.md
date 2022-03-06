@@ -140,8 +140,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## Distributed / Control / Management :
 
-> "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --JeffBezos
-
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
 > This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
