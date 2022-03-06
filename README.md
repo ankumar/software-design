@@ -168,21 +168,19 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 1. [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) ---> Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
+  - Super charge model development transparency, lineage tracking, collaboration, ... ---> https://app.chaya.ai/
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 Schemas:
   - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
   - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-2. Super charge model development transparency, lineage tracking, collaboration, ... ---> https://app.chaya.ai/
-  
-  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
-
-3. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
+2. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
   - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
  
 ### 1. Acuity Brands Lighting & More
 
