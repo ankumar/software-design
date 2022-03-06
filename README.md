@@ -59,6 +59,8 @@
 > 
 > Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
+> "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --JeffBezos
+
 [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
