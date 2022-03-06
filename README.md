@@ -167,7 +167,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 1. [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) ---> Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
-  - https://github.com/redwoodjs/redwood
+  - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 Schemas:
