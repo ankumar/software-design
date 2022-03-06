@@ -248,3 +248,5 @@ Shared Context: Business, Product & Tech
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
+> Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
+
