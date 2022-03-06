@@ -177,11 +177,11 @@ Schemas:
 
 2. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
 
+  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
   - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
-  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
- 
+  
 ### 1. Acuity Brands Lighting & More
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
