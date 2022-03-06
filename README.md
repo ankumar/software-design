@@ -1,5 +1,7 @@
 # Experimentation :
 
+⤵️ web, "free", "open", ...
+
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
@@ -13,8 +15,6 @@
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
-
-⤵️ web, "free", "open", ...
 
 1. Encyclopedia
 
