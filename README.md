@@ -235,6 +235,8 @@ Shared Context: Business, Product & Tech
 
 ### 2. Walmart Global Tech
 
+Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) -> Product -> Business
+
 > Responding To Pressure From Amazon, Walmart Invests Billions In E-Commerce Revamp
 >
 > [Unify/Grow People, Process, Systems & eCommerce/Stores](https://www.retailsupplychaininsights.com/doc/responding-to-pressure-from-amazon-walmart-invests-billions-in-e-commerce-revamp-0001)
