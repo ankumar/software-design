@@ -169,8 +169,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
-> Chaya.Ai will enable you to automate tracking every model, code, data lineage and versions, detect data drifts, detect feature importance, visualize their trend, surface the exact code-diff, consolidate all your model assets, one click enable to publish your winning approach, collaborate with stackholders faster, and finally best part deploy complicated pipelines within minutes in any *flow
-  - https://app.chaya.ai/
+> Chaya.Ai will enable you to automate tracking every model, code, data lineage and versions, detect data drifts, detect feature importance, visualize their trend, surface the exact code-diff, consolidate all your model assets, one click enable to publish your winning approach, collaborate with stackholders faster, and finally best part deploy complicated pipelines within minutes in any *flow - https://app.chaya.ai/
   
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
