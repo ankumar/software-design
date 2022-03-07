@@ -1,4 +1,6 @@
-## Data
+## Data Alphabet
+
+- [Modern Data Stack](https://www.moderndatastack.xyz/companies)
 
 > "Cloudy with High Chance of DBMS: A 10-year Prediction for Enterprise-Grade ML" -- http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf
 
