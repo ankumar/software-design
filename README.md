@@ -140,16 +140,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## Distributed / Control / Management :
 
-[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-
-> This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
->
-> While the underlying system can be decentralized the control structure may not be. -- https://twitter.com/kelseyhightower/status/1487876237917777927
-
-> Why do suspension bridges have stranded cables not solid rods? The major reason is that solid rods would fail suddenly and catastrophically, whereas stranded cables fail slowly and make alarming noises while they do. We build software systems out of solid rods; they fail abruptly and completely.
->
-> https://blog.dshr.org/2022/02/ee380-talk.html
-
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
 > [Polarity Management - Ex: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
@@ -158,6 +148,13 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > >
 > > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
      
+> This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
+>
+> While the underlying system can be decentralized the control structure may not be. -- https://twitter.com/kelseyhightower/status/1487876237917777927
+
+> Why do suspension bridges have stranded cables not solid rods? The major reason is that solid rods would fail suddenly and catastrophically, whereas stranded cables fail slowly and make alarming noises while they do. We build software systems out of solid rods; they fail abruptly and completely.
+>
+> https://blog.dshr.org/2022/02/ee380-talk.html
 
 ## Projects :
 
@@ -178,6 +175,8 @@ Schemas:
   - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
 2. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
+
+[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
   - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
