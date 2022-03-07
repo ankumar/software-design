@@ -25,16 +25,16 @@
 
 * ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
-2. Open Core 
+2. \[...\]
+
+> "YouTube confers agency at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
+
+3. Open Core 
 
 > Open-source software has made it easier for software developers to study and learn programming by looking at real-world working software. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 > 
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
-
-3. \[...\]
-
-> "YouTube confers agency at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
 ⤵️ Evolution ? https://blog.dshr.org/2022/02/ee380-talk.html  
 
