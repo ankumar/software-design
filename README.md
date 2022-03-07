@@ -168,7 +168,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 1. [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) ---> Apps, State Machine & Data: https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
-  - Super charge model development transparency, lineage tracking, collaboration, ... ---> https://app.chaya.ai/
+
+> Chaya.Ai will enable you to automate tracking every model, code, data lineage and versions, detect data drifts, detect feature importance, visualize their trend, surface the exact code-diff, consolidate all your model assets, one click enable to publish your winning approach, collaborate with stackholders faster, and finally best part deploy complicated pipelines within minutes in any *flow
+  - https://app.chaya.ai/
+  
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 Schemas:
@@ -243,7 +246,7 @@ Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Wal
 >
 > Products & Services: Mobile / Web / [Retail](https://www.walmart.com/store/finder?location=95125&distance=50) (Curbside Pickup / Delivery)
 
-> digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
+> Digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
 
 > Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
 
