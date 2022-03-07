@@ -233,7 +233,7 @@ Shared Context: Business, Product & Tech
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-### 2. Walmart Global Tech
+### 2. Walmart
 
 Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) -> Product -> Product / Business -> Walmart Global Tech
 
