@@ -36,7 +36,7 @@
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
 
-⤵️ Evolution ? 
+⤵️ ? 
 
 - https://blog.dshr.org/2022/02/ee380-talk.html  
 - https://www.usenix.org/publications/loginonline/web3-fraud
