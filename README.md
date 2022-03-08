@@ -167,7 +167,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) 
  
-> Automatically generated visuals that can be shared with all stakeholders to track real-time progress for your AI development. We enable automated tracking for every model, code, data lineage and versions. Use one line of code to detect data drifts, and feature importance. It also consolidates all the model assets in one easy-to-share location. Deploy your model to production directly from your notebook (whichever you use) with one API call and under 10 minutes. It works with any workflow scheduler. - https://app.chaya.ai/
+> Automatically generated visuals that can be shared with all stakeholders to track real-time progress for your AI development, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets, collaborate & easy-to-share. Deploy your model to production directly from your notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
 
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
