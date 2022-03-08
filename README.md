@@ -159,7 +159,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 >
 > https://blog.dshr.org/2022/02/ee380-talk.html
 
-## Projects :
+## Projects, Next :
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
