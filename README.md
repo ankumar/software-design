@@ -27,7 +27,7 @@
 
 2. \[...\]
 
-> "YouTube confers agency at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
+> "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
 3. Open Core 
 
