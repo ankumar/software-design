@@ -166,9 +166,9 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
 1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) 
-
-> Chaya.Ai will enable you to automate tracking every model, code, data lineage and versions, detect data drifts, detect feature importance, visualize their trend, surface the exact code-diff, consolidate all your model assets, one click enable to publish your winning approach, collaborate with stackholders faster, and finally best part deploy complicated pipelines within minutes in any *flow - https://app.chaya.ai/
  
+> Automatically generated visuals that can be shared with all stakeholders to track real-time progress for your AI development. We enable automated tracking for every model, code, data lineage and versions. Use one line of code to detect data drifts, and feature importance. It also consolidates all the model assets in one easy-to-share location. Deploy your model to production directly from your notebook (whichever you use) with one API call and under 10 minutes. It works with any workflow scheduler. - https://app.chaya.ai/
+
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
