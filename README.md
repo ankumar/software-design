@@ -38,13 +38,13 @@
 
 ⤵️ ? 
 
-- https://blog.dshr.org/2022/02/ee380-talk.html  
-- https://www.usenix.org/publications/loginonline/web3-fraud
-
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
-  
+
+- https://blog.dshr.org/2022/02/ee380-talk.html  
+- https://www.usenix.org/publications/loginonline/web3-fraud
+
 ## Seeding / Changing / Learning :
 
 * Applications ( Modernization ) & Databases 
