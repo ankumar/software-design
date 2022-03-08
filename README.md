@@ -239,7 +239,7 @@ Shared Context: Business, Product & Tech
 
 ### 2. Walmart
 
-Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) -> Product -> Product + Business -> Walmart Global Tech
+Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) -> Product Teams -> Product + Business + Data Science Teams -> Walmart Global Tech
 
 > Responding To Pressure From Amazon, Walmart Invests Billions In E-Commerce Revamp
 >
