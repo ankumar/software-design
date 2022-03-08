@@ -177,7 +177,7 @@ Schemas:
   - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
   - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-2. \[Open-ended\], \[Opinionated, Prescriptive\] Infrastructure & Sustainable Deployment model: 
+2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
