@@ -18,7 +18,7 @@
 
 1. Encyclopedia
 
-> We design in the open with a transparent and participatory process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create well-designed solutions, together.
+> We design in the open with a **transparent and participatory** process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create **well-designed** solutions, together.
 > 
 > -- https://design.wikimedia.org/
 > -- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
