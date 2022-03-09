@@ -1,6 +1,6 @@
 # Experimentation :
 
-During pandemic 2020  I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on # :pray: Thank You Twitterverse.
+During pandemic 2020  I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on :pray: Thank You Twitterverse, eternally grateful. 
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
