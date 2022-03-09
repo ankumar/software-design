@@ -2,7 +2,7 @@
 
 # Experimentation :
 
-⤵️ web, "free" (data/ad), "open", ...
+⤵️ web, "free", "open", ...
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
@@ -27,7 +27,7 @@
 
 * ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
-2. \[...\]
+2. \[data & Ads\]
 
 > "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
