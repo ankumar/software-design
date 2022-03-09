@@ -235,7 +235,7 @@ Shared Context: Business, Product & Tech
     - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
     - [Argo CD](https://github.com/argoproj/argo-cd/)
  
-[Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
+[Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Search / Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
