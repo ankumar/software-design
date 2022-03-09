@@ -167,7 +167,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
-### Projects:
+### Startup ecosystem:
 
 1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) 
  
