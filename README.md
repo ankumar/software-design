@@ -41,6 +41,15 @@ We saw early signs of dangers surrounding anonymous activities by easy account c
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
 
+> Open source inspires
+Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from the community and we’re sure to see awesome contributions in the future. But all the credit behind this idea goes to the React Native community.
+
+With React Native’s open source contributions, we were able to quickly solve a tough problem for the entire Backstage community. Not only did React Native’s project save us time creating a new product, but it has also saved our adopters time upgrading Backstage.
+
+This is why we love working in open source. The hard work done for one community has the power to influence and inspire another community. We hope Backstage can do the same and pay it forward to other open source projects. 
+>
+> -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
+
 ⤵️ ARM++, Back to the Future ? 
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
