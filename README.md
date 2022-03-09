@@ -137,7 +137,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
   - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
  
-- Developer Relations & Storytelling:
+- Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
