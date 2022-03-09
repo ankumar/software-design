@@ -38,7 +38,7 @@
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
 
-⤵️ ? 
+⤵️ ARM++, Back to the Future ? 
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
