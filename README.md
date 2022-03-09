@@ -54,7 +54,7 @@ We saw early signs of dangers surrounding anonymous activities by easy account c
 
 > The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
 > 
-> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in Donella Meadow’s list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
+> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
 > 
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
 > 
