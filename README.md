@@ -2,7 +2,7 @@
 
 # Experimentation :
 
-⤵️ web, "free", "open", ...
+⤵️ web, "free" (data/ad), "open", ...
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
