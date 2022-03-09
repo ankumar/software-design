@@ -15,7 +15,9 @@ During pandemic 2020  I started researching a bit back in time and forward, this
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
-⤵️ "open", web, "free", cloud, ...
+We saw early signs of dangers surrounding anonymous activities by easy account creation & bots in instant messaging clients like Yahoo!, MSN & AOL Instant Messengers. The communities were relatively smaller compared to global scale operating now in social media platforms. 
+
+⤵️ "open", web, "free", smartphones, cloud, ...
 
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 
@@ -31,8 +33,6 @@ During pandemic 2020  I started researching a bit back in time and forward, this
 2. \[Products, data & Ads\]
 
 > "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
-
-We saw early signs of dangers surrounding anonymous activities by easy account creation & bots in instant messaging clients like Yahoo!, MSN & AOL Instant Messengers. The communities were relatively smaller compared to global scale operating now in social media platforms. 
 
 3. Open Core 
 
