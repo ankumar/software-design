@@ -9,6 +9,7 @@
 **B2B** - Transactions, Supply chain, Logistics, Healthcare & Finance
 - https://www.stedi.com/
 - https://developers.flexport.com/s/api
+- https://goshippo.com/docs/intro/
 
 **Healthcare**
 - https://docs.truepill.com/
