@@ -1,8 +1,6 @@
-# :pray: Thank You Twitterverse
-
 # Experimentation :
 
-⤵️ web, "free", "open", ...
+# :pray: Thank You Twitterverse
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
@@ -17,6 +15,8 @@
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
+
+⤵️ web, "free", "open", cloud, ...
 
 1. Encyclopedia
 
@@ -241,7 +241,7 @@ Shared Context: Business, Product & Tech
 
 ### 2. Walmart
 
-Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) -> Product Teams -> Product + Business + Data Science Teams -> New Identity Walmart Global Tech
+Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Product Teams > Product + Business + Data Science Teams -> New Identity Walmart Global Tech
 
 > Responding To Pressure From Amazon, Walmart Invests Billions In E-Commerce Revamp
 >
