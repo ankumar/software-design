@@ -161,12 +161,13 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 >
 > https://blog.dshr.org/2022/02/ee380-talk.html
 
-## Projects, Next :
+## Next :
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
+Projects:
 1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) 
  
 > Automatically generated visuals that can be shared with all stakeholders to track real-time progress for your AI development, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets, collaborate & easy-to-share. Deploy your model to production directly from your notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
