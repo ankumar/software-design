@@ -2,6 +2,8 @@
 
 # :pray: Thank You Twitterverse
 
+During panademic I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering.
+
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
@@ -70,7 +72,7 @@
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 <p align="center"> (VS Code Day Keynote with Erich Gamma, "Gang of Four") </p>
 
-Press **"."** while on any GitHub repo to open it in a VS Code editor in the browser. Building tools or using best tools, documenting a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. Developer Tools Notebook, Studio & IDE  **(co)evolving** like ⬆️[VS Code 10 years journey](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) to reimagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool - The future of internal tools](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/), [collaborative code editor](https://zed.dev/), [AI pair programmer](https://copilot.github.com/), [GitHub Next investigates the future of software development](https://next.github.com/), [a new kind of programming environment](https://alpha.trycarbide.com/), [A story of tools and the future of work](https://www.notion.so/about) and increasing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Toolchain). 
+Press **"."** while on any GitHub repo to open it in a VS Code editor in the browser. Developer Tools Notebook, Studio & IDE  **(co)evolving** like ⬆️[VS Code 10 years journey](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) to reimagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool - The future of internal tools](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/), [collaborative code editor](https://zed.dev/), [AI pair programmer](https://copilot.github.com/), [GitHub Next investigates the future of software development](https://next.github.com/), [a new kind of programming environment](https://alpha.trycarbide.com/), [A story of tools and the future of work](https://www.notion.so/about) and increasing sprawl of developer experience [ToolChain](https://github.com/ankumar/Open-software-design/blob/main/Toolchain). 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
 
