@@ -34,7 +34,7 @@ During extra free time panademic 2020  I started researching a bit back in time 
 
 > "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
-We personally saw early signs of dangers surrounding anonymous activities by easy identity creations & bots in instant messaging clients like Yahoo!, MSN & AOL Instant Messengers. 
+We personally saw early signs of dangers surrounding anonymous activities by easy identity creations & bots in instant messaging clients like Yahoo!, MSN & AOL Instant Messengers. The communities were relatively smaller compared to global scale now operating in social media platforms. 
 
 3. Open Core 
 
