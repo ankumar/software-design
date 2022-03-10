@@ -31,6 +31,8 @@
 5. Create APIs with Explicit and Well-Documented Failure Modes
 6. Avoid Leaking Implementation Details at All Costs
 
+[Align-Define-Design-Refine](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
+
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, [JSON Schema](https://json-schema.org/blog/posts/json-schema-in-5-minutes) ... 
 - REST, gRPC, EDA, GraphQL, ...
