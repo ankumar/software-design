@@ -180,10 +180,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 ## (co)evolution  :
 
 * Democracy, Government, ... 
-* Applications ( Modernization ) & Databases 
+* Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
+* Applications (+ Modernization ) & Databases 
 * Analytics, AI & Machine Learning
 * Security, Cloud Platforms & Infrastructure
-* Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
