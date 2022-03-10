@@ -52,6 +52,8 @@ We all saw early signs of dangers surrounding anonymous online activities by ena
 
 ⤵️ (co)evolution? with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, ...
 
+Let's start with concrete use cases?
+
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
