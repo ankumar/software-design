@@ -35,11 +35,6 @@ Back:
 
 3. Open Core 
 
-> Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
-> 
-> -- https://notes.ceilfors.com/Open_software_design.html
-> -- https://upmo.com/dev/
-
 > Open source inspires
 Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from the community and we’re sure to see awesome contributions in the future. But all the credit behind this idea goes to the React Native community.
 >
@@ -65,6 +60,11 @@ We "all" saw, some experienced first hand signs of **exponential** dangers of **
 
 - https://blog.dshr.org/2022/02/ee380-talk.html  
 - https://www.usenix.org/publications/loginonline/web3-fraud
+
+> Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
+> 
+> -- https://notes.ceilfors.com/Open_software_design.html
+> -- https://upmo.com/dev/
 
 ## Changing / Seeding / Learning :
 
