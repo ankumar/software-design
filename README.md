@@ -57,6 +57,8 @@ Problems we agree on & concrete use cases?
 
 [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
+[Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
