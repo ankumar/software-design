@@ -15,8 +15,6 @@ During pandemic 2020  I started researching a bit back in time and forward, this
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
-We saw early signs of dangers surrounding anonymous activities by enabling "easy" account management & bots in mail/instant messaging clients like Yahoo!, MSN & AOL platforms across all media types Text/Video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms, hopefully we will do better next time! 
-
 ⤵️ "open", web, "free", smartphones, cloud, ...
 
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
@@ -49,6 +47,8 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 > This is why we love working in open source. The **hard work done for one community has the power to influence and inspire another community**. We hope Backstage can do the same and **pay it forward** to other open source projects. 
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
+
+We saw early signs of dangers surrounding anonymous activities by enabling "easy" account management & bots in mail/instant messaging clients like Yahoo!, MSN & AOL platforms across all media types Text/Video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms, hopefully we will do better next time! 
 
 ⤵️ (co)evolution, ARM++, Back to the Future ? 
 
