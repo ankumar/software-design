@@ -50,7 +50,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 We all saw early signs of dangers surrounding anonymous online activities by enabling "easy" account management & bots in mail/instant messaging clients like Yahoo!, MSN & AOL platforms across all media types Text/Video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms. 
 
-⤵️ (co)evolution with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, Back to the Future ? 
+⤵️ (co)evolution? with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Back to the Future" 
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
