@@ -2,6 +2,7 @@
 
 During pandemic 2020  I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray:, eternally grateful. 
 
+Back:
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
