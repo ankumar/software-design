@@ -48,7 +48,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
-We "all" saw, some experienced first hand signs of **exponential** dangers of **identity, spam, fraud** surrounding anonymous online activities by enabling "easy" account management & bots in mail/instant messaging clients like Yahoo!, MSN & AOL platforms across all media types Text/Video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms. 
+We "all" saw, some experienced first hand signs of **exponential** dangers of **identity, spam, fraud** surrounding anonymous online activities by enabling "easy" account management & bots in "social" Mail/IM clients like Yahoo!, MSN & AOL platforms across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale operating now across many social media platforms. 
 
 ⤵️ (co)evolution? with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, ...
 
