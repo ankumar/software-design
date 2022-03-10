@@ -179,6 +179,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 ## (co)evolution  :
 
+* Democracy, Government, ... 
 * Applications ( Modernization ) & Databases 
 * Analytics, AI & Machine Learning
 * Security, Cloud Platforms & Infrastructure
