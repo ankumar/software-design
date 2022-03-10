@@ -53,7 +53,9 @@ We "all" saw, some experienced first hand signs of **exponential** dangers of **
 
 ⤵️ (co)evolution? with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, ...
 
-problems we agree on & concrete use cases?
+Problems we agree on & concrete use cases?
+
+[Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
@@ -71,8 +73,6 @@ problems we agree on & concrete use cases?
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
 > 
 > Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
-
-[Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 <p align="center"> (VS Code Day Keynote with Erich Gamma, "Gang of Four") </p>
