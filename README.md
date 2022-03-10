@@ -52,7 +52,7 @@ We "all" saw, some experienced first hand signs of **exponential** dangers of **
 
 ⤵️ (co)evolution? with Foundations like [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, ...
 
-Let's start with concrete use cases?
+problems we agree on & concrete use cases?
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
