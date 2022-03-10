@@ -15,7 +15,7 @@ During pandemic 2020  I started researching a bit back in time and forward, this
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
-We saw early signs of dangers surrounding anonymous activities by enabling "easy" account management & bots in instant messaging clients like Yahoo!, MSN & AOL Instant Messengers across all media types text (IM, email)/video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms, hopefully we will do better next time! 
+We saw early signs of dangers surrounding anonymous activities by enabling "easy" account management & bots in instant messaging clients like Yahoo!, MSN & AOL Mail/Instant Messengers across all media types text (IM, email)/video (AKA Webcam). The communities were relatively smaller compared to global scale operating now in social media platforms, hopefully we will do better next time! 
 
 ⤵️ "open", web, "free", smartphones, cloud, ...
 
