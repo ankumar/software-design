@@ -4,6 +4,8 @@
 
 “computation may someday be organized as a public utility, just as the telephone system is a public utility. We can envisage computer service companies whose subscribers are connected to them [...]. Each subscriber needs to pay only for the capacity that he actually uses, but he has access to all programming languages characteristic of a very large system.” -- https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf
 
+[https://glossary.cncf.io/](https://glossary.cncf.io/)
+
 ### Cloud 
  * Providers - https://www.pulumi.com/docs/intro/cloud-providers
  * Universe - https://docs.dagger.io/reference/README
@@ -22,7 +24,6 @@
     * Google Workspace (Formerly G Suite)
   * https://authzed.com/blog/zanzibar-implementations/
   * https://docs.permit.io/overview/authorization_concepts
-
 
 #### Database
   
