@@ -50,9 +50,9 @@ Polarity:
 
 ⤵️ Foward: (co)evolution? with Foundations [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
-[Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
+\+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
-[Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+\+ [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
@@ -62,6 +62,7 @@ Trade-off:
 - https://blog.dshr.org/2022/02/ee380-talk.html  
 - https://www.usenix.org/publications/loginonline/web3-fraud
 
+\+
 > Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 > 
 > -- https://notes.ceilfors.com/Open_software_design.html
