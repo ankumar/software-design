@@ -56,6 +56,7 @@ Foward: ⤵️ (co)evolution? with Foundations like [Internet Identity](https://
 > 
 > [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
 
+Trade-off:
 - https://blog.dshr.org/2022/02/ee380-talk.html  
 - https://www.usenix.org/publications/loginonline/web3-fraud
 
