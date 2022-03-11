@@ -176,7 +176,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 >
 > https://blog.dshr.org/2022/02/ee380-talk.html
 
-## (co)evolution  :
+## (co)evolution / "Digital Transformation" :
 
 * Democracy, Government, ... 
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
