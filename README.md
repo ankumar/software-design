@@ -3,6 +3,9 @@
 I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
 
 **Back:**
+
+> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
+
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
@@ -49,9 +52,6 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 \- **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities enabled by "easy" account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information operating now across many platforms. 
 
 ⤵️ **Foward:** (co)evolution? with Foundations [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
-
-\+ 
-> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
 
 \+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
