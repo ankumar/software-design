@@ -2,7 +2,7 @@
 
 I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
 
-Back:
+**Back:**
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
 > When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
@@ -42,13 +42,13 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
-Polarity:
+**Polarity:**
 
 \+ We are seeing technology & agency working for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 \- We are seeing **exponential** dangers of **identity, spam, fraud** surrounding anonymous linked online/real world activities by enabling "easy" account management, security & bots since early versions of "social" Mail/IM clients like Yahoo!, MSN & AOL platforms across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information operating now across many platforms. 
 
-⤵️ Foward: (co)evolution? with Foundations [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
+⤵️ **Foward:** (co)evolution? with Foundations [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
 \+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
