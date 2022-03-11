@@ -44,7 +44,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 Polarity:
 
-\+ We are seeing technology tools & agency helping in shaping, helping ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
+\+ We are seeing technology & agency helping in shaping, helping people ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 \- We are seeing **exponential** dangers of **identity, spam, fraud** surrounding anonymous linked online/real world activities by enabling "easy" account management, security & bots since early versions of "social" Mail/IM clients like Yahoo!, MSN & AOL platforms across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information operating now across many platforms. 
 
