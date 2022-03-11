@@ -1,6 +1,6 @@
 # Experimentation :
 
-I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray:, eternally grateful. 
+I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
 
 Back:
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
@@ -44,7 +44,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 Polarity:
 
-+ We are seeing technology as a tool & agency helping in shaping future ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
++ We are seeing technology tools & agency helping in shaping, helping ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 - We are seeing **exponential** dangers of **identity, spam, fraud** surrounding anonymous linked online/real world activities by enabling "easy" account management, security & bots since early versions of "social" Mail/IM clients like Yahoo!, MSN & AOL platforms across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information operating now across many platforms. 
 
