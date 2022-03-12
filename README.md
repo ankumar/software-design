@@ -2,7 +2,7 @@
 
 I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
 
-**hindsight:**
+⤵️ **hindsight:** "open", web, "free", smartphones, cloud, ...
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
@@ -18,8 +18,6 @@ I started researching a bit back in time and forward, this is documenting buildi
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
 
 > The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
-
-⤵️ "open", web, "free", smartphones, cloud, ...
 
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 
