@@ -51,7 +51,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 \- **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities enabled by "easy" account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information operating now across many platforms. 
 
-⤵️ **Foward:** (co)evolution? with Foundations [Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
+⤵️ **Foward:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
 \+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
