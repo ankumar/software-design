@@ -45,6 +45,8 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
+⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
+
 **Polarity Management:**
 
 <img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
@@ -52,8 +54,6 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 \+ technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 \- **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities enabled by "easy" account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
-
-⤵️ **Foward:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
 \+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
