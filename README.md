@@ -4,6 +4,8 @@ I started researching a bit back in time and forward, this is documenting buildi
 
 <img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
 
+> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
+
 ⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
@@ -18,10 +20,6 @@ I started researching a bit back in time and forward, this is documenting buildi
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
-
-> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
-
-- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 
 1. Encyclopedia
 
@@ -46,6 +44,8 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
 [What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing)
+
+- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
 
 ⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
