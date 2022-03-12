@@ -194,6 +194,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
+- UK Government
+  - Design Principles: https://www.gov.uk/guidance/government-design-principles
+  - GitHub: https://github.com/alphagov 
+
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
 > - Accepting slow migrations
