@@ -43,6 +43,8 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
+[What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing)
+
 ⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
 **Polarity Management:**
