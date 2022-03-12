@@ -151,7 +151,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 - Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
-  - ["Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional."](https://adhoc.team/about/) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
  
 - Development & Storytelling:
@@ -187,6 +186,9 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 ## (co)evolution / "Digital Transformation" :
 
 * Democracy, Government, ... 
+
+> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
+
   * UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles
   * GitHub: https://github.com/alphagov 
 
