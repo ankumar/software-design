@@ -196,7 +196,8 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 
 > - Accepting slow migrations
 > - Accepting legacy subsystems
-> -- https://future.a16z.com/software-development-building-for-99-developers/
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
 
