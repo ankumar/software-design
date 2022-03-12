@@ -24,6 +24,13 @@
   * https://authzed.com/blog/zanzibar-implementations/
   * https://docs.permit.io/overview/authorization_concepts
 
+#### Kits
+
+  * https://github.com/moby/buildkit
+  * https://github.com/moby/datakit
+  * https://github.com/moby/vpnkit
+  * https://github.com/moby/hyperkit
+
 #### Database
   
 Databricks 
