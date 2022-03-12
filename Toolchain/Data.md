@@ -53,6 +53,7 @@ Stanford:
   * https://hai.stanford.edu/
   * https://crfm.stanford.edu/
 > In recent years, a new successful paradigm for building AI systems has emerged: Train one model on a huge amount of data and adapt it to many applications. We call such a model a foundation model https://www.youtube.com/watch?v=RLrjKGN89Fc
+  * https://stanford-cs329s.github.io/syllabus.html
 
 University of Washington:
   * https://falx.cs.washington.edu/
@@ -87,7 +88,6 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * https://vectorized.io/
   * https://www.decodable.co/
   * https://materialize.com/
-
 
   * https://airbyte.com/
   * https://www.getdbt.com/
