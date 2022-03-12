@@ -1,3 +1,7 @@
+- [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
+
+- [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
+
 - [introducing tbDEX](https://tbd54566975.ghost.io/introducing-tbdex/)
   - [tbDEX: A Liquidity Protocol](https://tbdex.io/whitepaper.pdf)
 
