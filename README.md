@@ -186,11 +186,10 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 ## (co)evolution / "Digital Transformation" :
 
 * Democracy, Government, ... 
-
-> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
-
   * UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles
   * GitHub: https://github.com/alphagov 
+
+> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
 * Applications (+ Modernization ) & Databases 
