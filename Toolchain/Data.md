@@ -99,6 +99,7 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * https://greatexpectations.io/
   * https://www.soda.io/
 
+  * https://databricks.com/product/unity-catalog
   * https://datahubproject.io/ 
   * https://open-metadata.org/
 
