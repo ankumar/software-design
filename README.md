@@ -1,9 +1,9 @@
-<img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
-
 I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
+
+<img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
 # Experimentation: 
 
-⤵️ **hindsight:** "open", web, "free", smartphones, cloud, ...
+⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
@@ -48,7 +48,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 ⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
 
-**Polarity Management:**
+[**Polarity Management**: Tactical/Strategic, Centralization/Decentralization, Digital Currency/"Fiat"](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
 
 <img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
 
