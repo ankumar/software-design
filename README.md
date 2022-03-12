@@ -219,10 +219,8 @@ Schemas:
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
-  - [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
-  - [Deployment Archetypes for Cloud Applications](https://dl.acm.org/doi/10.1145/3498336)
  
 ### Companies
 
