@@ -45,7 +45,9 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
-**Polarity:**
+**Polarity Management:**
+
+<img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
 
 \+ technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
