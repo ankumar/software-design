@@ -75,8 +75,6 @@ Trade-off:
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
 
-## Changing / Seeding / Learning :
-
 > The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
 > 
 > Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
@@ -84,6 +82,28 @@ Trade-off:
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
 > 
 > Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
+
+> [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
+>
+> [Polarity Management: Tactical/Strategic, Centralization/Decentralization](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
+>
+> > Ruth Malan: Here's my understanding: In a polarity map, we recognize that there are poles, and over-emphasis could get us putting too much effort in one or other pole -- at which point the impetus to move away from the downsides of the pole would be strong. So we're seeking to get more "both and" which takes taking actions, and watching for the signals of a dip into too much of a pole (and hence too much of its downsides).  The polarities are unavoidable -- for example, we can't avoid there being some architecture decisions made in the teams without coordinating across teams. We want high autonomy in teams, so they're making a lot of decisions.  And some of these will turn out to be architectural(ly significant). At the same time as wanting teams to have degrees of independence, we want architecturally significant decisions to be made from a system perspective. So what can we do, to make more of that happen, and happen in time? (Whereas a dichotomy would say: pick one, you can't have both. If you have team autonomy you can't have architects (role or hat); if you have more team autonomy, you have less architecture (at least, less architecture (as intentional design; there will still be "accidental" architecture, etc.); etc. There is no notion that by taking actions, you could get more autonomy (where it matters) while still having (just enough) architecture (where it matters). Etc.) 
+> >
+> > Dana Bredemeyer: There are some interesting issues to tease apart here. Do you have a couple hours? :slightly_smiling_face: I find it helpful to distinguish between the level of an architecture and the level (granularity and location) of a decision. The level of the architecture can also be called it's scope or system view. Is the scope of a particular architecture the car, or the drive train (part of car), or the engine (part of drive train)? Let's say we're architecting the drive train. Drive train architectural decisions that do not impact car level desired outcomes are owned / made by the drive train team. If they DO affect car-level desired outcomes, then those decisions are owned / made by the car architecture team. Generally these are different teams, and the architectures are best viewed as different architectures. There's a car architecture, a drive train architecture, and an engine architecture. The DESIRED OUTCOMES cascade from broader to narrower scopes and back again. If the system being designed is a coherent system (such as a car) and all teams understand and are committed to overall car-level desired outcomes, then decisions at narrower scope must not compromise broader scope desired outcomes, but the need to achieve broader scope outcomes CAN drive very detailed decisions in narrower scope. All this gets more complicated when, for instance, the engine is made by a third party who also sells their engine for use in other cars, which have different sets of car-level desired outcome. Sheesh. We're just getting going here and already we can clearly see the highly-connected nature of organization strategy, product strategy, and organizational design. Architecture is challenging. I think Ackoff's short video also does a good job of addressing this. https://www.youtube.com/watch?v=OqEeIG8aPPk
+> 
+> Thread: https://twitter.com/ruthmalan/status/1500946070586671104
+    
+> Three sisters and reciprocity: each is receiving and giving something back; more resilient together. 
+> 
+> https://twitter.com/ruthmalan/status/1496626061152501760     
+     
+> This is a great visualization of the various control and network structures. The lines between centralized, decentralized, and distributed systems aren't as clean as people think. 
+>
+> While the underlying system can be decentralized the control structure may not be. -- https://twitter.com/kelseyhightower/status/1487876237917777927
+
+> Why do suspension bridges have stranded cables not solid rods? The major reason is that solid rods would fail suddenly and catastrophically, whereas stranded cables fail slowly and make alarming noises while they do. We build software systems out of solid rods; they fail abruptly and completely.
+>
+> https://blog.dshr.org/2022/02/ee380-talk.html
 
 [![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq) 
 <p align="center"> (VS Code Day Keynote with Erich Gamma, "Gang of Four") </p>
