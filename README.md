@@ -70,14 +70,6 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 \+ [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
 
-> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
-> 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-Trade-off:
-- https://blog.dshr.org/2022/02/ee380-talk.html  
-- https://www.usenix.org/publications/loginonline/web3-fraud
-
 \+
 > Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 > 
@@ -295,6 +287,14 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+ 
+ > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
+> 
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+
+Trade-off:
+- https://blog.dshr.org/2022/02/ee380-talk.html  
+- https://www.usenix.org/publications/loginonline/web3-fraud
  
 - Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
