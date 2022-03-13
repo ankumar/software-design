@@ -62,13 +62,17 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 > 
 > Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
-\+ technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
+\+ 
+technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
-\- **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with a notion of "growth hacking", Blitzscaling with less of considerations of implications in regards to  account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
+\- 
+**exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with a notion of "growth hacking", Blitzscaling with less of considerations of implications in regards to  account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
 
-\+ [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
+\+ 
+[Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
-\+ [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+\+ 
+[Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
 
 \+
 > Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
