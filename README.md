@@ -71,10 +71,10 @@ technology & agency collaborate for a better world ["real-time authoritative jou
 \+ 
 [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
-It's overwhelming work going on in open source world, largest community currently https://github.com/explore, shifting towards more design will help.   
-
 \+ 
 [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+
+It's overwhelming work going on in open source world, largest community currently https://github.com/explore, more design will help.
 
 \+
 > Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
