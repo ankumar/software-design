@@ -53,6 +53,15 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 <img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
 
+\+
+> The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
+> 
+> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
+> 
+> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
+> 
+> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
+
 \+ technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 \- **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities enabled by "easy" account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across all content types Text/Photo/Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
@@ -74,14 +83,6 @@ Trade-off:
 > 
 > -- https://notes.ceilfors.com/Open_software_design.html
 > -- https://upmo.com/dev/
-
-> The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
-> 
-> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
-> 
-> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
-> 
-> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
 ## (co)evolution / "Digital Transformation" :
 
