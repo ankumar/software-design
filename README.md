@@ -59,7 +59,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 > Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
 > 
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
-> 
+> - [Enabling a Learning Organisation](https://www.linkedin.com/pulse/enabling-learning-organisation-trond-hjorteland/?trackingId=0do9Wz%2FUTH2KuUv3chBRnw%3D%3D)
 > Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
 
 \+ 
