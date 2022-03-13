@@ -72,7 +72,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
-> [Bitcoin Open design](https://bitcoin.design/guide/designing-products/open-design/)
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
 
 Trade-off:
 - https://blog.dshr.org/2022/02/ee380-talk.html  
