@@ -1,4 +1,4 @@
-I started researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
+I am researching a bit back in time and forward, this is documenting building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots came from a following on Twitterverse Thank You :pray: ,eternally grateful. 
 
 # Experimentation: 
 
