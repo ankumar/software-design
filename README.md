@@ -74,7 +74,7 @@ technology & agency collaborate for a better world ["real-time authoritative jou
 
 > [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
 
-It's **overwhelming** work going on in open source world https://github.com/explore, more design will help.
+It's **overwhelming** work going on in open source world https://github.com/explore, more agency of tools like search for design patterns will help (but we have a more of problem of bootstrap data).
 
 \+
 
