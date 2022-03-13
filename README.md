@@ -60,7 +60,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 > 
 > Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
 > - [Enabling a Learning Organisation](https://www.linkedin.com/pulse/enabling-learning-organisation-trond-hjorteland/?trackingId=0do9Wz%2FUTH2KuUv3chBRnw%3D%3D)
-> Survey: https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/
+> - [Survey](https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/)
 
 \+ 
 technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
