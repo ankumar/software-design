@@ -69,14 +69,15 @@ technology & agency collaborate for a better world ["real-time authoritative jou
 **exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with a notion of "growth hacking", Blitzscaling (AKA going alone and less **Together**) with less of considerations of implications in regards to  account management, security & bots since early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
 
 \+ 
-[Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
 
-\+ 
-[Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+> [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
+
+> [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
 
 It's **overwhelming** work going on in open source world https://github.com/explore, more design will help.
 
 \+
+
 > Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
 > 
 > -- https://notes.ceilfors.com/Open_software_design.html
