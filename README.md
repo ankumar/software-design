@@ -183,7 +183,7 @@ Shared Context: Business, Product & Tech
 
 2. **Walmart**
 
-Loose Sequence: Tech first with [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Product > Product(s) + Business > [Walmart+](https://www.walmart.com/plus) >  Merchandising Data science -> New Identity Walmart Global Tech
+Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > Business + Product + Tech > [Walmart+](https://www.walmart.com/plus) >  Merchandising Data science -> New Identity Walmart Global Tech
 
 > Responding To Pressure From Amazon, Walmart Invests Billions In E-Commerce Revamp
 >
