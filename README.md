@@ -1,88 +1,3 @@
-First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
-
-# Experimentation: 
-
-<img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
-
-> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
-
-⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
-
-> [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
->
-> When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
-> named [Stewart Brand](https://www.amazon.com/Whole-Earth-Lives-Stewart-Brand/dp/0735223947) not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the **late 1960s**, before personal computers and
-> desktop publishing, so it was all made with typewriters, scissors and Polaroid cameras. It was sort of like Google in paperback form, 35 years before Google
-> came along: It was idealistic, and overflowing with **neat tools and great notions.**
->  
-> Stewart and his team put out several issues of the [Whole Earth Catalog](https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/?_ga=2.163694903.920801789.1645663617-1306510791.1643493665), and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: **"Stay Hungry. Stay Foolish."** It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.
-
-- [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
-- [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
-- [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
-
-1. Encyclopedia
-
-> We design in the open with a **transparent and participatory** process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create **well-designed** solutions, together.
-> 
-> -- https://design.wikimedia.org/
-> -- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
-
-2. \[Products, data & Ads\]
-
-> "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
-
-3. Open Core 
-
-> Open source inspires
-Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from the community and we’re sure to see awesome contributions in the future. But all the credit behind this idea goes to the React Native community.
->
-> With React Native’s open source contributions, we were able to quickly solve a tough problem for the entire Backstage community. Not only did React Native’s project save us time creating a new product, but it has also saved our adopters time upgrading Backstage.
->
-> This is why we love working in open source. The **hard work done for one community has the power to influence and inspire another community**. We hope Backstage can do the same and **pay it forward** to other open source projects. 
->
-> -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
-
-[What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing)
-
-- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
-
-⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
-
-[**Polarity Management**: Tactical/Strategic, Centralization/Decentralization, Fiat/Digital Currency](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
-
-<img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
-
-\+
-> The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
-> 
-> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
-> 
-> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
-> - [Enabling a Learning Organisation](https://www.linkedin.com/pulse/enabling-learning-organisation-trond-hjorteland/?trackingId=0do9Wz%2FUTH2KuUv3chBRnw%3D%3D)
-> - [Survey](https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/)
-
-\+ 
-technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
-
-\- 
-**exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with notions "growth hacking", Blitzscaling (AKA going alone and less **Together**), less considerations for societal implications enabled by vulnerabilities in account management, security & bots since good old early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The challenge is that the communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
-
-\+ 
-
-> [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
-
-> [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
-
-It's **overwhelming** work going on in open source world, more agency of tools like [search](https://sourcegraph.com/search?_ga=2.51756911.799392183.1647276458-1410053958.1638741259) including design will help (right now we have problem of more code and less design).
-
-\+
-
-> Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
-> 
-> -- https://notes.ceilfors.com/Open_software_design.html
-> -- https://upmo.com/dev/
-
 ## (co)evolution / "Digital Transformation" :
 
 * Democracy, Government, ... 
@@ -202,6 +117,92 @@ Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Imp
 > Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
 
 ---
+
+First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
+
+# Experimentation: 
+
+<img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
+
+> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
+
+⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
+
+> [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
+>
+> When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation. It was created by a fellow 
+> named [Stewart Brand](https://www.amazon.com/Whole-Earth-Lives-Stewart-Brand/dp/0735223947) not far from here in Menlo Park, and he brought it to life with his poetic touch. This was in the **late 1960s**, before personal computers and
+> desktop publishing, so it was all made with typewriters, scissors and Polaroid cameras. It was sort of like Google in paperback form, 35 years before Google
+> came along: It was idealistic, and overflowing with **neat tools and great notions.**
+>  
+> Stewart and his team put out several issues of the [Whole Earth Catalog](https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/?_ga=2.163694903.920801789.1645663617-1306510791.1643493665), and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: **"Stay Hungry. Stay Foolish."** It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.
+
+- [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
+- [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
+- [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
+
+1. Encyclopedia
+
+> We design in the open with a **transparent and participatory** process. We collaborate within the Wikimedia Foundation and with the global community of contributors. We create **well-designed** solutions, together.
+> 
+> -- https://design.wikimedia.org/
+> -- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
+
+2. \[Products, data & Ads\]
+
+> "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
+
+3. Open Core 
+
+> Open source inspires
+Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from the community and we’re sure to see awesome contributions in the future. But all the credit behind this idea goes to the React Native community.
+>
+> With React Native’s open source contributions, we were able to quickly solve a tough problem for the entire Backstage community. Not only did React Native’s project save us time creating a new product, but it has also saved our adopters time upgrading Backstage.
+>
+> This is why we love working in open source. The **hard work done for one community has the power to influence and inspire another community**. We hope Backstage can do the same and **pay it forward** to other open source projects. 
+>
+> -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
+
+[What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing)
+
+- [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
+
+⤵️ **Amplify:** (co)evolution [The Foundation of Internet Identity](https://openid.net/2016/09/27/the-foundation-of-internet-identity/) / [Together we're building a new identity ecosystem](https://identity.foundation/), Energy efficient Computing, "Digital Transformation" Problems we agree on & concrete use cases?
+
+[**Polarity Management**: Tactical/Strategic, Centralization/Decentralization, Fiat/Digital Currency](https://www.youtube.com/watch?v=yyuFr4gTzjU) 
+
+<img width="665" alt="Polarity Management" src="https://user-images.githubusercontent.com/658791/158005749-0042cd2f-690a-48ca-a904-5c5c9b4bf020.png">
+
+\+
+> The way that change actually happens is **action or behaviour first**, values and attitudes second, not the only way around. Merrelyn Emery puts it succinctly: “And no matter how many times you sing the song, you need more than love.”
+> 
+> Equally important, this type of change is not something that should be done only in parts of the organisation; this must be complete structural change, utilising the second most effective leverage point in [Donella Meadows](https://www.youtube.com/watch?v=XL_lOoomRTA) list of places to intervene in a system. “The mindset or paradigm out of which the system — its goals, structure, rules, delays, parameters — arises.” 
+> 
+> Open Sociotechnical Systems Design -> https://www.infoq.com/articles/open-sociotechnical-systems-design/
+> - [Enabling a Learning Organisation](https://www.linkedin.com/pulse/enabling-learning-organisation-trond-hjorteland/?trackingId=0do9Wz%2FUTH2KuUv3chBRnw%3D%3D)
+> - [Survey](https://www.linkedin.com/feed/update/urn:li:activity:6902715461067505664/)
+
+\+ 
+technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
+
+\- 
+**exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with notions "growth hacking", Blitzscaling (AKA going alone and less **Together**), less considerations for societal implications enabled by vulnerabilities in account management, security & bots since good old early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The challenge is that the communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
+
+\+ 
+
+> [Computers can aid humans in our most noble endeavors: art, science, thinking, self-improvement. But today’s dominant computing platforms increasingly work against the needs of creative professionals](https://www.inkandswitch.com/)
+
+> [Musings on user agency in computing and the future of programming tools](https://buttondown.email/geoffreylitt)
+
+It's **overwhelming** work going on in open source world, more agency of tools like [search](https://sourcegraph.com/search?_ga=2.51756911.799392183.1647276458-1410053958.1638741259) including design will help (right now we have problem of more code and less design).
+
+\+
+
+> Open-source software has made it easier for software developers to **study and learn programming** by looking at **real-world working software**. But what about software design? Building architects (not software) study thousands of buildings in their training and career. Software developers, in contrast, only study a handful of other large software designs. This means we repeat mistakes that we would have been able to avoid, should we be able to learn from others.
+> 
+> -- https://notes.ceilfors.com/Open_software_design.html
+> -- https://upmo.com/dev/
+
 
 > [From 2021 Organizational Dynamics Masterclass](https://www.ruthmalan.com/) 
 >
