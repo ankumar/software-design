@@ -66,7 +66,7 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 technology & agency collaborate for a better world ["real-time authoritative journalism" & Volunteer editors building out the page](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)
 
 \- 
-**exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with notions "growth hacking", Blitzscaling (AKA going alone and less **Together**), less considerations for societal implications enabled by vulnerabilities in account management, security & bots since good old early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
+**exponential** dangers of **identity, spam, fraud** surrounding anonymous online/real world linked activities with notions "growth hacking", Blitzscaling (AKA going alone and less **Together**), less considerations for societal implications enabled by vulnerabilities in account management, security & bots since good old early (Yahoo!, MSN, AOL, ...) versions of "social" Mail/IM clients across & content types Text -> Photo -> Video (AKA Webcam). The challenge is that the communities were relatively smaller compared to massive global scale  media and (dis)information (lies) operating across many platforms. 
 
 \+ 
 
