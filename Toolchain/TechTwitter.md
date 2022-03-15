@@ -1,3 +1,5 @@
+https://twitter.com/GergelyOrosz/status/1470511313713573899
+
 https://twitter.com/i/bookmarks (Todo: [Private](https://help.twitter.com/en/using-twitter/bookmarks#:~:text=Will%20anyone%20be%20able%20to,you%20within%20your%20Twitter%20account.), Call Twitter API ?)
 
 * [The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution. We need to find new ways to collaborate](https://twitter.com/lalleal/status/1386411136199790592)
