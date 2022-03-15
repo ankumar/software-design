@@ -63,6 +63,7 @@ Databricks
 
 ### Security
 
+* [BeyondCorp](https://en.wikipedia.org/wiki/BeyondCorp)
 * [Cloud Native Security Whitepaper](https://github.com/cncf/tag-security/tree/main/security-whitepaper)
   * https://control-plane.io/
 
