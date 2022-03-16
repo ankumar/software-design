@@ -297,13 +297,15 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
  
 Searching for **Next**:
 
+- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Open design](https://bitcoin.design/guide/designing-products/open-design/)
 
   - https://blog.dshr.org/2022/02/ee380-talk.html  
   - https://www.usenix.org/publications/loginonline/web3-fraud
-
+  
 Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
