@@ -150,6 +150,8 @@ First a bit back in time **retrospective** and forward **Amplify** building tool
 
 2. \[Products, data & Ads\]
 
+'You' in 'YouTube'
+
 > "YouTube confers **agency** at every level—kids can become world class musicians just by watching other kids...everybody can figure out how to repair something. YouTube gets people feeling like they can weigh in on anything—it's just fantastic." —Stewart Brand 
 
 3. Open Core 
