@@ -306,7 +306,7 @@ Trade-off:
 - https://blog.dshr.org/2022/02/ee380-talk.html  
 - https://www.usenix.org/publications/loginonline/web3-fraud
  
-- Development & Storytelling:
+Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
