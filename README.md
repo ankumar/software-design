@@ -294,17 +294,6 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
- 
-Searching for **Next**:
-
-- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
-
-> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
-> 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-  - https://blog.dshr.org/2022/02/ee380-talk.html  
-  - https://www.usenix.org/publications/loginonline/web3-fraud
   
 Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
@@ -317,3 +306,13 @@ Development & Storytelling:
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
 
+Searching for **Next**:
+
+- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
+> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
+> 
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+
+  - https://blog.dshr.org/2022/02/ee380-talk.html  
+  - https://www.usenix.org/publications/loginonline/web3-fraud
