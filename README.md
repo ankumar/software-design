@@ -26,7 +26,9 @@
 
 1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack) 
  
-> Automatically generated visuals that can be shared with all stakeholders to track real-time progress for your AI development, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets, collaborate & easy-to-share. Deploy your model to production directly from your notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
+> Auto generated visuals to collaborate with stakeholders ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
+>
+> Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
 
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
