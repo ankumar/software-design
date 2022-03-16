@@ -5,7 +5,7 @@
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
   * US Government:
-    * Digital Currency:  
+    * For Developers: https://www.usa.gov/developer
   * UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles
     * GitHub: https://github.com/alphagov 
 
