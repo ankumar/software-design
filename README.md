@@ -292,20 +292,20 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > Open collaboration is "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." It is prominently observed in open source software, but can also be found in many other instances, such as in Internet forums, mailing lists and online communities. Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia. -- https://en.wikipedia.org/wiki/Open_collaboration
 
 > Having a community that you can learn from, … I think it was the reason I got into software engineering, the reason I was able to get into it so quickly and so easily. There’s so many different ways you can learn. -Kate (chemical) -- [The Crossover Project](https://www.hillelwayne.com/post/what-we-can-learn/)
-
-- Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
-  - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
-  - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
-  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
  
  > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
 > [Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-Trade-off:
-- https://blog.dshr.org/2022/02/ee380-talk.html  
-- https://www.usenix.org/publications/loginonline/web3-fraud
  
+Seeking Next:
+  - https://blog.dshr.org/2022/02/ee380-talk.html  
+  - https://www.usenix.org/publications/loginonline/web3-fraud
+
+Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
+  - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
+  - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
+  - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+
 Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
