@@ -1,4 +1,4 @@
-## (co)evolution / Digital Transformation :
+## (co)evolution / Digital :
 
 * Democracy, Government, ... 
   * UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles
