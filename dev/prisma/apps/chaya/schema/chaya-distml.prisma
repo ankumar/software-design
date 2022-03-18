@@ -1,0 +1,543 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["dataproxy", "referentialIntegrity"]
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+  referentialIntegrity = "prisma"
+}
+
+model app_documents {
+  id           Int       @id @default(autoincrement())
+  project_name String?
+  user_name    String?
+  user_email   String?
+  status       String?
+  created_date DateTime? @db.Timestamptz(6)
+  doc_name     String?
+  doc_link     String?
+}
+
+model app_driftreports {
+  id                      Int       @id @default(autoincrement())
+  payload                 Json?
+  experiment_name         String?
+  project_name            String?
+  user_name               String
+  model_version           String?
+  log_time                DateTime? @db.Timestamptz(6)
+  hash_test               String?
+  hash_train              String?
+  dataset_version         Int
+  test_dataset_path       String?
+  train_dataset_path      String?
+  pointer_type_direct     Boolean?
+  experiment_name_derived String?
+  model_version_derived   String?
+
+  @@index([hash_test], map: "app_driftreports_hash_test_419d56d5")
+  @@index([hash_test], map: "app_driftreports_hash_test_419d56d5_like")
+  @@index([hash_train], map: "app_driftreports_hash_train_0d3a80a1")
+  @@index([hash_train], map: "app_driftreports_hash_train_0d3a80a1_like")
+}
+
+model app_experimentdmlgalogger {
+  id                       Int     @id @default(autoincrement())
+  experiment_id            String
+  user_name                String
+  vm_name                  String?
+  proc_number              String?
+  log_storage              String?
+  model_metric             String?
+  generic_logs             String?
+  logging_ts               String?
+  data_file                String?
+  log_message              String?
+  code_version_sha1_github String?
+  model_version            String?
+  target_metric_key        String?
+  coding_language          String?
+  github_branch_name       String?
+  experiment_name          String?
+  machine_type             String?
+  project_name             String?
+  asset_path               String?
+  asset_path_image         String? @db.VarChar(100)
+}
+
+model app_experimentmetdata {
+  id                       Int       @id @default(autoincrement())
+  experiment_id            String
+  experiment_name          String    @db.VarChar(100)
+  user_name                String
+  vm_requested             Int
+  cost                     Float?
+  start_time               DateTime? @db.Timestamptz(6)
+  end_time                 DateTime? @db.Timestamptz(6)
+  code_repo                String
+  code_file                String
+  image_used               String
+  metadata                 String
+  model_input              String
+  model_outout             String
+  status                   String
+  memory                   Int?
+  cores                    Int?
+  machine_type             String?
+  project_name             String?
+  execution_time           Int?
+  vm_completed             Int
+  run_time                 Int?
+  machine_family           String?
+  machine_series           String?
+  code_version_sha1_github String?
+  model_version            String?
+  target_metric_key        String?
+  coding_language          String?
+  github_branch_name       String?
+}
+
+model app_experimentprocdetails {
+  id                       Int               @id @default(autoincrement())
+  experiment_id            String
+  user_name                String
+  vm_name                  String?
+  vm_status                String?
+  status                   String?
+  proc_number              String?
+  log_storage              String?
+  model_metric             String?
+  data_drift               String?
+  concept_drift            String?
+  proc_execution_time      Int?
+  cost                     Float?
+  data_file                String?
+  start_time               DateTime?         @db.Timestamptz(6)
+  end_time                 DateTime?         @db.Timestamptz(6)
+  run_time                 Int?
+  memory                   Int?
+  cores                    Int?
+  code_version_sha1_github String?
+  model_version            Int?
+  target_metric_key        String?
+  coding_language          String?
+  github_branch_name       String?
+  experiment_name          String?
+  project_name             String?
+  start_tag                String?
+  machine_type             String?
+  app_metricvalue          app_metricvalue[]
+}
+
+model app_experimentvmdetails {
+  id                       Int       @id @default(autoincrement())
+  experiment_id            String
+  user_name                String
+  vm_name                  String?
+  vm_status                String?
+  status                   String?
+  num_procs                Int?
+  num_procs_completed      Int?
+  vm_execution_time        Int?
+  cost                     Float?
+  start_time               DateTime? @db.Timestamptz(6)
+  end_time                 DateTime? @db.Timestamptz(6)
+  run_time                 Int?
+  machine_family           String?
+  machine_series           String?
+  memory                   Int?
+  cores                    Int?
+  code_version_sha1_github String?
+  model_version            String?
+  target_metric_key        String?
+  coding_language          String?
+  github_branch_name       String?
+}
+
+model app_membership {
+  id               Int          @id @default(autoincrement())
+  date_joined      DateTime?    @db.Timestamptz(6)
+  invite_reason    String?      @db.VarChar(64)
+  invite_by        String?      @db.VarChar(64)
+  invite_date_send DateTime?    @db.Timestamptz(6)
+  group_id         Int
+  person_id        Int
+  app_projects     app_projects @relation(fields: [group_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "app_membership_group_id_92020777_fk_app_projects_id")
+  app_token        app_token    @relation(fields: [person_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "app_membership_person_id_f8b9fb6e_fk_app_token_id")
+
+  @@index([group_id], map: "app_membership_group_id_92020777")
+  @@index([person_id], map: "app_membership_person_id_f8b9fb6e")
+}
+
+model app_metrickey {
+  id              Int               @id @default(autoincrement())
+  metric_name     String?
+  app_metricvalue app_metricvalue[]
+}
+
+model app_metricvalue {
+  id                        Int                       @id @default(autoincrement())
+  date_collected            DateTime?                 @db.Timestamptz(6)
+  metric_type               String?
+  metric_value              String?
+  experiment_id             String?
+  experiment_name           String?
+  project_name              String?
+  model_version             Int?
+  vm_name                   String?
+  metric_key_name           String?
+  experiment_proc_id        Int
+  metric_key_id             Int
+  user                      String?
+  log_time                  DateTime?                 @db.Timestamptz(6)
+  git_commit_token          String?
+  display_status            String?
+  app_experimentprocdetails app_experimentprocdetails @relation(fields: [experiment_proc_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "app_metricvalue_experiment_proc_id_71020f44_fk_app_exper")
+  app_metrickey             app_metrickey             @relation(fields: [metric_key_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "app_metricvalue_metric_key_id_8c6646ab_fk_app_metrickey_id")
+
+  @@index([experiment_proc_id], map: "app_metricvalue_experiment_proc_id_71020f44")
+  @@index([metric_key_id], map: "app_metricvalue_metric_key_id_8c6646ab")
+}
+
+model app_modelfileassets {
+  id                Int       @id @default(autoincrement())
+  project_name      String?
+  experiment_name   String?
+  model_version     String?
+  user_name         String?
+  user_email        String?
+  created_date      DateTime? @db.Timestamptz(6)
+  storage_location  String?
+  production_status String?
+}
+
+model app_projects {
+  id               Int              @id @default(autoincrement())
+  project_name     String
+  user_email       String?
+  created_date     DateTime?        @db.Timestamptz(6)
+  status           String?
+  github_repo      String?
+  project_type     String?
+  metrics          String?
+  metrics_baseline String?
+  app_membership   app_membership[]
+}
+
+model app_publiclinks {
+  id           Int       @id @default(autoincrement())
+  user_name    String?
+  user_email   String?
+  user_token   String?
+  project_name String?
+  created_date DateTime? @db.Timestamptz(6)
+  status       String?
+  github_repo  String?
+  short_id     String?
+  decoded_link String?
+
+  @@index([short_id], map: "app_publiclinks_short_id_7b9c4401")
+  @@index([short_id], map: "app_publiclinks_short_id_7b9c4401_like")
+}
+
+model app_pulsefeed {
+  id                 Int       @id @default(autoincrement())
+  created_by_user    Json?
+  message_content    String?
+  title              String?
+  project            String
+  description        String?
+  image              DateTime? @db.Timestamptz(6)
+  creation_time      String?
+  message_type       String?
+  user_notifications String?
+
+  @@index([created_by_user], map: "app_pulsefeed_created_by_user_d0be7570")
+  @@index([creation_time], map: "app_pulsefeed_creation_time_8ac51615")
+  @@index([creation_time], map: "app_pulsefeed_creation_time_8ac51615_like")
+  @@index([user_notifications], map: "app_pulsefeed_user_notifications_5ea2752d")
+  @@index([user_notifications], map: "app_pulsefeed_user_notifications_5ea2752d_like")
+}
+
+model app_token {
+  id             Int              @id @default(autoincrement())
+  user_email     String
+  user_token     String
+  join_date      DateTime?        @db.Timestamptz(6)
+  status         String?
+  app_membership app_membership[]
+}
+
+model auth_group {
+  id                     Int                      @id @default(autoincrement())
+  name                   String                   @unique @db.VarChar(150)
+  auth_group_permissions auth_group_permissions[]
+  auth_user_groups       auth_user_groups[]
+
+  @@index([name], map: "auth_group_name_a6ea08ec_like")
+}
+
+model auth_group_permissions {
+  id              Int             @id @default(autoincrement())
+  group_id        Int
+  permission_id   Int
+  auth_group      auth_group      @relation(fields: [group_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_group_permissions_group_id_b120cbf9_fk_auth_group_id")
+  auth_permission auth_permission @relation(fields: [permission_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_group_permissio_permission_id_84c5c92e_fk_auth_perm")
+
+  @@unique([group_id, permission_id], map: "auth_group_permissions_group_id_permission_id_0cd325b0_uniq")
+  @@index([group_id], map: "auth_group_permissions_group_id_b120cbf9")
+  @@index([permission_id], map: "auth_group_permissions_permission_id_84c5c92e")
+}
+
+model auth_permission {
+  id                         Int                          @id @default(autoincrement())
+  name                       String                       @db.VarChar(255)
+  content_type_id            Int
+  codename                   String                       @db.VarChar(100)
+  django_content_type        django_content_type          @relation(fields: [content_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_permission_content_type_id_2f476e4b_fk_django_co")
+  auth_group_permissions     auth_group_permissions[]
+  auth_user_user_permissions auth_user_user_permissions[]
+
+  @@unique([content_type_id, codename], map: "auth_permission_content_type_id_codename_01ab375a_uniq")
+  @@index([content_type_id], map: "auth_permission_content_type_id_2f476e4b")
+}
+
+model auth_user {
+  id                         Int                          @id @default(autoincrement())
+  password                   String                       @db.VarChar(128)
+  last_login                 DateTime?                    @db.Timestamptz(6)
+  is_superuser               Boolean
+  username                   String                       @unique @db.VarChar(150)
+  first_name                 String                       @db.VarChar(30)
+  last_name                  String                       @db.VarChar(150)
+  email                      String                       @db.VarChar(254)
+  is_staff                   Boolean
+  is_active                  Boolean
+  date_joined                DateTime                     @db.Timestamptz(6)
+  auth_user_groups           auth_user_groups[]
+  auth_user_user_permissions auth_user_user_permissions[]
+  comment_blockeduser        comment_blockeduser[]
+  comment_blockeduserhistory comment_blockeduserhistory[]
+  comment_comment            comment_comment[]
+  comment_flag               comment_flag[]
+  comment_flaginstance       comment_flaginstance[]
+  comment_reactioninstance   comment_reactioninstance[]
+  django_admin_log           django_admin_log[]
+  django_mfa_u2fkey          django_mfa_u2fkey[]
+  django_mfa_userotp         django_mfa_userotp?
+
+  @@index([username], map: "auth_user_username_6821ab7c_like")
+}
+
+model auth_user_groups {
+  id         Int        @id @default(autoincrement())
+  user_id    Int
+  group_id   Int
+  auth_group auth_group @relation(fields: [group_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_user_groups_group_id_97559544_fk_auth_group_id")
+  auth_user  auth_user  @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_user_groups_user_id_6a12ed8b_fk_auth_user_id")
+
+  @@unique([user_id, group_id], map: "auth_user_groups_user_id_group_id_94350c0c_uniq")
+  @@index([group_id], map: "auth_user_groups_group_id_97559544")
+  @@index([user_id], map: "auth_user_groups_user_id_6a12ed8b")
+}
+
+model auth_user_user_permissions {
+  id              Int             @id @default(autoincrement())
+  user_id         Int
+  permission_id   Int
+  auth_permission auth_permission @relation(fields: [permission_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_user_user_permi_permission_id_1fbb5f2c_fk_auth_perm")
+  auth_user       auth_user       @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "auth_user_user_permissions_user_id_a95ead1b_fk_auth_user_id")
+
+  @@unique([user_id, permission_id], map: "auth_user_user_permissions_user_id_permission_id_14a6b632_uniq")
+  @@index([permission_id], map: "auth_user_user_permissions_permission_id_1fbb5f2c")
+  @@index([user_id], map: "auth_user_user_permissions_user_id_a95ead1b")
+}
+
+model comment_blockeduser {
+  id                         Int                          @id @default(autoincrement())
+  email                      String?                      @db.VarChar(254)
+  blocked                    Boolean
+  user_id                    Int?
+  auth_user                  auth_user?                   @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_blockeduser_user_id_0e102b20_fk_auth_user_id")
+  comment_blockeduserhistory comment_blockeduserhistory[]
+
+  @@index([user_id], map: "comment_blockeduser_user_id_0e102b20")
+}
+
+model comment_blockeduserhistory {
+  id                  Int                 @id @default(autoincrement())
+  reason              String?
+  state               Int                 @db.SmallInt
+  date                DateTime            @db.Timestamptz(6)
+  blocked_user_id     Int
+  blocker_id          Int?
+  comment_blockeduser comment_blockeduser @relation(fields: [blocked_user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_blockeduserh_blocked_user_id_0646a345_fk_comment_b")
+  auth_user           auth_user?          @relation(fields: [blocker_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_blockeduserhistory_blocker_id_106ff2df_fk_auth_user_id")
+
+  @@index([blocked_user_id], map: "comment_blockeduserhistory_blocked_user_id_0646a345")
+  @@index([blocker_id], map: "comment_blockeduserhistory_blocker_id_106ff2df")
+}
+
+model comment_comment {
+  id                    Int                 @id @default(autoincrement())
+  object_id             Int
+  content               String
+  posted                DateTime            @db.Timestamptz(6)
+  content_type_id       Int
+  parent_id             Int?
+  user_id               Int?
+  edited                DateTime            @db.Timestamptz(6)
+  urlhash               String              @unique(map: "comment_comment_urlhash_1f2a37f4_uniq") @db.VarChar(50)
+  email                 String              @db.VarChar(254)
+  django_content_type   django_content_type @relation(fields: [content_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_comment_content_type_id_fbfb9793_fk_django_co")
+  comment_comment       comment_comment?    @relation("comment_commentTocomment_comment_parent_id", fields: [parent_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_comment_parent_id_b612524c_fk_comment_comment_id")
+  auth_user             auth_user?          @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_comment_user_id_6078e57b_fk_auth_user_id")
+  other_comment_comment comment_comment[]   @relation("comment_commentTocomment_comment_parent_id")
+  comment_flag          comment_flag?
+  comment_reaction      comment_reaction?
+
+  @@index([content_type_id], map: "comment_comment_content_type_id_fbfb9793")
+  @@index([parent_id], map: "comment_comment_parent_id_b612524c")
+  @@index([urlhash], map: "comment_comment_urlhash_1f2a37f4_like")
+  @@index([user_id], map: "comment_comment_user_id_6078e57b")
+}
+
+model comment_flag {
+  id                   Int                    @id @default(autoincrement())
+  count                Int
+  state                Int                    @db.SmallInt
+  comment_id           Int                    @unique
+  moderator_id         Int?
+  comment_comment      comment_comment        @relation(fields: [comment_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_flag_comment_id_41d5e873_fk_comment_comment_id")
+  auth_user            auth_user?             @relation(fields: [moderator_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_flag_moderator_id_e2ccaf81_fk_auth_user_id")
+  comment_flaginstance comment_flaginstance[]
+
+  @@index([moderator_id], map: "comment_flag_moderator_id_e2ccaf81")
+}
+
+model comment_flaginstance {
+  id           Int          @id @default(autoincrement())
+  info         String?
+  date_flagged DateTime     @db.Timestamptz(6)
+  reason       Int          @db.SmallInt
+  flag_id      Int
+  user_id      Int
+  comment_flag comment_flag @relation(fields: [flag_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_flaginstance_flag_id_5f0100d0_fk_comment_flag_id")
+  auth_user    auth_user    @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_flaginstance_user_id_9aa1aa0c_fk_auth_user_id")
+
+  @@unique([flag_id, user_id], map: "comment_flaginstance_flag_id_user_id_45354216_uniq")
+  @@index([flag_id], map: "comment_flaginstance_flag_id_5f0100d0")
+  @@index([user_id], map: "comment_flaginstance_user_id_9aa1aa0c")
+}
+
+model comment_follower {
+  id                  Int                 @id @default(autoincrement())
+  email               String              @db.VarChar(254)
+  username            String              @db.VarChar(50)
+  object_id           Int
+  content_type_id     Int
+  django_content_type django_content_type @relation(fields: [content_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_follower_content_type_id_c9480b27_fk_django_co")
+
+  @@index([content_type_id], map: "comment_follower_content_type_id_c9480b27")
+}
+
+model comment_reaction {
+  id                       Int                        @id @default(autoincrement())
+  likes                    Int
+  dislikes                 Int
+  comment_id               Int                        @unique(map: "comment_reaction_comment_id_66a7fc70_uniq")
+  comment_comment          comment_comment            @relation(fields: [comment_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_reaction_comment_id_66a7fc70_fk_comment_comment_id")
+  comment_reactioninstance comment_reactioninstance[]
+}
+
+model comment_reactioninstance {
+  id               Int              @id @default(autoincrement())
+  reaction_type    Int              @db.SmallInt
+  date_reacted     DateTime         @db.Timestamptz(6)
+  reaction_id      Int
+  user_id          Int
+  comment_reaction comment_reaction @relation(fields: [reaction_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_reactioninst_reaction_id_68fbb2eb_fk_comment_r")
+  auth_user        auth_user        @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "comment_reactioninstance_user_id_f813deaf_fk_auth_user_id")
+
+  @@unique([user_id, reaction_id], map: "comment_reactioninstance_user_id_reaction_id_0e26e650_uniq")
+  @@index([reaction_id], map: "comment_reactioninstance_reaction_id_68fbb2eb")
+  @@index([user_id], map: "comment_reactioninstance_user_id_f813deaf")
+}
+
+model django_admin_log {
+  id                  Int                  @id @default(autoincrement())
+  action_time         DateTime             @db.Timestamptz(6)
+  object_id           String?
+  object_repr         String               @db.VarChar(200)
+  action_flag         Int                  @db.SmallInt
+  change_message      String
+  content_type_id     Int?
+  user_id             Int
+  django_content_type django_content_type? @relation(fields: [content_type_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "django_admin_log_content_type_id_c4bce8eb_fk_django_co")
+  auth_user           auth_user            @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "django_admin_log_user_id_c564eba6_fk_auth_user_id")
+
+  @@index([content_type_id], map: "django_admin_log_content_type_id_c4bce8eb")
+  @@index([user_id], map: "django_admin_log_user_id_c564eba6")
+}
+
+model django_content_type {
+  id               Int                @id @default(autoincrement())
+  app_label        String             @db.VarChar(100)
+  model            String             @db.VarChar(100)
+  auth_permission  auth_permission[]
+  comment_comment  comment_comment[]
+  comment_follower comment_follower[]
+  django_admin_log django_admin_log[]
+
+  @@unique([app_label, model], map: "django_content_type_app_label_model_76bd3d3b_uniq")
+}
+
+model django_mfa_u2fkey {
+  id           Int       @id @default(autoincrement())
+  created_at   DateTime  @db.Timestamptz(6)
+  last_used_at DateTime? @db.Timestamptz(6)
+  public_key   String    @unique
+  key_handle   String
+  app_id       String
+  user_id      Int
+  auth_user    auth_user @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "django_mfa_u2fkey_user_id_2d00d3c1_fk_auth_user_id")
+
+  @@index([public_key], map: "django_mfa_u2fkey_public_key_3d303fe9_like")
+  @@index([user_id], map: "django_mfa_u2fkey_user_id_2d00d3c1")
+}
+
+model django_mfa_userotp {
+  id                           Int                            @id @default(autoincrement())
+  otp_type                     String                         @db.VarChar(20)
+  secret_key                   String                         @db.VarChar(100)
+  user_id                      Int                            @unique
+  auth_user                    auth_user                      @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "django_mfa_userotp_user_id_1535e3f9_fk_auth_user_id")
+  django_mfa_userrecoverycodes django_mfa_userrecoverycodes[]
+}
+
+model django_mfa_userrecoverycodes {
+  id                 Int                @id @default(autoincrement())
+  secret_code        String             @db.VarChar(10)
+  user_id            Int
+  django_mfa_userotp django_mfa_userotp @relation(fields: [user_id], references: [id], onDelete: NoAction, onUpdate: NoAction, map: "django_mfa_userrecov_user_id_2cb8601a_fk_django_mf")
+
+  @@index([user_id], map: "django_mfa_userrecoverycodes_user_id_2cb8601a")
+}
+
+model django_migrations {
+  id      Int      @id @default(autoincrement())
+  app     String   @db.VarChar(255)
+  name    String   @db.VarChar(255)
+  applied DateTime @db.Timestamptz(6)
+}
+
+model django_session {
+  session_key  String   @id @db.VarChar(40)
+  session_data String
+  expire_date  DateTime @db.Timestamptz(6)
+
+  @@index([expire_date], map: "django_session_expire_date_a5c62663")
+  @@index([session_key], map: "django_session_session_key_c0390e0f_like")
+}
