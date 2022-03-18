@@ -12,17 +12,13 @@
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
 - https://docs.temporal.io/blog/reliable-crypto-transactions-at-coinbase/ / https://github.com/temporalio/samples-java/blob/main/src/main/java/io/temporal/samples/bookingsaga/TripBookingWorkflowImpl.java
 
-CircuitBreaker
-- 
+CircuitBreaker: </>
 
-Bulkhead
--
+Bulkhead: </>
 
-RateLimiter
--
+RateLimiter: </>
 
-Retry
--
+Retry: </>
 
 **State:**
 
