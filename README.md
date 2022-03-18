@@ -7,7 +7,7 @@
 * Security, Cloud Platforms & Infrastructure
   * US Government For Developers: https://www.usa.gov/developer
   * UK Government Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
-  * [Open banking - wiki](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
+  * [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
