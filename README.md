@@ -9,8 +9,13 @@
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
 * Retail, Manufacturing, Finance, Entertainment, Healthcare, ...
+  * [Open banking](https://en.wikipedia.org/wiki/Open_banking)
+  * [Open banking](https://www.openbanking.org.uk/)  
+
 * Applications (+ Modernization ) & Databases 
+
 * Analytics, AI & Machine Learning
+
 * Security, Cloud Platforms & Infrastructure
 
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
