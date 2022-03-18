@@ -1,10 +1,15 @@
 ## (co)evolution / Digital :
 
-Democracy, Government - US Government For Developers: https://www.usa.gov/developer / UK Government Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
+Democracy, Government 
+
+US Government For Developers: https://www.usa.gov/developer
+UK Government Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
 
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
-Retail, Manufacturing, Finance, Entertainment, Healthcare - [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
+Retail, Manufacturing, Finance, Entertainment, Healthcare
+
+[Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
 Applications (+ Modernization ) & Databases 
 
