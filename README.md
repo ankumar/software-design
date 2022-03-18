@@ -1,9 +1,10 @@
 ## (co)evolution / Digital :
 
-Democracy, Government 
+Democracy & Government 
 
-US Government For Developers: https://www.usa.gov/developer
-UK Government Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
+US Government, For Developers: https://www.usa.gov/developer
+
+UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
 
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
