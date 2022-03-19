@@ -42,7 +42,7 @@ Security, Cloud Platforms & Infrastructure
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
-State Machine:
+
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 Schemas:
