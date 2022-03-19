@@ -44,8 +44,8 @@ Security, Cloud Platforms & Infrastructure
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 Schemas:
-  - [Real world examples Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
-  - [A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+  - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
 2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
 
