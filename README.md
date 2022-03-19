@@ -14,6 +14,8 @@ Retail, Manufacturing, Finance, Entertainment, Healthcare
 
 Applications (+ Modernization ) & Databases 
 
+- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), Ruby on Rails, Django, JVM/Go/... 
+
 Analytics, AI & Machine Learning
 
 Security, Cloud Platforms & Infrastructure
