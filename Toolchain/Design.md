@@ -7,6 +7,7 @@
 
 [UUID](https://www.cockroachlabs.com/blog/what-is-a-uuid/):
 - [K-Sortable Unique IDentifier](https://github.com/segmentio/ksuid) 
+- [Distributed, Twitter Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake)
 
 [Sagas](https://microservices.io/patterns/data/saga.html)
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
