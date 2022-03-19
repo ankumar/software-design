@@ -31,8 +31,8 @@ Security, Cloud Platforms & Infrastructure
 
 ### Startup ecosystem:
 
-1. Apps, State Machine & Data [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), Ruby on Rails, Django, JVM/Go/... 
- 
+1. Apps, State Machine & Data 
+
 > Auto generated visuals to collaborate with stakeholders ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
 >
 > Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
