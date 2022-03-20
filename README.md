@@ -56,7 +56,9 @@ Schemas:
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
  
-### Polarity Management: Manufacturing: Lighting/Controls & More Things, Retail: Stores/Grocery & E-commerce 
+### Polarity Management: 
+
+**Manufacturing**: Lighting/Controls **&** More Things
 
 1. **Acuity Brands Lighting & More**
 
@@ -108,6 +110,8 @@ Shared Context: Business, Product & Tech
 [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Search / Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
+
+**Retail**: Stores/Grocery **&** E-commerce 
 
 2. **Walmart**
 
