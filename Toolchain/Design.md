@@ -1,7 +1,6 @@
 ## Software Design
 
 - Kent Beck: https://tidyfirst.substack.com/
-- System Design Interview: https://github.com/alex-xu-system/bytebytego
 
 ### Recurring
 
@@ -38,3 +37,7 @@ Retry: </>
 **Samples:**
 1. https://github.com/vladimir-bukhtoyarov/bucket4j
 2. https://github.com/sethvargo/go-limiter
+
+--
+
+- System Design Interview: https://github.com/alex-xu-system/bytebytego
