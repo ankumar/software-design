@@ -56,7 +56,7 @@ Schemas:
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
  
-### Polarity Management: Lighting/Controls & More Things, Stores/Grocery & E-commerce 
+### Polarity Management: Manufacturing: Lighting/Controls & More Things, Retail: Stores/Grocery & E-commerce 
 
 1. **Acuity Brands Lighting & More**
 
