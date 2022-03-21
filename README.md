@@ -110,7 +110,7 @@ Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Imp
 >  
 > Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
 
-### Startup ecosystem:
+### Startup (ecosystem):
 
 1. Apps, State Machine & Data 
 
