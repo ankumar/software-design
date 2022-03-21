@@ -2,10 +2,10 @@
 
 These are big bets in public communities considering slow deliberate process for seeking acceleration.
 
-* [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
-
-* Alternative
+* [Open Source Alternative To](https://www.producthunt.com/posts/open-source-alternative-to)
   * [Twilio Alternative](https://fonoster.com/) 
+
+* [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
 * [Security](https://openssf.org/blog/2022/01/19/reducing-security-risks-in-open-source-software-at-scale-scorecards-launches-v4/)
 
