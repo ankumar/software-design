@@ -35,7 +35,7 @@ Security, Cloud Platforms & Infrastructure
  
 ### Polarity Management: 
 
-1. **Manufacturing**: Lighting/Controls **&** More Things, [Acuity Brands](https://www.acuitybrands.com/)
+1. **Manufacturing**: [AcuityBrands](https://www.acuitybrands.com/), Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
@@ -86,9 +86,7 @@ Shared Context: Business, Product & Tech
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-**Retail**: Stores/Grocery **&** E-commerce 
-
-2. **Walmart**
+2. **Retail**: Stores/Grocery **&** E-commerce, [Walmart](https://one.walmart.com/content/usone/en_us/company.html) 
 
 Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > https://one.walmart.com/, Business + Product + Tech > [Walmart+](https://www.walmart.com/plus), Ads, Health etc. >  Infuse more Data -> New Identity Walmart Global Tech
 
