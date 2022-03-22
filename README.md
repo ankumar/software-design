@@ -55,14 +55,14 @@ Shared Context: Business, Product & Tech
  
 - Design System 
 
+- Decision Records
+  - Tech Radar
+  - C4 Model
+
 - Code
   - Style Guides  
   - Tech Docs
   - Tests
-
- - Decision Records
-  - Tech Radar
-  - C4 Model
 
 - Developer Experience [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
@@ -75,12 +75,12 @@ Shared Context: Business, Product & Tech
   - [Google Cloud - BigQuery](https://cloud.google.com/)
   - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
    
-  - Open Source
-    - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
-    - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
-    - [Temporal](https://github.com/temporalio/temporal)
-    - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
-    - [Argo CD](https://github.com/argoproj/argo-cd/)
+- Open Source
+  - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
+  - [Backstage](https://github.com/backstage/backstage) / SaaS: https://roadie.io/
+  - [Temporal](https://github.com/temporalio/temporal)
+  - [Artillery](https://github.com/artilleryio), [Playwright](https://github.com/microsoft/playwright)
+  - [Argo CD](https://github.com/argoproj/argo-cd/)
  
 [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Search / Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
