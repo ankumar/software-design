@@ -297,6 +297,10 @@ Development & Storytelling:
 
 ### Startup (ecosystem):
 
+Searching for **Next**:
+
+- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
 1. Apps, State Machine & Data 
 
 > Auto generated visuals to collaborate with stakeholders, ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
@@ -319,10 +323,6 @@ Schemas:
 
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
-
-Searching for **Next**:
-
-- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 
 > Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
 > 
