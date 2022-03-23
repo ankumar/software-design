@@ -297,9 +297,7 @@ Development & Storytelling:
 
 ### Startup (ecosystem):
 
-Searching for **Next**:
-
-- [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 
 1. Apps, State Machine & Data 
 
