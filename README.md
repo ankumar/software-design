@@ -33,7 +33,7 @@ Security, Cloud Platforms & Infrastructure
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
  
-1. **Manufacturing**: [AcuityBrands](https://www.acuitybrands.com/), Lighting/Controls **&** More Things
+1. **Manufacturing**: [AcuityBrands](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
