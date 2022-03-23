@@ -84,7 +84,7 @@ Shared Context: Business, Product & Tech
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-2. **Retail**: [Walmart](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
+2. **Retail**: [Walmart](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery <span style="color:red">&</span> E-commerce
 
 Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > https://one.walmart.com/, Business + Product + Tech > [Walmart+](https://www.walmart.com/plus), Ads, Health etc. >  Infuse more Data -> New Identity Walmart Global Tech
 
