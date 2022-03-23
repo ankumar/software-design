@@ -127,6 +127,7 @@ First a bit back in time **retrospective** and forward **Amplify** building tool
 >  
 > Stewart and his team put out several issues of the [Whole Earth Catalog](https://www.moma.org/interactives/exhibitions/2011/AccesstoTools/?_ga=2.163694903.920801789.1645663617-1306510791.1643493665), and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: **"Stay Hungry. Stay Foolish."** It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.
 
+- [John Markoff | Floating Upstream: The Many Lives of Stewart Brand](https://www.youtube.com/watch?v=FX8qqah7GqQ)
 - [Whole Earth 50th Anniversary Celebration](https://www.youtube.com/watch?v=31mXWZAgCF4)
 - [Whole Earth Catalog’s Long Legacy over 50 years](https://www.youtube.com/watch?v=tCRI22ewnY4)
 - [Stewart Brand | Talks at Google](https://www.youtube.com/watch?v=zmJ1VRx0mdo)
