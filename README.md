@@ -1,6 +1,6 @@
 ## (co)evolution / Digital :
 
-**Democracy**, Government,  
+**DEMOCRACY**, GOVERNMENT,  
 
 - US GOVERNMENT, For Developers: https://www.usa.gov/developer
 
