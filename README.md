@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
+
+The physicist Hermann von Helmholtz on being successful at problem-solving
+
 ## (co)evolution / Digital :
 
 **DEMOCRACY**, GOVERNMENT,  
@@ -23,10 +27,6 @@
 Security, Cloud Platforms & Infrastructure
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
-
-![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
-
-The physicist Hermann von Helmholtz on being successful at problem-solving
 
 > - Accepting slow migrations
 > - Accepting legacy subsystems
