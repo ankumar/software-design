@@ -2,23 +2,23 @@
 
 **Democracy**, Government,  
 
-- US Government, For Developers: https://www.usa.gov/developer
+- US GOVERNMENT, For Developers: https://www.usa.gov/developer
 
-- UK Government, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
+- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
 
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
-**Healthcare**, Retail, Manufacturing, Finance, Entertainment, 
+**HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, 
 
 - [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
-**Applications** (+ Modernization ) & Databases 
+**APPLICATIONS** (+ Modernization ) & DATABASES 
 
 - [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, JVM/Go/... 
 
 > The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
 
-**Data**, Analytics, AI & Machine Learning, 
+**DATA**, ANALYTICS, AI & MACHINE LEARNING, 
 
 Security, Cloud Platforms & Infrastructure
  
@@ -33,7 +33,7 @@ Security, Cloud Platforms & Infrastructure
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
  
-1. **Manufacturing**: [AcuityBrands](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
+1. **MANUFACTURING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
@@ -84,7 +84,7 @@ Shared Context: Business, Product & Tech
 
 [![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
 
-2. **Retail**: [Walmart](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
+2. **RETAIL**: [WALMART](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
 
 Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > https://one.walmart.com/, Business + Product + Tech > [Walmart+](https://www.walmart.com/plus), Ads, Health etc. >  Infuse more Data -> New Identity Walmart Global Tech
 
