@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
-
-The physicist Hermann von Helmholtz on being successful at problem-solving
-
 ## (co)evolution / Digital :
 
 **DEMOCRACY**, GOVERNMENT,  
@@ -28,7 +24,9 @@ Security, Cloud Platforms & Infrastructure
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
-![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
+![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
+
+The physicist Hermann von Helmholtz on being successful at problem-solving
 
 > - Accepting slow migrations
 > - Accepting legacy subsystems
@@ -300,6 +298,8 @@ Development & Storytelling:
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
 
 ### Startup (ecosystem):
+
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
 Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 
