@@ -106,11 +106,11 @@ Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Imp
 
 ## Knowledge base:
 
+First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
+
 ![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
 
 The physicist Hermann von Helmholtz on being successful at problem-solving
-
-First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
 
 ### Experimentation: 
 
