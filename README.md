@@ -1,7 +1,3 @@
-![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
-
-The physicist Hermann von Helmholtz on being successful at problem-solving
-
 ## (co)evolution / Digital :
 
 **DEMOCRACY**, GOVERNMENT,  
@@ -35,7 +31,7 @@ Security, Cloud Platforms & Infrastructure
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
  
-1. **MANUFACTURING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
+1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
@@ -107,6 +103,10 @@ Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Imp
 > Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
 
 ---
+
+![image](https://user-images.githubusercontent.com/658791/159974461-0cf027f9-2ee7-4a4f-a6a4-ed13b45c2eca.png)
+
+The physicist Hermann von Helmholtz on being successful at problem-solving
 
 ## Knowledge base:
 
