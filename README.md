@@ -139,7 +139,7 @@ First a bit back in time **retrospective** and forward **Amplify** building tool
 > -- https://design.wikimedia.org/
 > -- https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team
 
-2. \[Products, data & Ads\]
+2. \[Products & Business\]
 
 'You' in 'YouTube'
 
