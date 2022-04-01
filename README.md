@@ -1,4 +1,4 @@
-## (co)evolution / Digital :
+## (co)evolution:
 
 **DEMOCRACY**, GOVERNMENT,  
 
