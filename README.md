@@ -8,15 +8,15 @@
 
 > [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
 
-**CLIMATE, HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, 
-
-- [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
-
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
 - [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, JVM/Go/... 
 
 > The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
+
+**CLIMATE, HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, 
+
+- [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
 **DATA**, ANALYTICS, AI & MACHINE LEARNING, 
 
