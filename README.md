@@ -14,7 +14,7 @@
 
 > The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
 
-**CLIMATE, HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, SPACE, 
+**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
 
 Some companies that are more than 100 years old: Boeing: 106 years
 UPS: 115 years
