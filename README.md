@@ -98,10 +98,8 @@ Shared Context: Business, Product & Tech
 2. **RETAIL / E-commerce**: [WALMART](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
 
 > Mar 29, 2022: On this day in 1918: Sam Walton was born
-
-He opened the first Walmart at the age of 44.
-
-Two decades later, he was the richest person in America.
+> He opened the first Walmart at the age of 44.
+> Two decades later, he was the richest person in America.
 > 
 > -- https://twitter.com/JonErlichman/status/1508779843948879876
 
