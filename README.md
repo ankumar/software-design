@@ -16,6 +16,21 @@
 
 **CLIMATE, HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, SPACE, 
 
+Some companies that are more than 100 years old:
+
+Boeing: 106 years
+UPS: 115 years
+Kellogg’s: 116 years
+Harley-Davidson: 119 years
+Ford: 119 years
+Target: 120 years
+Hershey’s: 128 years
+Coca-Cola: 130 years
+Nintendo: 133 years
+Nokia: 157 years
+Macy’s: 164 years
+P&G: 185 years
+
 - [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
 **DATA**, ANALYTICS, AI & MACHINE LEARNING, 
