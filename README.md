@@ -24,6 +24,7 @@ Ford: 119 years
 Target: 120 years
 Hershey’s: 128 years
 Coca-Cola: 130 years
+AcuityBrands: 130 years
 Nintendo: 133 years
 Nokia: 157 years
 Macy’s: 164 years
