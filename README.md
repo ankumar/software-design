@@ -156,6 +156,10 @@ Thus far, the Backstage Upgrade Helper has gotten a lot of good feedback from th
 >
 > -- https://backstage.io/blog/2022/03/04/backstage-upgrade-helper#open-source-inspires
 
+> Fun fact: @dagger_io is developed entirely in the open. Yes it's open-source, but beyond that: the maintainers (employed by Dagger or not) discuss everything in open channels: https://discord.gg/dagger-io. Even live meetings, to discuss priorities or debate design, are open by default
+> 
+> -- https://twitter.com/solomonstre/status/1509967925972660227
+
 [What’s Next in Computing?](https://cdixon.org/2016/02/21/what-s-next-in-computing)
 
 - [Stewart Brand on Starting Things and Staying Curious | Conversations with Tyler](https://www.youtube.com/watch?v=lBiEBTp8Rko)
