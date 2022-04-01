@@ -16,9 +16,7 @@
 
 **CLIMATE, HEALTHCARE**, RETAIL, MANUFACTURING, FINANCE, ENTERTAINMENT, SPACE, 
 
-Some companies that are more than 100 years old:
-
-Boeing: 106 years
+Some companies that are more than 100 years old: Boeing: 106 years
 UPS: 115 years
 Kellogg’s: 116 years
 Harley-Davidson: 119 years
