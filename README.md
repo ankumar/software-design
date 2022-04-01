@@ -76,14 +76,9 @@ Shared Context: Business, Product & Tech
 
 - Developer Experience [Build/Buy](https://github.com/ankumar/Open-software-design/blob/main/Radar/SaaS.md#saas-alphabet) 
   - [Zeroheight](https://zeroheight.com/) [Bit](https://bit.dev/) [Storybook](https://storybook.js.org/) [ReadMe](https://readme.com/) 
-  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login)
-  - [Miro](https://miro.com/)
-  - [Postman](https://www.postman.com/)
-  - [Striim](https://www.striim.com/)
-  - [Aqua](https://www.aquasec.com/)
-  - [Datadog](https://www.datadoghq.com/)
-  - [Google Cloud - BigQuery](https://cloud.google.com/)
-  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/)
+  - [Figma](https://www.figma.com/) [Adobe Illustrator](https://creativecloud.adobe.com/) [Adobe Photoshop](https://creativecloud.adobe.com/) [Adobe Lightroom](https://creativecloud.adobe.com/) [QGIS](https://www.qgis.org/en/site/) [AutoCAD](https://web.autocad.com/login) [Miro](https://miro.com/)
+  - [Postman](https://www.postman.com/) [Striim](https://www.striim.com/) [Aqua](https://www.aquasec.com/) [Datadog](https://www.datadoghq.com/)
+  - [Azure - IAM, Compute & Databases](https://azure.microsoft.com/) [Google Cloud - BigQuery](https://cloud.google.com/)
    
 - Open Source
   - [Cloud Relay API](https://github.com/DistechControls/CloudRelay)   
