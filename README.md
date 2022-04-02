@@ -24,6 +24,13 @@ Security, Cloud Platforms & Infrastructure
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
+> - Accepting slow migrations
+> - Accepting legacy subsystems
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
+
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+ 
 Some companies that are more than 100 years old: Boeing: 106 years,
 UPS: 115 years,
 Kellogg’s: 116 years,
@@ -38,13 +45,6 @@ Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
 
-> - Accepting slow migrations
-> - Accepting legacy subsystems
-> 
-> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
- 
 1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
