@@ -127,6 +127,7 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 ### Experimentation: 
 
 <img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
+
 > "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --Letter to Amazon Shareholders
 
 > The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
