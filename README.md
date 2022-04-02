@@ -1,19 +1,5 @@
 ## (co)evolution:
 
-Some companies that are more than 100 years old: Boeing: 106 years,
-UPS: 115 years,
-Kellogg’s: 116 years,
-Harley-Davidson: 119 years,
-Ford: 119 years,
-Target: 120 years,
-Hershey’s: 128 years,
-Coca-Cola: 130 years,
-**AcuityBrands: 130 years**,
-Nintendo: 133 years,
-Nokia: 157 years,
-Macy’s: 164 years,
-P&G: 185 years,
-
 **DEMOCRACY**, GOVERNMENT,  
 
 - US GOVERNMENT, For Developers: https://www.usa.gov/developer
@@ -37,6 +23,20 @@ P&G: 185 years,
 Security, Cloud Platforms & Infrastructure
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
+
+Some companies that are more than 100 years old: Boeing: 106 years,
+UPS: 115 years,
+Kellogg’s: 116 years,
+Harley-Davidson: 119 years,
+Ford: 119 years,
+Target: 120 years,
+Hershey’s: 128 years,
+Coca-Cola: 130 years,
+**AcuityBrands: 130 years**,
+Nintendo: 133 years,
+Nokia: 157 years,
+Macy’s: 164 years,
+P&G: 185 years,
 
 > - Accepting slow migrations
 > - Accepting legacy subsystems
