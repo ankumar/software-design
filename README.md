@@ -24,11 +24,6 @@
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
-> - Accepting slow migrations
-> - Accepting legacy subsystems
-> 
-> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
  
 Some companies that are more than 100 years old: Boeing: 106 years,
@@ -46,6 +41,11 @@ P&G: 185 years,
 
 **AcuityBrands: 130 years**,
 **Walmart: 59 years**,
+
+> - Accepting slow migrations
+> - Accepting legacy subsystems
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
 1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
