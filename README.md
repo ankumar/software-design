@@ -1,13 +1,5 @@
 ## (co)evolution:
 
-**DEMOCRACY**, GOVERNMENT,  
-
-- US GOVERNMENT, For Developers: https://www.usa.gov/developer
-
-> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
-
-- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
-
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
 - [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, .NET/JVM/... 
@@ -21,6 +13,14 @@
 **DATA**, ANALYTICS, AI & MACHINE LEARNING, 
 
 **SECURITY,** CLOUD PLATFORMS & INFRASTRUCTURE
+
+**DEMOCRACY**, GOVERNMENT,  
+
+- US GOVERNMENT, For Developers: https://www.usa.gov/developer
+
+> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
+
+- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
