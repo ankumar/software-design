@@ -44,6 +44,7 @@ Nintendo: 133 years,
 Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
+
 **Walmart: 59 years**,
 
 1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
