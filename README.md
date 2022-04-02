@@ -44,6 +44,7 @@ Nintendo: 133 years,
 Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
+**Walmart: 59 years**,
 
 1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
@@ -91,7 +92,6 @@ Shared Context: Business, Product & Tech
 
 2. **RETAIL / E-commerce**: [WALMART](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
 
-> **Walmart: 59 years**,
 > Mar 29, 2022: On this day in 1918: Sam Walton was born
 > He opened the first Walmart at the age of 44.
 > Two decades later, he was the richest person in America.
