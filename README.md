@@ -20,7 +20,7 @@
 
 **DATA**, ANALYTICS, AI & MACHINE LEARNING, 
 
-Security, Cloud Platforms & Infrastructure
+**SECURITY,** CLOUD PLATFORMS & INFRASTRUCTURE
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
