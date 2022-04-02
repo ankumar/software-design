@@ -130,11 +130,11 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 
 > "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --Letter to Amazon Shareholders
 
-> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
-
 First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
 
 ⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
+
+> The story of computing is the story of humanity. This is a story of ambition, invention, creativity, vision, avarice, and serendipity, all powered by a refusal to accept the limits of our bodies and our minds. -- https://computingthehumanexperience.com/about/
 
 > [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc?t=783)
 >
