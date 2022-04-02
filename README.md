@@ -12,7 +12,8 @@ Coca-Cola: 130 years,
 Nintendo: 133 years,
 Nokia: 157 years,
 Macy’s: 164 years,
-P&G: 185 years
+P&G: 185 years,
+**Walmart: 59 years**,
 
 **DEMOCRACY**, GOVERNMENT,  
 
