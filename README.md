@@ -1,5 +1,19 @@
 ## (co)evolution:
 
+Some companies that are more than 100 years old: Boeing: 106 years,
+UPS: 115 years,
+Kellogg’s: 116 years,
+Harley-Davidson: 119 years,
+Ford: 119 years,
+Target: 120 years,
+Hershey’s: 128 years,
+Coca-Cola: 130 years,
+AcuityBrands: 130 years,
+Nintendo: 133 years,
+Nokia: 157 years,
+Macy’s: 164 years,
+P&G: 185 years
+
 **DEMOCRACY**, GOVERNMENT,  
 
 - US GOVERNMENT, For Developers: https://www.usa.gov/developer
@@ -15,20 +29,6 @@
 > The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
 
 **CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
-
-Some companies that are more than 100 years old: Boeing: 106 years,
-UPS: 115 years,
-Kellogg’s: 116 years,
-Harley-Davidson: 119 years,
-Ford: 119 years,
-Target: 120 years,
-Hershey’s: 128 years,
-Coca-Cola: 130 years,
-AcuityBrands: 130 years,
-Nintendo: 133 years,
-Nokia: 157 years,
-Macy’s: 164 years,
-P&G: 185 years
 
 - [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
