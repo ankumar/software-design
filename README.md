@@ -1,14 +1,29 @@
 ## (co)evolution:
 
+**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
+
+Some companies that are more than 100 years old: Boeing: 106 years,
+UPS: 115 years,
+Kellogg’s: 116 years,
+Harley-Davidson: 119 years,
+Ford: 119 years,
+JCPenney: 119 years,
+Target: 120 years,
+Walgreens: 121 years,
+Hershey’s: 128 years,
+Coca-Cola: 130 years,
+Nintendo: 133 years,
+Nokia: 157 years,
+Macy’s: 164 years,
+P&G: 185 years,
+
+- [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
+
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
 - [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, .NET/JVM/... 
 
 > The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
-
-**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
-
-- [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 
 **DATA**, ANALYTICS, AI & MACHINE LEARNING, 
 
@@ -26,21 +41,6 @@
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
  
-Some companies that are more than 100 years old: Boeing: 106 years,
-UPS: 115 years,
-Kellogg’s: 116 years,
-Harley-Davidson: 119 years,
-Ford: 119 years,
-JCPenney: 119 years,
-Target: 120 years,
-Walgreens: 121 years,
-Hershey’s: 128 years,
-Coca-Cola: 130 years,
-Nintendo: 133 years,
-Nokia: 157 years,
-Macy’s: 164 years,
-P&G: 185 years,
-
 **AcuityBrands: 130 years**,
 **Walmart: 59 years**,
 
