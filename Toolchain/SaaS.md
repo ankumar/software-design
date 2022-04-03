@@ -131,6 +131,7 @@
     
     - **Security** 
       - https://www.prancer.io/
+      - https://secureframe.com/
  
   - **Industry:**
     - **Finance**
