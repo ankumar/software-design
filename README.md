@@ -4,7 +4,7 @@
 
 Some companies that are more than 100 years old: Boeing: 106 years,
 UPS: 115 years,
-Kellogg’s: 116 years,
+Honeywell, Kellogg’s: 116 years,
 Harley-Davidson: 119 years,
 Ford: 119 years,
 JCPenney: 119 years,
