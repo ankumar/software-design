@@ -42,16 +42,12 @@ P&G: 185 years,
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
 [Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
- 
-**AcuityBrands: 130 years**,
-**Walmart: 59 years [Timeline](https://www.walmartmuseum.com/content/walmartmuseum/en_us/timeline.html)**,
-
 > - Accepting slow migrations
 > - Accepting legacy subsystems
 > 
 > -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
-1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
+1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS: 130 years](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
@@ -97,6 +93,8 @@ Shared Context: Business, Product & Tech
 
 2. **RETAIL / E-commerce**: [WALMART](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
 
+> 59 years [Timeline](https://www.walmartmuseum.com/content/walmartmuseum/en_us/timeline.html)
+> 
 > Mar 29, 2022: On this day in 1918: Sam Walton was born
 > He opened the first Walmart at the age of 44.
 > Two decades later, he was the richest person in America.
