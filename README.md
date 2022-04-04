@@ -17,7 +17,7 @@ Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
 
-- [Open banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
+- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
 - [Open Healthcare - ]()
 
 **APPLICATIONS** (+ Modernization ) & DATABASES 
