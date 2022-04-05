@@ -113,15 +113,15 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 >
 > Products & Services: Mobile / Web / [Retail](https://www.walmart.com/store/finder?location=95125&distance=50) (Curbside Pickup / Delivery)
 
-> Digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
-
-> Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
-
-> The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
-
 > A great begining story here, setting aside 1 engineer on experimentation/tinkering with new tech stack (Kafka/Cassandra/Elastic) eventually resulted in a Unified Catalog system for Stores & ecommerce (+Martketplace) shows change is possible even in complex situations like Fortune #1 with lot at stake. 
 >  
 > Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
+
+> Apache Kafka for Real-Time Retail https://www.confluent.io/blog/apache-kafka-item-setup/
+
+> Digital transformation at Walmart and the real-time benifits with using Kafka such as checking inventory, fufillment, security and fraud. https://www.youtube.com/watch?v=9V-dcwORE7g 
+
+> The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
 ---
 
