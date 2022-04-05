@@ -335,6 +335,8 @@ Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.
 
 1. Apps, State Machine & Data 
 
+> [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
+> 
 > Auto generated visuals to collaborate with stakeholders, ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
 >
 > Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
