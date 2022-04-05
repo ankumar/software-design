@@ -21,7 +21,7 @@ P&G: 185 years,
 
 - [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
 
-> It's impressive that [Stripe](https://stripe.com/docs/climate/faqs) has a Head of Climate (@nanransohoff). It signals both that they know what matters, and that their ambitions are big enough that they need to care about big problems. Eventually every ambitious tech company will have such a person. -- https://twitter.com/paulg/status/1511266839090843651
+> It's impressive that [Stripe](https://stripe.com/docs/climate/faqs) has a Head of Climate ([@nanransohoff](https://twitter.com/nanransohoff)). It signals both that they know what matters, and that their ambitions are big enough that they need to care about big problems. Eventually every ambitious tech company will have such a person. -- https://twitter.com/paulg/status/1511266839090843651
 
 - [Open Healthcare - ]()
 - [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
