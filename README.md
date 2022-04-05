@@ -19,7 +19,7 @@ P&G: 185 years,
 
 - [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
 - [Open Healthcare - ]()
-- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open banking](https://www.openbanking.org.uk/)  
+- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
 
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
