@@ -103,7 +103,7 @@ Shared Context: Business, Product & Tech
 >  
 > 59 years [Timeline](https://www.walmartmuseum.com/content/walmartmuseum/en_us/timeline.html)
 
-Loose Sequence: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > https://one.walmart.com/, Business + Product + Tech > [Walmart+](https://www.walmart.com/plus), Ads, Health etc. >  Infuse more Data -> New Identity Walmart Global Tech
+My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) > Improving Stores & Grocery Online > https://one.walmart.com/, Business + Product + Tech > [Walmart+](https://www.walmart.com/plus), Ads, Health etc. >  Infuse more Data -> New Identity Walmart Global Tech
 
 > Responding To Pressure From Amazon, Walmart Invests Billions In E-Commerce Revamp
 >
