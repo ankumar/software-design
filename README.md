@@ -119,7 +119,7 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
-> A great begining story here, setting aside even 1 engineer experimentation/tinkering with new tech stuff, eventually resulted in impacting whole unified catalog system for Stores & ecommerce, shows change is possible even in complex situations like Fortune #1 with lot at stake. 
+> A great begining story here, setting aside 1 engineer on experimentation/tinkering with new tech stack (Kafka/Cassandra/Elastic) eventually resulted in a Unified Catalog system for Stores & ecommerce (+Martketplace) shows change is possible even in complex situations like Fortune #1 with lot at stake. 
 >  
 > Storm in Retail Context: Catalog data processing using Kafka, Storm & Microservices https://dev.storm.apache.narkive.com/yrL14eQs/recording-storm-kafka-meetup-on-april-20th-2017
 
