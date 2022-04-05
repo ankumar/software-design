@@ -1,7 +1,5 @@
 ## (co)evolution:
 
-**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
-
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
 IBM: 110 years,
@@ -18,6 +16,9 @@ Nintendo: 133 years,
 Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
+
+
+**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
 
 - [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
 
