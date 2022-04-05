@@ -53,7 +53,7 @@ P&G: 185 years,
 > 
 > -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
-1. **MANUFACTURING / SMART LIGHTING**: [ACUITY BRANDS: 130 years](https://www.acuitybrands.com/) , Lighting/Controls **&** More Things
+1. **MANUFACTURING / LIGHTING**: [ACUITY BRANDS: 130 years](https://www.acuitybrands.com/) , SMART Spaces **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
 
