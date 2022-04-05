@@ -98,6 +98,7 @@ Shared Context: Business, Product & Tech
 > Two decades later, he was the richest person in America.
 > 
 > -- https://twitter.com/JonErlichman/status/1508779843948879876
+![image](https://user-images.githubusercontent.com/658791/161683688-20a32046-ea8b-48fc-9df5-096a95fc36a6.png)
 > 
 > 59 years [Timeline](https://www.walmartmuseum.com/content/walmartmuseum/en_us/timeline.html)
 
