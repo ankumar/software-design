@@ -19,7 +19,7 @@ P&G: 185 years,
 
 [Mapping - 2022](https://github.com/swardley/Research2022)
 
-**CLIMATE, HEALTHCARE**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
+**CLIMATE, HEALTHCARE*, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
 
 - [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
 
