@@ -142,6 +142,9 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 
 > "Wandering is an essential counter-balance to efficiency. You need to employ both. The outsized discoveries – the “non-linear” ones – are highly likely to require wandering." --Letter to Amazon Shareholders
 
+> You have no idea what you don’t know.
+A lot of the people who wrote these applications are gone. So far, your organization has gotten lucky—the apps have been running pretty well, they don’t go down very often. But because they haven’t been touched over the last 10 or 15 years, you have to reverse engineer them to understand how they work. -- https://allma.io/blog/6-key-lessons-kelsey-hightowers-kubernetes-migration-workflow
+
 First a bit back in time **retrospective** and forward **Amplify** building tools or using best tools, a sustainable model with universal core principle of **Going far, Together** with product, community and engineering. A lot of connecting dots from a [following](https://twitter.com/an1kumar/following) on Twitterverse Thank You :pray: ,eternally grateful. 
 
 ⤵️ **hindsight/retrospective:** "open", web, "free", smartphones, cloud, ...
