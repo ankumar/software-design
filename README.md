@@ -71,7 +71,7 @@ Shared Context: Business, Product & Tech
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
   - [Atrius - Buildings, Inside is where most people are most of the time](https://atrius.com/) 
-  - CRM: https://www.constructconnect.com/
+  - Funnel: https://www.constructconnect.com/
   
 - Design System 
 
