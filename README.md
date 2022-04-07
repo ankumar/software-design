@@ -39,6 +39,7 @@ Schemas:
 
   - https://blog.dshr.org/2022/02/ee380-talk.html  
   - https://www.usenix.org/publications/loginonline/web3-fraud
+  - https://tbd.website/media#twitter-spaces-the-blockchain-discussion
 
 ## (co)evolution:
 
