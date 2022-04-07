@@ -41,64 +41,6 @@ Schemas:
   - https://www.usenix.org/publications/loginonline/web3-fraud
   - https://tbd.website/media#twitter-spaces-the-blockchain-discussion
 
-## (co)evolution:
-
-Some companies that are more than 100 years old: Boeing: 106 years,
-Safeway: 107 years,
-IBM: 110 years,
-UPS: 115 years,
-Honeywell, Kellogg’s: 116 years,
-Harley-Davidson: 119 years,
-Ford: 119 years,
-JCPenney: 119 years,
-Target: 120 years,
-Walgreens: 121 years,
-Hershey’s: 128 years,
-Coca-Cola: 130 years,
-Nintendo: 133 years,
-Nokia: 157 years,
-Macy’s: 164 years,
-P&G: 185 years,
-
-* [Wardley Mapping - 2022](https://github.com/swardley/Research2022)
-
-**CLIMATE, HEALTHCARE, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
-
-- [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
-
-> It's impressive that [Stripe](https://stripe.com/docs/climate/faqs) has a Head of Climate ([@nanransohoff](https://twitter.com/nanransohoff)). It signals both that they know what matters, and that their ambitions are big enough that they need to care about big problems. Eventually every ambitious tech company will have such a person. -- https://twitter.com/paulg/status/1511266839090843651
->
-> - [Apple 2030](https://www.apple.com/environment/)
-
-- [Open Healthcare - ]()
-- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
-
-**APPLICATIONS** (+ Modernization ) & DATABASES 
-
-- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, .NET/JVM/... 
-
-> The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
-
-**DATA**, ANALYTICS, AI & MACHINE LEARNING, 
-
-**SECURITY,** CLOUD PLATFORMS & INFRASTRUCTURE
-
-**DEMOCRACY**, GOVERNMENT,  
-
-- US GOVERNMENT, For Developers: https://www.usa.gov/developer
-
-> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
-
-- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
- 
--- Credit for above categories [Google Cloud](https://cloud.google.com/)
-
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
-> - Accepting slow migrations
-> - Accepting legacy subsystems
-> 
-> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-
 1. **MANUFACTURING / LIGHTING**: [ACUITY BRANDS: 130 years](https://www.acuitybrands.com/) , SMART Spaces **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
@@ -175,6 +117,64 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
 ---
+
+## (co)evolution:
+
+Some companies that are more than 100 years old: Boeing: 106 years,
+Safeway: 107 years,
+IBM: 110 years,
+UPS: 115 years,
+Honeywell, Kellogg’s: 116 years,
+Harley-Davidson: 119 years,
+Ford: 119 years,
+JCPenney: 119 years,
+Target: 120 years,
+Walgreens: 121 years,
+Hershey’s: 128 years,
+Coca-Cola: 130 years,
+Nintendo: 133 years,
+Nokia: 157 years,
+Macy’s: 164 years,
+P&G: 185 years,
+
+* [Wardley Mapping - 2022](https://github.com/swardley/Research2022)
+
+**CLIMATE, HEALTHCARE, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
+
+- [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
+
+> It's impressive that [Stripe](https://stripe.com/docs/climate/faqs) has a Head of Climate ([@nanransohoff](https://twitter.com/nanransohoff)). It signals both that they know what matters, and that their ambitions are big enough that they need to care about big problems. Eventually every ambitious tech company will have such a person. -- https://twitter.com/paulg/status/1511266839090843651
+>
+> - [Apple 2030](https://www.apple.com/environment/)
+
+- [Open Healthcare - ]()
+- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
+
+**APPLICATIONS** (+ Modernization ) & DATABASES 
+
+- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, .NET/JVM/... 
+
+> The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
+
+**DATA**, ANALYTICS, AI & MACHINE LEARNING, 
+
+**SECURITY,** CLOUD PLATFORMS & INFRASTRUCTURE
+
+**DEMOCRACY**, GOVERNMENT,  
+
+- US GOVERNMENT, For Developers: https://www.usa.gov/developer
+
+> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
+
+- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
+ 
+-- Credit for above categories [Google Cloud](https://cloud.google.com/)
+
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+> - Accepting slow migrations
+> - Accepting legacy subsystems
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
 ## Knowledge base:
 
