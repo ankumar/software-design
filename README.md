@@ -362,6 +362,7 @@ Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, De
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
+  - [Architecture for Flow w/ Wardley Mapping, Domain-Driven Design, and Team Topologies](https://www.slideshare.net/SusanneKaiser3/architecture-for-flow-w-wardley-mapping-domaindriven-design-and-team-topologies)
 
 Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
