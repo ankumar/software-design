@@ -118,7 +118,7 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 ---
 
-## (co)evolution:
+## Knowledge base: (co)evolution:
 
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
@@ -175,8 +175,6 @@ P&G: 185 years,
 > - Accepting legacy subsystems
 > 
 > -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-
-## Knowledge base:
 
 <img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
 
