@@ -136,6 +136,44 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 The physicist Hermann von Helmholtz on being successful at problem-solving
 
+### Startup (ecosystem):
+
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
+
+Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
+1. Apps, State Machine & Data 
+
+> [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
+> 
+> Auto generated visuals to collaborate with stakeholders, ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
+>
+> Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
+
+  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
+  - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
+  - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
+
+  - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
+
+Schemas:
+  - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
+2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
+
+[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
+
+  - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
+  - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+
+> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
+> 
+> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
+
+  - https://blog.dshr.org/2022/02/ee380-talk.html  
+  - https://www.usenix.org/publications/loginonline/web3-fraud
+
 ### Experimentation: 
 
 <img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
@@ -332,42 +370,6 @@ Development & Storytelling:
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
 
-### Startup (ecosystem):
 
-![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-
-Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
-
-1. Apps, State Machine & Data 
-
-> [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
-> 
-> Auto generated visuals to collaborate with stakeholders, ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
->
-> Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
-
-  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
-  - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
-  - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
-
-  - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
-
-Schemas:
-  - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
-  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
-
-2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
-
-[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-
-  - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
-  - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
-
-> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
-> 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-  - https://blog.dshr.org/2022/02/ee380-talk.html  
-  - https://www.usenix.org/publications/loginonline/web3-fraud
 
 
