@@ -69,6 +69,7 @@ P&G: 185 years,
 
 - [Open Healthcare - ]()
 - [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
+- [Apple 2030](https://www.apple.com/environment/)
 
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
