@@ -368,6 +368,7 @@ Development & Storytelling:
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
+  - https://github.com/salaboy/opensource
 
 
 
