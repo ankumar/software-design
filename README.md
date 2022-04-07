@@ -59,7 +59,7 @@ Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
 
-* [Mapping - 2022](https://github.com/swardley/Research2022)
+* [Wardley Mapping - 2022](https://github.com/swardley/Research2022)
 
 **CLIMATE, HEALTHCARE, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
 
