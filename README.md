@@ -118,7 +118,7 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 ---
 
-## Knowledge base / (co)evolution:
+## (co)evolution:
 
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
