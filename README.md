@@ -16,11 +16,11 @@ Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.
 >
 > Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
 
-  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
-  - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
+  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
+  - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
 
 Schemas:
   - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
