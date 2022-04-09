@@ -13,6 +13,8 @@
 
 - [Project Hamilton](https://www.bostonfed.org/publications/one-time-pubs/project-hamilton-phase-1-executive-summary.aspx)
 
+- [The ECASH Act](https://ecashact.us/)
+
 ## Digital Currency
 
 - [introducing tbDEX](https://tbd54566975.ghost.io/introducing-tbdex/)
