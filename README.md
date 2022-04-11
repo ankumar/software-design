@@ -140,6 +140,7 @@ Macy’s: 164 years,
 P&G: 185 years,
 
 * [Wardley Mapping - 2022](https://github.com/swardley/Research2022)
+* [Best vs. Rest Explained](https://svpg.com/best-vs-rest-explained/)
 
 **CLIMATE, HEALTHCARE, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
 
