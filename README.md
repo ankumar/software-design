@@ -13,16 +13,16 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
-
-  - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
-
-  - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
+>
   - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
+  
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
 
-Schemas:
-  - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
-  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+  - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
+    - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+    - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
+  - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
 2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
 
