@@ -13,10 +13,10 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
->
-  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
-  
+>  
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
+
+  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
 
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
     - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
