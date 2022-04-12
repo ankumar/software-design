@@ -12,9 +12,7 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
-> Auto generated visuals to collaborate with stakeholders, ML development, track progress, automated tracking model, code, data lineage and versions, detect data drifts, and feature importance, consolidates model assets. 
->
-> Deploy model to production directly from notebook (whichever you use), works with many workflow schedulers. - https://app.chaya.ai/
+> Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
 
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
 
