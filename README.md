@@ -6,7 +6,7 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-Searching for **Next**: [Mike Bostock - Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 
 1. Apps, State Machine & Data 
 
