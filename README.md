@@ -54,7 +54,7 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 
 Shared Context: Business, Product & Tech
 
-- Customer funnel: https://www.constructconnect.com/
+- Construction projects/Customer Funnel: https://www.constructconnect.com/
 
 - Products
   - ["Agile" - Commerce Platform (Behind SSO)](https://agile.acuitybrandslighting.net/) -> Projects, Quotes, Orders, Claims, Returns, Distributor, Analytics, 
