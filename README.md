@@ -8,7 +8,7 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 
 Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 
-1. Apps, State Machine & Data 
+1. Products: Apps, State Machine & Data 
 
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
@@ -24,7 +24,7 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
-2. \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\] Infrastructure & Sustainable Deployment model: 
+2. Infrastructure & Sustainable Deployment model: \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
