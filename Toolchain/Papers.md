@@ -18,5 +18,8 @@
 ## Digital Currency
 
 - [introducing tbDEX](https://tbd54566975.ghost.io/introducing-tbdex/)
-  - [tbDEX: A Liquidity Protocol](https://tbdex.io/whitepaper.pdf)
+- [tbDEX: A Liquidity Protocol](https://tbdex.io/whitepaper.pdf)
+- https://blog.dshr.org/2022/02/ee380-talk.html  
+- https://www.usenix.org/publications/loginonline/web3-fraud
+- https://tbd.website/media#twitter-spaces-the-blockchain-discussion
 
