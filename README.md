@@ -2,7 +2,7 @@
 
 The physicist Hermann von Helmholtz on being successful at problem-solving
 
-## Startup (ecosystem):
+## Startup (ecosystems to support):
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
