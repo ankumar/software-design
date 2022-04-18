@@ -31,14 +31,6 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
-> Open design welcomes the free **exchange of ideas, knowledge, processes, and tools**. It empowers by lifting barriers to innovation. It opens the door to scaling design projects by distributing adaptable resources.
-> 
-> [Open design](https://bitcoin.design/guide/designing-products/open-design/)
-
-  - https://blog.dshr.org/2022/02/ee380-talk.html  
-  - https://www.usenix.org/publications/loginonline/web3-fraud
-  - https://tbd.website/media#twitter-spaces-the-blockchain-discussion
-
 1. **MANUFACTURING / LIGHTING**: [ACUITY BRANDS, 130 years](https://www.acuitybrands.com/), SMART Spaces **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
