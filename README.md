@@ -112,12 +112,6 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 ---
 
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
-> - Accepting slow migrations
-> - Accepting legacy subsystems
-> 
-> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
-
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
 IBM: 110 years,
@@ -134,6 +128,12 @@ Nintendo: 133 years,
 Nokia: 157 years,
 Macy’s: 164 years,
 P&G: 185 years,
+
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+> - Accepting slow migrations
+> - Accepting legacy subsystems
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
 * [Wardley Mapping - 2022](https://github.com/swardley/Research2022)
 * [Best vs. Rest Explained](https://svpg.com/best-vs-rest-explained/)
