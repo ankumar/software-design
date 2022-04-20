@@ -112,6 +112,12 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 
 ---
 
+[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
+> - Accepting slow migrations
+> - Accepting legacy subsystems
+> 
+> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
+
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
 IBM: 110 years,
@@ -162,12 +168,6 @@ P&G: 185 years,
 - UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
  
 -- Credit for above categories [Google Cloud](https://cloud.google.com/)
-
-[Greenfield and/or Brownfield Software keeps Evolving and is Never Done](https://www.youtube.com/watch?v=4-0fiuKdxmc), (co)evolution are always fascinating from learning perspective, like all over night successes, 10+ years and 100s of man years of work! 
-> - Accepting slow migrations
-> - Accepting legacy subsystems
-> 
-> -- [Building for the 99% Developers](https://future.a16z.com/software-development-building-for-99-developers/)
 
 <img width="817" alt="Improvement" src="https://user-images.githubusercontent.com/658791/158032977-626569c4-5536-4671-9cd5-9b90feb8a30d.png">
 
