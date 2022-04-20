@@ -76,7 +76,7 @@ Shared Context: Business, Product & Tech
  
 [Home Page](https://backstage.io/blog/2022/01/25/backstage-homepage-templates) -> **Search / Explore:** Decision Records, Radar, Registry, ... **Create Components:** APIs, Docs, Tests, ... **Manage:** Deployments, Insights, ...
 
-[![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Acuity%20Brands%20Dev%20Portal.png)](https://backstage.io/demos)
+[![Backstage Community](https://github.com/ankumar/architecture/blob/main/images/Spotlight%20Developer%20Portal.png)](https://backstage.io/demos)
 
 2. **RETAIL / E-commerce**: [WALMART](https://one.walmart.com/content/usone/en_us/company.html) , Stores/Grocery **&** E-commerce
 
