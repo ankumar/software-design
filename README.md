@@ -360,13 +360,13 @@ Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, De
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
   - [Architecture for Flow w/ Wardley Mapping, Domain-Driven Design, and Team Topologies](https://www.slideshare.net/SusanneKaiser3/architecture-for-flow-w-wardley-mapping-domaindriven-design-and-team-topologies)
+  - [Best vs. Rest Explained](https://svpg.com/best-vs-rest-explained/)
 
 Development & Storytelling:
   - [Stories > Code](https://apievangelist.com/2022/01/23/stories-greater-than-code/)
   - [documentaries exploring tech culture, influential technologies and untold developer stories from around the world. Check out stories around open source, careers and all the other cool stuff developers are doing over at cult, our media platform](https://www.youtube.com/c/Honeypotio/videos)
   - [Developer Relations](https://www.swyx.io/measuring-devrel/) 
   - [Filling the Stack: Five Things That Helped Me Transition From Frontend to Backend Development](https://medium.com/headspace-engineering/filling-the-stack-five-things-that-helped-me-transition-from-frontend-to-backend-development-f9524b9548be)
-  - [Best vs. Rest Explained](https://svpg.com/best-vs-rest-explained/)
   - https://github.com/salaboy/opensource
 
 
