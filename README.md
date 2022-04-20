@@ -31,6 +31,8 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
+## (co)evolution:
+
 1. **MANUFACTURING / LIGHTING**: [ACUITY BRANDS - 130 years](https://www.acuitybrands.com/), SMART Spaces **&** More Things
 
 ⬇️: A Thread inside a company **experimenting, learning & changing**, an instance of organic influence from public domain & open source. The **cognitive load distributed & context specific startegies** is how we should think about acceleration of 10+ years and 100s of man years of work involved driving changes across organizations.
@@ -109,8 +111,6 @@ My personal journey: [Walmart Labs](https://en.wikipedia.org/wiki/Walmart_Labs) 
 > The Walmart team has been running #cassandra at scale for a long time and are real pros at operations. Great article to learn from. https://twitter.com/PatrickMcFadin/status/1490373516394655745
 
 ---
-
-## (co)evolution:
 
 Some companies that are more than 100 years old: Boeing: 106 years,
 Safeway: 107 years,
