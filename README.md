@@ -30,6 +30,7 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+  - [Software development lifecycle](https://devzero-inc.medium.com/)
 
 ## (co) evolution:
 
