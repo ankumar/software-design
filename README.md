@@ -10,6 +10,14 @@ Searching for **Next**: [Design is a Search Problem](https://www.youtube.com/wat
 
 1. **Products:** Apps, State Machine & Data 
 
+> **The ideal state of visual application logic.**
+> * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
+>
+> * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
+>
+> Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
+> https://stately.ai/
+
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
@@ -293,14 +301,6 @@ It's **overwhelming** work going on in open source world, more agency tools like
 Press **"."** while on any GitHub repo to open it in a VS Code editor in the browser. Developer Tools Notebook, Studio & IDE  **(co)evolving** like ⬆️[VS Code 10 years journey](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq), JetBrains with [Space](https://www.jetbrains.com/remote-development/space-dev-environments/) / [Gateway](https://www.jetbrains.com/remote-development/gateway/) / [Fleet](https://www.jetbrains.com/fleet/) to reimagined [Repl.it is not an IDE](https://amasad.me/replit_ide), [Retool - The future of internal tools](https://retool.com/blog/nacho-iacovino-on-the-future-of-internal-tools/), [collaborative code editor](https://zed.dev/), [AI pair programmer](https://copilot.github.com/), [GitHub Next investigates the future of software development](https://next.github.com/), [a new kind of programming environment](https://alpha.trycarbide.com/), [A story of tools and the future of work](https://www.notion.so/about) and increasing sprawl of developer experience [Toolchain](https://github.com/ankumar/Open-software-design/blob/main/Toolchain). 
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.png)
-
-> **The ideal state of visual application logic.**
-> * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
->
-> * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
->
-> Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
-> https://stately.ai/
 
 > Baker, recipes allows product owners, architects and developers to talk the same language -- https://github.com/ing-bank/baker
 
