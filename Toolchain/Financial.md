@@ -5,6 +5,7 @@
 - https://block.xyz/ 
 - https://stripe.com/
 - https://plaid.com/ -> [Infrastructure Bank](https://column.com/blog/announcing-column/)
+- https://www.unit.co/
 
 # Crypto
 
