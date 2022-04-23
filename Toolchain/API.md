@@ -1,3 +1,5 @@
+[APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
+
 ## Infrastructure
 
 **Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
