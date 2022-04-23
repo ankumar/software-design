@@ -5,3 +5,8 @@
   - [TBD - building an open, decentralized financial system for all](https://twitter.com/tbd54566975)   
 - https://stripe.com/
 - https://plaid.com/ -> [Infrastructure Bank](https://column.com/blog/announcing-column/)
+
+# Crypto
+
+- https://stripe.com/blog/expanding-global-payouts-with-crypto 
+- https://twitter.com/skominers/status/1517204062713876481
