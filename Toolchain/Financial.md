@@ -5,7 +5,7 @@
  - Insurance: 
  - Boarding Pass:
  - Health: Vaccination
- - Charing: 
+ - EV Charging: 
 
 # Infrastructure
 
