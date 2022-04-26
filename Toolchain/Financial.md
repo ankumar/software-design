@@ -1,3 +1,12 @@
+# Wallet:
+ 
+ - Cards: Debit/CC/Gift/Fuel/Transit, ...  
+ - ID:
+ - Insurance: 
+ - Boarding Pass:
+ - Health: Vaccination
+ - Charing: 
+
 # Infrastructure
 
 - https://openbanking.wso2.com/
@@ -6,14 +15,6 @@
 - https://stripe.com/
 - https://plaid.com/ -> [Infrastructure Bank](https://column.com/blog/announcing-column/)
 - https://www.unit.co/
-
-- Wallet:
-  - Cards: Debit/CC/Gift/Fuel/Transit, ...  
-  - ID:
-  - Insurance: 
-  - Boarding Pass:
-  - Health: Vaccination
-  - Charing: 
 
 # Crypto
 
