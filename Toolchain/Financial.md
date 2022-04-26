@@ -9,6 +9,7 @@
 
 # Standards
 
+> ISO20022, as the global standard for payment messaging, provides, for the first time, a shared language to be used for transactions made by anyone, anywhere.
 - https://www.iso20022.org/
 
 # Infrastructure
