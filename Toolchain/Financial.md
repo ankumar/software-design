@@ -7,6 +7,10 @@
  - Health: Vaccination
  - EV Charging: 
 
+# Standards
+
+- https://www.iso20022.org/
+
 # Infrastructure
 
 - https://openbanking.wso2.com/
