@@ -1,6 +1,6 @@
 # Digital Wallets:
  
- - Cards: Debit/CC/Gift/Fuel/Transit, ...  
+ - Cards: Debit/Credit/Gift/Fuel/Transit, ...  
  - ID: [REAL ID](https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/real-id/what-is-real-id/)
  - Insurance: 
  - Boarding Pass:
