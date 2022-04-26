@@ -7,6 +7,13 @@
 - https://plaid.com/ -> [Infrastructure Bank](https://column.com/blog/announcing-column/)
 - https://www.unit.co/
 
+- Wallet:
+  - Cards: Debit/CC/Gift/Transit, ...  
+  - ID:
+  - Insurance: 
+  - Boarding Pass:
+  - Health: Vaccination
+
 # Crypto
 
 - [TBD - building an open, decentralized financial system for all](https://twitter.com/tbd54566975)   
