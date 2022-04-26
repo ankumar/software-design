@@ -1,4 +1,4 @@
-# Wallet:
+# Digital Wallets:
  
  - Cards: Debit/CC/Gift/Fuel/Transit, ...  
  - ID:
