@@ -2,7 +2,36 @@
 
 The physicist Hermann von Helmholtz on being successful at problem-solving
 
-## Startup (ecosystems to support):
+**CLIMATE, HEALTHCARE, ENERGY**, MANUFACTURING, FINANCE, RETAIL, ENTERTAINMENT, SPACE, 
+
+- [Climate - IPCC report ](https://www.ipcc.ch/report/sixth-assessment-report-working-group-3/)
+
+> It's impressive that [Stripe](https://stripe.com/docs/climate/faqs) has a Head of Climate ([@nanransohoff](https://twitter.com/nanransohoff)). It signals both that they know what matters, and that their ambitions are big enough that they need to care about big problems. Eventually every ambitious tech company will have such a person. -- https://twitter.com/paulg/status/1511266839090843651
+>
+> - [Apple 2030](https://www.apple.com/environment/)
+
+- [Open Healthcare - ]()
+- [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
+
+**APPLICATIONS** (+ Modernization ) & DATABASES 
+
+- [LAMP, MEAN & Jamstack](https://planetscale.com/blog/misconceptions-about-databases-in-the-jamstack), [MERN](https://www.mongodb.com/mern-stack), Ruby on Rails, Django, .NET/JVM/... 
+
+> The killer apps of the PHP world were all open-source content management systems (CMSes). Drupal. Wordpress. Joomla. MediaWiki, which still powers Wikipedia today. You had to hand it to PHP. It was good at getting content in front of people. -- [The unreasonable effectiveness of data-oriented programming](http://literateprogrammer.blogspot.com/2022/03/the-unreasonable-effectiveness-of-data.html)
+
+**DATA**, ANALYTICS, AI & MACHINE LEARNING, 
+
+**SECURITY,** CLOUD PLATFORMS & INFRASTRUCTURE
+
+**DEMOCRACY**, GOVERNMENT,  
+
+- US GOVERNMENT, For Developers: https://www.usa.gov/developer
+
+> [Ad Hoc is an experiment in combining outside experts and cutting edge technology with the amazing civil servants in government to create services that are not just functional but exceptional](https://adhoc.team/about/) 
+
+- UK GOVERNMENT, Design Principles: https://www.gov.uk/guidance/government-design-principles, GitHub: https://github.com/alphagov 
+ 
+-- Credit for above categories [Google Cloud](https://cloud.google.com/)
 
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
