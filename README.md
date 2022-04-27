@@ -10,8 +10,8 @@ The physicist Hermann von Helmholtz on being successful at problem-solving
 >
 > - [Apple 2030](https://www.apple.com/environment/)
 
-- [Open Healthcare - ]()
 - [Open Banking - Wikipedia](https://en.wikipedia.org/wiki/Open_banking) / [Open Banking](https://www.openbanking.org.uk/)  
+- Open Healthcare 
 
 **APPLICATIONS** (+ Modernization ) & DATABASES 
 
