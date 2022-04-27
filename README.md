@@ -357,6 +357,7 @@ Press **"."** while on any GitHub repo to open it in a VS Code editor in the bro
 > [Open design](https://bitcoin.design/guide/designing-products/open-design/)
   
 Design, Architecture, [Frontend](https://risingstars.js.org/2021/en)/Backend, DevOps/SRE, [Quality](https://github.com/abhivaikar/howtheytest), ...
+  - [In defense of simple architectures](https://danluu.com/simple-architectures/)
   - [Technical Leadership Masterclass](https://www.ruthmalan.com/)
   - [AWS re:Invent 2021 - The architect elevator: Connecting IT and the boardroom](https://www.youtube.com/watch?v=nNbnXTl2VFQ) 
   - [“Crossovers”: people who used to work as traditional engineers and now work as software developers](https://www.hillelwayne.com/tags/crossover-project/)
