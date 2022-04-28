@@ -47,8 +47,8 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
 nouns (database tables) &
 verbs (the API calls) 
 and getting a functioning API in return.
-
-It eliminates close to 100% of the grunt work involved in getting an API working
+> 
+> It eliminates close to 100% of the grunt work involved in getting an API working
 The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 
