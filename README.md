@@ -53,7 +53,7 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
 The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 
-  - https://github.com/tufan-io/noun-and-verb-docs/tree/main/docs/ 
+  - https://tufan-io.github.io/noun-and-verb-docs/
     - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
     - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
