@@ -39,14 +39,6 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
 
 1. **Products:** Apps, State Machine & Data 
 
-> **The ideal state of visual application logic.**
-> * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
->
-> * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
->
-> Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
-> https://stately.ai/
-
   - [The App Framework for Startups](https://github.com/redwoodjs/redwood)
 
   - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
@@ -54,6 +46,14 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
     - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
     - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
+> **The ideal state of visual application logic.**
+> * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
+>
+> * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
+>
+> Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
+> https://stately.ai/
 
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
