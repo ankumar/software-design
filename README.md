@@ -43,6 +43,13 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
 
   - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
 
+> Noun & Verb enables describing a system as
+a set of nouns (database tables) and 
+a set of verbs (the API calls) 
+getting a functioning API in return. It eliminates close to 100% of the grunt work involved.
+The product delivers a code-base that can be both created and managed over time, 
+with the same best-in-class developer experience. 
+
   - https://github.com/tufan-io/noun-and-verb-src/ / Demo Apps: https://github.com/acuity-sr/nv-shopping-cart 
     - [Real world examples - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
     - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
