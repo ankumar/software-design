@@ -44,9 +44,10 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
   - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
 
 > Noun & Verb enables describing a system as a set of
-nouns (database tables) &
-verbs (the API calls) 
-and getting a functioning API in return.
+* nouns (database tables) &
+* verbs (the API calls) 
+>
+> and getting a functioning API in return.
 > 
 > It eliminates close to 100% of the grunt work involved in getting an API working
 The product delivers a code-base that can be both created
