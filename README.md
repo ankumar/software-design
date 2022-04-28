@@ -57,11 +57,6 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
 
   - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
 
-> [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
-> 
-> Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
->  
-
 2. **Infrastructure & Sustainable Deployment model:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
@@ -69,6 +64,11 @@ Startup (ecosystems to support), Searching for **Next**: [Design is a Search Pro
   - [Software development lifecycle](https://www.devze.ro/)
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+
+> [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
+> 
+> Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
+>  
 
 
 
