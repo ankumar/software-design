@@ -1,6 +1,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-Startup (ecosystems to support)
+Startup (ecosystems to support) for boring & novel
 
 1. **Products:** Apps, State Machine & Data 
 
