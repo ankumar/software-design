@@ -47,5 +47,6 @@ and managed over time with a best-in-class developer experience.
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
 >  
 
+  - https://open-metadata.org/
 
 
