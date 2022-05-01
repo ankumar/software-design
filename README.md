@@ -40,14 +40,17 @@ and managed over time with a best-in-class developer experience.
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
   - [Software development lifecycle](https://www.devze.ro/)
+  
   - [Cloud sandbox is an approach of creating a Sandbox environment in the cloud](https://notes.ceilfors.com/Cloud_sandbox.html)
+  
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+
+  - https://open-metadata.org/
 
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
 >  
 
-  - https://open-metadata.org/
-
+  
 
