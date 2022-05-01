@@ -45,8 +45,8 @@ and managed over time with a best-in-class developer experience.
   
   - [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
-  - [Discover, Collaborate and get your Data Right](https://open-metadata.org/)
-
+  - [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub, Mataphor Data, Acryl Data, Stemma, Alvin, ...
+  
 > [The Future Demands Every Company to be an AI Company](https://medium.com/@shanksphere/the-future-demands-every-company-to-be-an-ai-company-a352d3b83b0d)
 > 
 > Accessible and Explainable AI for Modern Data Teams - https://app.chaya.ai/
