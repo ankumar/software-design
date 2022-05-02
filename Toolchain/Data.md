@@ -117,6 +117,7 @@ Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
   * https://observablehq.com/
 
 * Notebooks: Jupyter was awarded the 2017 ACM Software Systems Award — a prestigious honor it shares with Java, Unix, and the Web.
+  * [SQL Notebooks: Combining the power of Jupyter and SQL editors for data analytics](https://engineering.fb.com/2022/04/26/developer-tools/sql-notebooks/)
   * [JupyterLite is the Jupyter notebook stack using Python-compiled-to-WebAssembly, running directly in your browser, no server required](https://jupyter.org/try)
   * https://netflixtechblog.com/notebook-innovation-591ee3221233
   * https://code.visualstudio.com/blogs/2021/08/05/notebooks / https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
