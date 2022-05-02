@@ -32,9 +32,6 @@ and managed over time with a best-in-class developer experience.
 > Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
-  - https://www.inkandswitch.com/
-    - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
-
 2. **Infrastructure & Sustainable Deployment model:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
