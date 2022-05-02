@@ -36,8 +36,9 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 
 * Catalogs:
   * [Awesome Data Discovery and Observability](https://github.com/opendatadiscovery/awesome-data-catalogs)
+    *   - [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub (Acryl Data), Mataphor Data, Stemma, Alvin, ...
   * [Smart Data Models](https://smartdatamodels.org/)
-
+  
 * Private data:
 > Organizations have vast amounts of confidential data locked down due to privacy concerns. Opaque Systems makes confidential data useful by enabling secure analytics and machine learning on encrypted data that comes from one or more sources.
 With Opaque Systems, organizations can analyze encrypted data in the cloud using popular tools like Apache Spark, while ensuring that their data is never exposed unencrypted to the cloud provider. -- https://opaque.co/
