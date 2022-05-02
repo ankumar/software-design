@@ -2,8 +2,12 @@
 
 These are big bets in public communities considering slow deliberate process for seeking acceleration.
 
+* [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
 * [Open Source Alternative To](https://www.producthunt.com/posts/open-source-alternative-to)
   * [Twilio Alternative](https://fonoster.com/) 
+
+* [The App Framework for Startups](https://github.com/redwoodjs/redwood)
 
 * [Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
