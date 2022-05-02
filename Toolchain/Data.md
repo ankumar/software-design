@@ -36,7 +36,7 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 
 * Catalogs:
   * [Awesome Data Discovery and Observability](https://github.com/opendatadiscovery/awesome-data-catalogs)
-    *   - [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub (Acryl Data), Mataphor Data, Stemma, Alvin, ...
+    * [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub (Acryl Data), Mataphor Data, Stemma, Alvin, ...
   * [Smart Data Models](https://smartdatamodels.org/)
   
 * Private data:
