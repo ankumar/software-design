@@ -30,8 +30,6 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 
 --
 
-- [Modern Data Stack](https://www.moderndatastack.xyz/companies)
-
 * Database / Warehouse:
   * https://www.firebolt.io/resources/cloud-data-warehouse-comparison
 
@@ -82,7 +80,7 @@ https://incidentdatabase.ai/
 
 ---
 
-Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack
+Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack / https://www.moderndatastack.xyz/companies
 
 * https://rudderstack.com/blog/the-state-of-data-engineering-in-2022/
 * MAD (Machine Learning, AI & Data) Crowded Landscape, 2021: https://mattturck.com/2021top10/ 
