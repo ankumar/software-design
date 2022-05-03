@@ -1,9 +1,3 @@
-### Foundation Models
-
-> But the most important trend I want to comment on is that the whole setting of training a neural network from scratch on some target task (like digit recognition) is quickly becoming outdated due to finetuning, especially with the emergence of foundation models like GPT. These foundation models are trained by only a few institutions with substantial computing resources, and most applications are achieved via lightweight finetuning of part of the network, prompt engineering, or an optional step of data or model distillation into smaller, special-purpose inference networks. I think we should expect this trend to be very much alive, and indeed, intensify. In its most extreme extrapolation, you will not want to train any neural networks at all. In 2055, you will ask a 10,000,000X-sized neural net megabrain to perform some task by speaking (or thinking) to it in English. And if you ask nicely enough, it will oblige. Yes you could train a neural net too… but why would you? -- [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/) 
-
-- https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/
-
 ### Enterprise & Organizing
 
 > "Cloudy with High Chance of DBMS: A 10-year Prediction for Enterprise-Grade ML" -- http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf
@@ -27,6 +21,12 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 
 - Open (Public?) Datasets Hub:
   - https://github.com/quiltdata/quilt 
+
+### Foundation Models
+
+> But the most important trend I want to comment on is that the whole setting of training a neural network from scratch on some target task (like digit recognition) is quickly becoming outdated due to finetuning, especially with the emergence of foundation models like GPT. These foundation models are trained by only a few institutions with substantial computing resources, and most applications are achieved via lightweight finetuning of part of the network, prompt engineering, or an optional step of data or model distillation into smaller, special-purpose inference networks. I think we should expect this trend to be very much alive, and indeed, intensify. In its most extreme extrapolation, you will not want to train any neural networks at all. In 2055, you will ask a 10,000,000X-sized neural net megabrain to perform some task by speaking (or thinking) to it in English. And if you ask nicely enough, it will oblige. Yes you could train a neural net too… but why would you? -- [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/) 
+
+- https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/
 
 --
 
