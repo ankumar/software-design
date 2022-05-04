@@ -12,7 +12,7 @@
 - Docs - https://docusaurus.io/
 - Diagrams & Visualizations using text & code - https://mermaid-js.github.io/mermaid/#/
   - https://github.com/EddieHubCommunity/LinkFree/discussions/1087
-
+- [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
 - http://devze.ro/
 
 
@@ -29,4 +29,7 @@
 - https://thenewstack.io/aws-dev-tools-head-ken-exner-one-cloud-api-to-rule-them-all/
 - https://ing-bank.github.io/baker/sections/feature-comparison/
 - https://github.blog/2021-12-09-introducing-stack-graphs/
+- https://www.inkandswitch.com/
+    - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
+
 
