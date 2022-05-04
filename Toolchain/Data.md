@@ -36,21 +36,6 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
 - Open (Public?) Datasets Hub:
   - https://github.com/quiltdata/quilt 
 
---
-
-* Database / Warehouse:
-  * https://www.firebolt.io/resources/cloud-data-warehouse-comparison
-
-* Wrangling:
-  * https://www.getdbt.com/
-
-* Catalogs:
-  * [Awesome Data Discovery and Observability](https://github.com/opendatadiscovery/awesome-data-catalogs)
-    * [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub (Acryl Data), Mataphor Data, Stemma, Alvin, ...
-  * [Smart Data Models](https://smartdatamodels.org/)
-  
---
-
 OpenAI:
 * [Applications](https://beta.openai.com/examples)
 * [Can Code](https://spectrum.ieee.org/openai-wont-replace-coders)
@@ -83,6 +68,17 @@ https://incidentdatabase.ai/
 ### Data Platform
 
 Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack / https://www.moderndatastack.xyz/companies
+
+* Database / Warehouse:
+  * https://www.firebolt.io/resources/cloud-data-warehouse-comparison
+
+* Wrangling:
+  * https://www.getdbt.com/
+
+* Catalogs:
+  * [Awesome Data Discovery and Observability](https://github.com/opendatadiscovery/awesome-data-catalogs)
+    * [Discover, Collaborate and get your Data Right](https://open-metadata.org/) / Select Star, DataHub (Acryl Data), Mataphor Data, Stemma, Alvin, ...
+  * [Smart Data Models](https://smartdatamodels.org/)
 
 * https://rudderstack.com/blog/the-state-of-data-engineering-in-2022/
 * MAD (Machine Learning, AI & Data) Crowded Landscape, 2021: https://mattturck.com/2021top10/ 
