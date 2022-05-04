@@ -19,7 +19,7 @@
 
 - https://www.thebulwark.com/how-ai-is-being-transformed-by-foundation-models/
 
-### Ageny
+### Agency
 
 Visualization of Data Science workflow https://docs.metaflow.org/introduction/why-metaflow
 
