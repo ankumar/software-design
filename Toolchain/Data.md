@@ -80,7 +80,7 @@ CMU:
 
 https://incidentdatabase.ai/
 
----
+### Data Platform
 
 Modern Data Stack - https://sisudata.com/blog/modern-analytics-stack / https://www.moderndatastack.xyz/companies
 
