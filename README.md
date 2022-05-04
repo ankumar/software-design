@@ -4,11 +4,6 @@ Startup (ecosystems to support) from novel >>> boring
 
 1. **Products:** Apps, State Machine & Data 
 
-  - https://www.inkandswitch.com/
-    - [We think that a lot of what makes app development hard is managing state: reacting and propagating changes as the user takes actions.](https://riffle.systems/essays/prelude/)
-
-  - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
-
 > Noun & Verb enables describing a system as a set of
 > * nouns (database tables) &
 > * verbs (the API calls) 
