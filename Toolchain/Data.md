@@ -36,6 +36,7 @@ Visualization of Data Science workflow https://docs.metaflow.org/introduction/wh
   - https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
 
 - Open (Public?) Datasets Hub:
+  - https://aws.amazon.com/opendata/
   - https://github.com/quiltdata/quilt 
 
 OpenAI:
