@@ -30,15 +30,15 @@ and managed over time with a best-in-class developer experience.
 2. **Infrastructure & Sustainable Deployment model:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
-
-https://platformengineering.org/
   
 On-demand developer environments:
   - Gitpod, [Codespaces](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+  
   - [DevZero - developer environments](https://www.devze.ro/)
   
   - [Zero - Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
 
+  - https://platformengineering.org/
 
 
   
