@@ -2,7 +2,9 @@
 
 (co) Evolution & ecosystems, boring > novel 
 
-1. **Products:** Apps, State Machine & Data 
+1. [wiki](https://github.com/ankumar/Open-software-design/wiki)
+
+2. **Products:** Apps, State Machine & Data 
 
 > Noun & Verb enables describing a system as a set of
 > * nouns (database tables) &
@@ -27,7 +29,7 @@ and managed over time with a best-in-class developer experience.
 > Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
-2. **Infrastructure & Sustainable Deployment model:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
+3. **Infrastructure & Sustainable Deployment model:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
