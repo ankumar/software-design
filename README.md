@@ -2,7 +2,7 @@
 
 (co) Evolution & ecosystems, boring > novel 
 
-1. [wiki](https://github.com/ankumar/Open-software-design/wiki)
+1. [**Wiki**](https://github.com/ankumar/Open-software-design/wiki)
 
 2. **Products:** Apps, State Machine & Data 
 
