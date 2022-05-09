@@ -33,13 +33,14 @@ and managed over time with a best-in-class developer experience.
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
-  - [Developer experience doesn’t have to stop at the front-end](https://www.arnnet.com.au/article/697716/developer-experience-doesn-t-stop-front-end/)
-  
-  - [DevZero - developer environments](https://www.devze.ro/)
-  
-  - [Zero - Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+- [Developer experience doesn’t have to stop at the front-end](https://www.arnnet.com.au/article/697716/developer-experience-doesn-t-stop-front-end/)
+  - [A NEW DAY FOR BACKEND DEV](https://encore.dev/)  
 
-  - [The global home for Platform Engineers](https://platformengineering.org/)
+- [DevZero - developer environments](https://www.devze.ro/)
+  
+- [Zero - Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
+ 
+- [The global home for Platform Engineers](https://platformengineering.org/)
 
 
   
