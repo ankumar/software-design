@@ -59,6 +59,12 @@ These are big bets in public communities considering slow deliberate process for
   * Uber Alumni: Data - https://github.com/open-metadata/OpenMetadata   
   * Walmart Global Tech Alumni: Data Science & Software Engineering - [Notebooks 1 - Jetbrains](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/), [Notebooks 2 - Kaggle Code](https://www.kaggle.com/code)
 
+:heart: https://backstage.io/ Developer Templates, **Mapping to Context specific:**
+1. Application Development - Build an ecosystem, not a wilderness
+2. Software Templates - Standards can set you free
+3. Tech Docs - Easy to Write, Maintain, Find & Use
+4. Infrastructure - Manage your services, not clusters
+
 --
 
 > Imagine if every company using open source were to provide tangible sponsorship, on an ongoing basis, directly to the developers of the open source libraries and tools they use and rely upon. Sponsorship should be an expected and manageable cost of doing business and would have a tremendous impact on the nature of open source development and the lives of those who pursue it. --[SPONSORING OPEN SOURCE DEVELOPERS](https://www.cognitect.com/blog/2020/12/15/sponsoring-open-source-developers)
