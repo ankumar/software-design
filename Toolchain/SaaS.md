@@ -146,3 +146,19 @@
 
 - https://www.sastrify.com/
 - Search & Browse: https://www.producthunt.com/ | https://saasblocks.io/ | https://welovenocode.com/nocodelist
+
+* Front end
+  - Checkout & Payments - https://github.com/stripe/stripe-demo-connect-roastery-saas-platform
+  - Signup & Payments - https://github.com/saasform/saasform
+  - API - https://github.com/saasify-sh/saasify
+ 
+* Back end
+  - **Finance** - </>
+
+  - **Health** - http://hl7.org/fhir/ 
+    - https://github.com/microsoft/fhir-server
+    - https://github.com/google/fhir
+ 
+  - **Code Generators** 
+    - Next-Gen ORM  - https://www.prisma.io/
+    - High Code Framework based on CUE - https://www.hofstadter.io/
