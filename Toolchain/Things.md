@@ -11,4 +11,13 @@
 
 - [Google Digital Buildings](https://opensource.google/projects/digitalbuildings)
   
-  
+--
+  - **Things** - **there aren't any widely adopted standard**
+    - [Digital Twin](https://www.digitaltwinconsortium.org/initiatives/the-definition-of-a-digital-twin.htm)
+      - https://www.eclipse.org/ditto/index.html 
+    - [A uniform metadata schema for Buildings](https://brickschema.org/) 
+      - https://github.com/Azure/opendigitaltwins-building
+    - https://www.fiware.org/developers/smart-data-models/ (https://smartdatamodels.org/index.php/new-incubated-data-models/) 
+      - https://github.com/FIWARE
+ 
+ 
