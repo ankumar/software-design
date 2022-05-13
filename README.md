@@ -1,6 +1,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-(co) evolution & ecosystems, boring + novel 
+boring + novel, (co) evolution & ecosystems 
 
 1. [**Wiki**](https://github.com/ankumar/Open-software-design/wiki)
 
