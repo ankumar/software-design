@@ -1,5 +1,9 @@
 ## Open Source
 
+[![Overnight Success… 10 years](https://github.com/ankumar/architecture/blob/main/images/VS%20Code%20an%20Overnight%20Success.png)](https://www.youtube.com/watch?v=hilznKQij7A&list=PLj6YeMhvp2S6uB23beQaffszlavLq3lNq)
+
+[Erich Gamma, The "Gang of Four"](https://en.wikipedia.org/wiki/Design_Patterns) - Evolution & Journeys are always fascinating from learning perspective, nice story - like all over night successes, 10+ years and 100s of man years of work!
+
 These are big bets in public communities considering slow deliberate process for seeking acceleration.
 
 * [Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
