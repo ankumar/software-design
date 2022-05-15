@@ -2,9 +2,7 @@
 
 boring + novel (co) evolution & ecosystems 
 
-1. [**Wiki**](https://github.com/ankumar/Open-software-design/wiki)
-
-2. **Products:** Apps, State Machine & Data 
+**Products:** Apps, State Machine & Data 
 
 > Noun & Verb enables describing a system as a set of
 > * nouns (database tables) &
@@ -29,6 +27,8 @@ and managed over time with a best-in-class developer experience.
 > Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
+
+- [**Wiki**](https://github.com/ankumar/Open-software-design/wiki)
 
 --
 
