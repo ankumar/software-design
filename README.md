@@ -29,11 +29,12 @@ and managed over time with a best-in-class developer experience.
 > Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
-3. **Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
-
-[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816) 
 
 --
+
+**Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
+
+[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
 - [Developer experience doesn’t have to stop at the front-end](https://www.arnnet.com.au/article/697716/developer-experience-doesn-t-stop-front-end/)
   - [A NEW DAY FOR BACKEND DEV](https://encore.dev/)  
