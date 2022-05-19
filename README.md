@@ -43,7 +43,7 @@ and managed over time with a best-in-class developer experience.
   
 - [Zero - Opinionated infrastructure to take you from idea to production on day one](https://getzero.dev/)
  
-- [The global home for Platform Engineers](https://platformengineering.org/)
+- [The Global Home for Platform Engineers](https://platformengineering.org/)
 
 
   
