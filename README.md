@@ -1,6 +1,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-<p align="center"> Boring + Novel (co) Evolution & Ecosystems </p>
+<p align="center"> Boring + Novel (co) evolution & ecosystems </p>
 
 **Products:** Apps, State Machine & Data 
 
