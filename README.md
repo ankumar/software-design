@@ -1,9 +1,9 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-<p align="center"> Boring + Novel (co) evolution & ecosystems </p>
+<p align="center">**Products:** Boring + Novel (co) evolution & ecosystems </p>
 
 **Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
-**Products:** Apps, State Machine & Data 
+Apps, State Machine & Data 
 
 > **The ideal state of visual application logic.**
 > * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
