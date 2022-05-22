@@ -1,8 +1,8 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-Apps, State Machine & Data 
+**Apps, State Machine & Data:**
 
-> **The ideal state of visual application logic.**
+> The ideal state of visual application logic.
 > * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
 >
 > * That's the power of visual modeling – from visualization, simulation, analysis, autogeneration of tests, documentation, and diagrams, to collaboration with designers and others, make your code do more. 
@@ -25,8 +25,8 @@ and managed over time with a best-in-class developer experience.
 >   - [Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-Products: Boring + Novel (co) evolution & ecosystems
-Developer experience: [Open-ended], [Opinionated, Prescriptive, Paved etc.]
+**Products:** Boring + Novel (co) evolution & ecosystems
+**Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 
