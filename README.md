@@ -26,7 +26,7 @@ and managed over time with a best-in-class developer experience.
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
 **Products:** Boring + Novel (co) evolution & ecosystems
-**Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
+**+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 
