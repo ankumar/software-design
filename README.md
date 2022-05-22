@@ -1,7 +1,7 @@
+**Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
+
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 <p align="center"> Boring + Novel (co) evolution & ecosystems </p>
-
-**Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 [![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
