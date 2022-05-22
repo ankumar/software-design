@@ -21,12 +21,12 @@ Apps, State Machine & Data
 > It eliminates close to 100% of the grunt work involved in getting an API working
 The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
+>
+> - [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
 
-- [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
-
-- Real World Database Schema Examples:
-  - [Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
-  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+> - Real World Database Schema Examples:
+>   - [Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+>   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
