@@ -1,7 +1,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 <p align="center"> <b> Products: </b> Boring + Novel (co) evolution & ecosystems </p>
-
-**Developer experience:** \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
+<p align="center"> <b> Developer experience: </b> \[Open-ended\], \[Opinionated, Prescriptive, Paved etc.\]  
 
 Apps, State Machine & Data 
 
