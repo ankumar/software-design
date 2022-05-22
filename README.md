@@ -30,7 +30,7 @@ and managed over time with a best-in-class developer experience.
 
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
-[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
+
 
  
 
