@@ -1,6 +1,4 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-<p align="center"> <b> Products: </b> Boring + Novel (co) evolution & ecosystems </p>
-<p align="center"> <b> Developer experience: </b> [Open-ended], [Opinionated, Prescriptive, Paved etc.] </p> 
 
 Apps, State Machine & Data 
 
@@ -27,6 +25,8 @@ and managed over time with a best-in-class developer experience.
 >   - [Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
+Products: Boring + Novel (co) evolution & ecosystems
+Developer experience: [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 
