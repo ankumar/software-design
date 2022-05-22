@@ -3,8 +3,6 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 <p align="center"> Boring + Novel (co) evolution & ecosystems </p>
 
-[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
-
 **Products:** Apps, State Machine & Data 
 
 > **The ideal state of visual application logic.**
@@ -33,7 +31,7 @@ and managed over time with a best-in-class developer experience.
 
 - [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
-
+[![Imagine this for an Enterprise's Cloud Infra:](https://github.com/ankumar/architecture/blob/main/images/Open%20Infrastructure%20Map.png)](https://openinframap.org/#8.78/37.7325/-121.3816)
 
  
 
