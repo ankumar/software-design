@@ -1,4 +1,4 @@
-[Index of API-first companie](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
+[Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
 
 [APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
 
