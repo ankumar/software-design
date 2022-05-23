@@ -25,7 +25,7 @@ The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 >
 > - [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
-> - Real World Database Schema Examples:
+> - Real World Schemas:
 >   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
 >   - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
