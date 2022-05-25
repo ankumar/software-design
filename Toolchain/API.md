@@ -38,6 +38,10 @@
 
 [Align-Define-Design-Refine](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
 
+![image](https://user-images.githubusercontent.com/658791/170347738-2511d154-cb1d-47d8-a116-bec86f66e955.png)
+
+-- https://twitter.com/alexxubyte/status/1506298328878780419
+
 Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, [JSON Schema](https://json-schema.org/blog/posts/json-schema-in-5-minutes) ... 
 - REST, gRPC, EDA, GraphQL, ...
