@@ -1,3 +1,8 @@
+- Kent Beck: https://tidyfirst.substack.com/
+- System Design Interview: https://github.com/alex-xu-system/bytebytego
+
+--
+
 [UUID](https://www.cockroachlabs.com/blog/what-is-a-uuid/):
 - [K-Sortable Unique IDentifier](https://github.com/segmentio/ksuid) 
 - [Distributed, Twitter Snowflake](https://developer.twitter.com/en/docs/twitter-ids) / Code: https://github.com/sony/sonyflake
@@ -39,5 +44,3 @@ Napkin Math - https://github.com/sirupsen/napkin-math
 
 --
 
-- Kent Beck: https://tidyfirst.substack.com/
-- System Design Interview: https://github.com/alex-xu-system/bytebytego
