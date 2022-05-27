@@ -9,8 +9,6 @@
 5. Create APIs with Explicit and Well-Documented Failure Modes
 6. Avoid Leaking Implementation Details at All Costs
 
-[Align-Define-Design-Refine](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
-
 ![image](https://user-images.githubusercontent.com/658791/170347738-2511d154-cb1d-47d8-a116-bec86f66e955.png)
 
 -- https://twitter.com/alexxubyte/status/1506298328878780419
@@ -22,6 +20,8 @@ Specifications & Standards
 [Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
 
 ## Developer experience
+
+[Align-Define-Design-Refine](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
 
 - https://github.com/awslabs/smithy
 
