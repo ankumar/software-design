@@ -15,7 +15,7 @@ Specifications & Standards
 
 ![image](https://user-images.githubusercontent.com/658791/170347738-2511d154-cb1d-47d8-a116-bec86f66e955.png)
 
-source: https://twitter.com/alexxubyte/status/1506298328878780419
+Source: https://twitter.com/alexxubyte/status/1506298328878780419
 
 ## Developer experience
 
