@@ -17,8 +17,6 @@ Specifications & Standards
 - OpenAPI, AsyncAPI, ProtoBuf, SDL, WSDL, [JSON Schema](https://json-schema.org/blog/posts/json-schema-in-5-minutes) ... 
 - REST, gRPC, EDA, GraphQL, ...
 
-[Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
-
 ## Developer experience
 
 [Align-Define-Design-Refine](https://blog.stoplight.io/aligning-on-your-api-design-using-jobs-to-be-done)
@@ -72,6 +70,8 @@ Specifications & Standards
 [Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
 
 [APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
+
+[Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
 
 **Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
 - https://stripe.com/treasury 
