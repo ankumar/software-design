@@ -1,30 +1,3 @@
-[Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
-
-[APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
-
-## Infrastructure
-
-**Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
-- https://stripe.com/treasury 
-- https://stripe.com/issuing  
-- https://developers.taxjar.com/
-- https://www.shopify.com/balance
-- https://plaid.com/
-
-**B2B** - Transactions, Supply chain, Logistics, Healthcare & Finance
-- https://www.stedi.com/
-- https://developers.flexport.com/s/api
-- https://goshippo.com/docs/intro/
-
-**Healthcare**
-- https://docs.truepill.com/
-
-**Things - Cities, Buildings, & Infrastructure**
-- https://www.twilio.com/iot
-- https://blues.io/
-- https://www.mapped.com/developers
-- https://cityzenith.com/
-- https://developer.io.constructconnect.com/
 
 ## Design
 
@@ -96,6 +69,30 @@ Specifications & Standards
 
 - Docs: https://github.com/veho-technologies/slate
 
+[Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
 
+[APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
+
+**Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
+- https://stripe.com/treasury 
+- https://stripe.com/issuing  
+- https://developers.taxjar.com/
+- https://www.shopify.com/balance
+- https://plaid.com/
+
+**B2B** - Transactions, Supply chain, Logistics, Healthcare & Finance
+- https://www.stedi.com/
+- https://developers.flexport.com/s/api
+- https://goshippo.com/docs/intro/
+
+**Healthcare**
+- https://docs.truepill.com/
+
+**Things - Cities, Buildings, & Infrastructure**
+- https://www.twilio.com/iot
+- https://blues.io/
+- https://www.mapped.com/developers
+- https://cityzenith.com/
+- https://developer.io.constructconnect.com/
 
 
