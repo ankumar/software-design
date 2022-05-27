@@ -3,6 +3,7 @@
 - [Distributed, Twitter Snowflake](https://developer.twitter.com/en/docs/twitter-ids) / Code: https://github.com/sony/sonyflake
 - https://encore.dev/blog/go-1.18-generic-identifiers
 - https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api
+- https://github.com/mplanchard/cuid-rust
 
 [Sagas](https://microservices.io/patterns/data/saga.html)
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
