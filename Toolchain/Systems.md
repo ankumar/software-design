@@ -1,5 +1,6 @@
 - Kent Beck: https://tidyfirst.substack.com/
 - System Design Interview: https://github.com/alex-xu-system/bytebytego
+- https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
 
 --
 
