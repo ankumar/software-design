@@ -1,6 +1,6 @@
-- Kent Beck: https://tidyfirst.substack.com/
+- Design Patterns and Principles That Support Large Scale Systems: https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
 - System Design Interview: https://github.com/alex-xu-system/bytebytego
-- https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
+- Kent Beck: https://tidyfirst.substack.com/
 
 --
 
