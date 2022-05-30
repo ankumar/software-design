@@ -1,3 +1,8 @@
+# Glossary:
+
+Payments - https://finix.com/resources/glossary
+
+
 # Digital Wallets:
  
  - Cards: Debit/Credit/Gift/Fuel/Transit, ...  
