@@ -1,6 +1,6 @@
 # Glossary:
 
-Payments - https://finix.com/resources/glossary
+- Payments: https://finix.com/resources/glossary
 
 
 # Digital Wallets:
