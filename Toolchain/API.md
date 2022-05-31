@@ -1,3 +1,9 @@
+![image](https://user-images.githubusercontent.com/658791/171250466-62e27f18-4a8c-4637-88e8-20b9cd18ae55.png)
+
+Traceback a company’s massive competitive advantage to a key decision in its history. 
+
+For Amazon, it was this 2002 memo. The API economy was still 10yrs out …
+![image](https://user-images.githubusercontent.com/658791/171250842-7c985f88-6acc-41a9-aacd-eda2b0fb8ca2.png)
 
 ## Design
 
