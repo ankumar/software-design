@@ -2,6 +2,14 @@
 
 Traceback a company’s massive competitive advantage to a key decision in its history. For Amazon, it was this 2002 memo. The API economy was still 10yrs out …
 
+[Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
+
+[APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
+
+‘APIs are the next big SaaS wave’ Thread https://twitter.com/peterschroederr/status/1509555487947194373 
+
+[Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
+
 ## Design
 
 [Werner Vogel’s 6 Rules for Good API Design](https://thenewstack.io/werner-vogels-6-rules-for-good-api-design/)
@@ -69,12 +77,6 @@ Source: https://twitter.com/alexxubyte/status/1506298328878780419
   - https://linkedin.github.io/rest.li/
 
 - Docs: https://github.com/veho-technologies/slate
-
-[Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
-
-[APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
-
-[Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
 
 **Financial** infrastructure for a lot more than payments - Stripe, Plaid, Shopify etal.
 - https://stripe.com/treasury 
