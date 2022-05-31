@@ -1,5 +1,5 @@
 - Design Patterns and Principles That Support Large Scale Systems: https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
-Software Architecture: I wish I had known about this earlier… - : https://medium.com/@olgamitroshyna/software-architecture-i-wish-i-had-known-about-this-earlier-4df43eae57db
+- Software Architecture: I wish I had known about this earlier… - : https://medium.com/@olgamitroshyna/software-architecture-i-wish-i-had-known-about-this-earlier-4df43eae57db
 - System Design Interview: https://github.com/alex-xu-system/bytebytego
 - Kent Beck: https://tidyfirst.substack.com/
 
