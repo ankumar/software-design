@@ -35,3 +35,4 @@
 - https://bitcoin.design/guide/getting-started/software/
 - https://stripe.com/blog/expanding-global-payouts-with-crypto 
 - https://twitter.com/skominers/status/1517204062713876481
+- https://twitter.com/DigitalAssets/status/1488273815180349440
