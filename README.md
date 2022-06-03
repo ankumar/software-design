@@ -27,6 +27,7 @@ and managed over time with a best-in-class developer experience.
 > - [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
 > - Real World Schemas:
 >   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
+>   - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
 >   - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
