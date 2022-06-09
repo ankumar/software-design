@@ -3,7 +3,11 @@
 **Products:** Boring + Novel (co) evolution & ecosystems
 **+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 
+Simple is hard.
+
+role models:
 - https://danluu.com/simple-architectures/
+- 
 
 **Currently Focused On: Apps, State Machine & Data:**
 
