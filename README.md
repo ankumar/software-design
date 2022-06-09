@@ -4,8 +4,6 @@
 **+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 
 Simple is hard.
-
-role models:
 - https://danluu.com/simple-architectures/
 - 
 
