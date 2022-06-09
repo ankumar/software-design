@@ -3,6 +3,8 @@
 **Products:** Boring + Novel (co) evolution & ecosystems
 **+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 
+- https://danluu.com/simple-architectures/
+
 **Currently Focused On: Apps, State Machine & Data:**
 
 > The ideal state of visual application logic.
