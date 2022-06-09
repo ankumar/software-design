@@ -3,7 +3,7 @@
 **Products:** Boring + Novel (co) evolution & ecosystems
 **+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 
-**Focused On: Apps, State Machine & Data:**
+**Currently Focused On: Apps, State Machine & Data:**
 
 > The ideal state of visual application logic.
 > * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
