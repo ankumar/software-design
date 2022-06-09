@@ -3,6 +3,8 @@
 **Products:** Boring + Novel (co) evolution & ecosystems
 **+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 
+- https://danluu.com/simple-architectures/
+
 **Currently Focused On: Apps, State Machine & Data:**
 
 > The ideal state of visual application logic.
@@ -24,7 +26,6 @@ The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 >
 > - [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
-> - https://danluu.com/simple-architectures/
 > - Real World Schemas:
 >   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
 >   - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
