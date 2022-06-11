@@ -31,7 +31,7 @@ and managed over time with a best-in-class developer experience.
 >   - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
 >   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
-Keeping it simple is hard.
+Keeping it simple
 - https://danluu.com/simple-architectures/
 - 
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
