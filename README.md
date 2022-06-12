@@ -23,7 +23,7 @@
 The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 >
-> - [Noun & Verb - Docs](https://tufan-io.github.io/noun-and-verb-docs/)
+> - [Noun & Verb - Docs](https://nounandverb.io/)
 > - Real World Schemas:
 >   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
 >   - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
