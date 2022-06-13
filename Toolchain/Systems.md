@@ -7,6 +7,7 @@
 
 [UUID](https://www.cockroachlabs.com/blog/what-is-a-uuid/):
 - [K-Sortable Unique IDentifier](https://github.com/segmentio/ksuid) 
+  - https://news.ycombinator.com/item?id=24645786 
 - [Distributed, Twitter Snowflake](https://developer.twitter.com/en/docs/twitter-ids) / Code: https://github.com/sony/sonyflake
 - https://encore.dev/blog/go-1.18-generic-identifiers
 - https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api
