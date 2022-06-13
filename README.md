@@ -33,7 +33,8 @@ and managed over time with a best-in-class developer experience.
 
 Keeping it simple
 - https://danluu.com/simple-architectures/
-- 
+- ...
+
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
  
