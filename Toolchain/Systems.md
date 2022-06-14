@@ -5,6 +5,10 @@
 
 --
 
+UUID:
+
+"While preparing this specification the following 16 different implementations were analyzed for trends in total ID length, bit Layout, lexical formatting/encoding, timestamp type, timestamp format, timestamp accuracy, node format/components, collision handling and multi-timestamp tick generation sequencing." -- https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html
+
 [UUID](https://www.cockroachlabs.com/blog/what-is-a-uuid/):
 - [K-Sortable Unique IDentifier](https://github.com/segmentio/ksuid) 
   - https://news.ycombinator.com/item?id=24645786 
