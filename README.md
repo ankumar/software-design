@@ -32,6 +32,8 @@ Keeping it simple
 - https://danluu.com/simple-architectures/
 - ...
 
+**Products:** Boring + Novel (co) evolution & ecosystems
+**+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
  
