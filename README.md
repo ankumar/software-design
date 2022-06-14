@@ -2,6 +2,14 @@
 
 **Currently Focused On: Apps, State Machine & Data:**
 
+- Real World Schemas:
+  - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
+  - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
+  - [GraphQL Syntax Used for a Novel Approach to Schema Validation and Code Generation](https://www.infoq.com/news/2022/05/graphql-schema-validation/)
+  - [Collection of high quality JSON Schemas for popular APIs like Stripe, Shopify, and more](https://github.com/Stedi/registry)
+  - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
+  - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
 > The ideal state of visual application logic.
 > * What if complex application logic were easier to understand? What if undesirable states and transitions were made impossible, and entire classes of bugs eliminated? And what if it could be visualized, and even visually edited?
 >
@@ -20,14 +28,8 @@
 The product delivers a code-base that can be both created
 and managed over time with a best-in-class developer experience. 
 >
-> - [Noun & Verb](https://nounandverb.io/)
-> - Real World Schemas:
->   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
->   - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
->   - [GraphQL Syntax Used for a Novel Approach to Schema Validation and Code Generation](https://www.infoq.com/news/2022/05/graphql-schema-validation/)
->   - [Collection of high quality JSON Schemas for popular APIs like Stripe, Shopify, and more](https://github.com/Stedi/registry)
->   - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
->   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
+
+- [Noun & Verb](https://nounandverb.io/)
 
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
