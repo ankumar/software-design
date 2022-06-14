@@ -1,8 +1,5 @@
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
-**Products:** Boring + Novel (co) evolution & ecosystems
-**+ Developer experience:** [Open-ended], [Opinionated, Prescriptive, Paved etc.]
-
 **Currently Focused On: Apps, State Machine & Data:**
 
 > The ideal state of visual application logic.
