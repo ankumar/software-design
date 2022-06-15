@@ -11,9 +11,9 @@ Traceback a company’s massive competitive advantage to a key decision in its h
 [Why “API-first” might not be a good idea – INNOQ Technology Lunch](https://www.youtube.com/watch?v=fNLQiurGQhE)
 
 Stripe launches a developer platform and an App Marketplace. Time to reiterate my belief that in 10 years there’ll only be 2 FinTech’s left (“BigTech” ?), Stripe & Block. The deliberate and steady execution by the Stripe team as they’ve expanded their portfolio is truly impressive.
- 
- -- https://twitter.com/auchenberg/status/1529131505364062208 
- 
+
+-- https://twitter.com/auchenberg/status/1529131505364062208 
+
 More than 10,000 platforms use Stripe Connect to power 6M businesses. We talked with SaaS entrepreneurs about what they’re seeing in the industry and how they expect it to evolve over the next decade. Here’s what we learned: https://stripe.com/blog/connect-ten-years 
 
 ## Design
