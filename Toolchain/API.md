@@ -3,6 +3,7 @@
 Traceback a company’s massive competitive advantage to a key decision in its history. For Amazon, it was this 2002 memo. The API economy was still 10yrs out …
 
 [Index of API-first companies](https://techcrunch.com/2022/03/01/as-api-first-startups-multiply-ggv-builds-an-index/)
+- API-First Index, majority in FinTech https://www.apifirstindex.com/
 
 [APIs All the Way Down](https://www.notboring.co/p/apis-all-the-way-down?s=r)
 
