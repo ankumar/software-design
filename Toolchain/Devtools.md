@@ -13,6 +13,7 @@
 - Diagrams & Visualizations using text & code - https://mermaid-js.github.io/mermaid/#/
   - https://github.com/EddieHubCommunity/LinkFree/discussions/1087
 - [Move over JavaScript: Back-end languages are coming to the front-end](https://github.com/readme/featured/server-side-languages-for-front-end)
+- https://getzero.dev/
 - http://devze.ro/
 
 
