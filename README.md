@@ -6,7 +6,7 @@
   - [GraphQL schemas - FedEx, GitHub, Shopify, Twilio](https://github.com/steprz/stepzen-schemas)
   - [GraphQL schema - commercetools](https://github.com/commercetools/commercetools-api-reference/blob/main/api-specs/graphql/schema.sdl)
   - [GraphQL Syntax Used for a Novel Approach to Schema Validation and Code Generation](https://www.infoq.com/news/2022/05/graphql-schema-validation/)
-  - [Collection of high quality JSON Schemas for popular APIs like Stripe, Shopify, and more](https://github.com/Stedi/registry)
+  - [Collection of high quality JSON Schemas for popular APIs like Stripe, Shopify, and more](https://github.com/Stedi/registry) / https://www.stedi.com/registry/json-schemas
   - [Database schemas - Jira, GitLab, Sonarqube](https://github.com/prisma/database-schema-examples)
   - [Internal Tools - A simple message board for your organization or project](https://github.com/planetscale/beam/blob/main/prisma/schema.prisma)
 
