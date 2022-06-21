@@ -18,6 +18,10 @@
 > Our mission is to make app logic accessible to the entire team, including developers, designers, and stakeholders. Using state machines and statecharts as a common visual language, the software development cycle becomes more collaborative, eliminating handoff and tightening the feedback loop.
 > https://stately.ai/
 
+> New – AWS Step Functions Workflow Studio – A Low-Code Visual Tool for Building State Machines
+> 
+> https://aws.amazon.com/blogs/aws/new-aws-step-functions-workflow-studio-a-low-code-visual-tool-for-building-state-machines/
+
 > Noun & Verb enables describing a system as a set of
 > * nouns (database tables) &
 > * verbs (the API calls) 
