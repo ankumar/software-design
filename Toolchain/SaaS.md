@@ -1,8 +1,26 @@
 ## Building SaaS Products
 
+- Control Plane / Data Plane
+- Basics - Authentication, Authorization & APIs
+
 OAuth 2.0 is designed only for authorization, for granting access to data and features from one application to another. OpenID Connect (OIDC) is a thin layer that sits on top of OAuth 2.0 that adds login and profile information about the person who is logged in.
 
-https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+-- https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+
+- Multi-tenant
+
+- Signup & Login
+  - Protocols: OAuth2 & OpenID Connect
+
+- Observability
+
+- Operational Status
+
+- Deployment
+  - Multi-Region
+
+- Security
+  - Policy
 
 ## SaaS Alphabet
 
