@@ -18,6 +18,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture  
 
 **Apps, State Machine & Data:**  
+
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
  
