@@ -18,7 +18,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Skill Exchange:** Build an internal marketplace for learning and growth opportunities within R&D  
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture  
 
-**Apps, State Machine & Data:**  
+**Applications, State Machine & Data:**  
 
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
