@@ -8,9 +8,11 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
-**Platform components:**  
+**Applications, State Machine & Data:**  
 
--> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
+-> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
+
+**Platform components:**  
 
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
@@ -18,11 +20,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Skill Exchange:** Build an internal marketplace for learning and growth opportunities within R&D  
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture  
 
-**Applications, State Machine & Data:**  
-
--> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
-
- 
+-> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
 
 
 
