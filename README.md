@@ -22,5 +22,6 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Data plane and the Control plane** 
 --> https://controlplane.com/  
 - Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure  
-  
+
+**Observability** --> https://lightrun.com/comparisons/ 
 
