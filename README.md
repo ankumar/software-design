@@ -23,5 +23,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 --> https://controlplane.com/  
 - Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure  
 
+Open Formats --> https://materializedview.io/p/ce-nest-pas-un-kafka
+
 **Observability** --> https://lightrun.com/comparisons/ 
 
