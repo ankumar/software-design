@@ -10,15 +10,15 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 **Applications, State Machine & Data:**  
 
--> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
+--> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 **Data plane and the Control plane:** 
 
--> https://controlplane.com/ 
+--> https://controlplane.com/ 
 
 **Bring Your Own Cloud (BYOC) Deployments:**  
 
--> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure  
+--> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure  
 
 --> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
