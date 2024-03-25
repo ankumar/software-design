@@ -20,7 +20,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure 
 
--> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
+[Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
 **Soundcheck:** Ensure quality, reliability, and alignment of software development with codified checks and guidance  
