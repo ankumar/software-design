@@ -12,6 +12,10 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
+**Data plane and the Control plane:** 
+
+-> https://controlplane.com/ 
+
 **Bring Your Own Cloud (BYOC) Deployments:**  
 
 -> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure 
