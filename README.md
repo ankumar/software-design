@@ -15,13 +15,13 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture  
 --> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/)  
 
-**Applications, State Machine & Data:**  
+**Applications, State Machine & Data** 
 --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
-**Bring Your Own Cloud (BYOC) Deployments:**  
+**Bring Your Own Cloud (BYOC) Deployments** 
 --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure  
 
-**Data plane and the Control plane:** 
+**Data plane and the Control plane** 
 --> https://controlplane.com/ 
 
   
