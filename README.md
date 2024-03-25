@@ -8,6 +8,8 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
+--
+
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
 **Soundcheck:** Ensure quality, reliability, and alignment of software development with codified checks and guidance  
