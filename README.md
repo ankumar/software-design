@@ -29,3 +29,8 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 **Observability** --> https://lightrun.com/comparisons/ 
 
+--
+
+AI Cloud:
+- https://modal.com/
+- https://www.modular.com/
