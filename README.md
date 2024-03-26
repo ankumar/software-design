@@ -33,4 +33,4 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 AI Cloud:
 - https://modal.com/
-- https://www.modular.com/
+- https://www.modular.com/ (https://github.com/dorjeduck/momograd)
