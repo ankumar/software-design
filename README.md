@@ -32,5 +32,6 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 --
 
 AI Cloud:
+- https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
