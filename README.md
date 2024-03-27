@@ -16,7 +16,9 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
 **Soundcheck:** Ensure quality, reliability, and alignment of software development with codified checks and guidance  
 **Skill Exchange:** Build an internal marketplace for learning and growth opportunities within R&D  
-**Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture --> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/) / Spotify Portal for Backstage is coming!
+**Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture  
+
+--> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/) / Spotify Portal for Backstage is coming!
 
 -- **Observability** --> https://lightrun.com/comparisons/    
 
