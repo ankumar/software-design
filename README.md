@@ -29,13 +29,15 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 **Observability** --> https://lightrun.com/comparisons/ 
 
-**Network Services:**  
-- https://github.com/cloudflare/pingora
-- https://github.com/bytedance/g3 
-
 --
 
-AI Cloud:
+**AI Cloud:**  
 - https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
+
+--
+
+**Network Services:**  
+- https://github.com/cloudflare/pingora
+- https://github.com/bytedance/g3 
