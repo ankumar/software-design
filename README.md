@@ -8,7 +8,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
---
+--  
 **Applications, State Machine & Data**  
 
 --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
