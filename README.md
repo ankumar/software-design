@@ -21,7 +21,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture --> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/) / Spotify Portal for Backstage is coming!
 
 --
-**Observability** --> https://lightrun.com/comparisons/ 
+**Observability** --> https://lightrun.com/comparisons/  
 **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
 -- **Virtual Cloud**  
