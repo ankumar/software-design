@@ -14,6 +14,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 --
+**Internal Platform UI/UX**  
 
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
@@ -26,7 +27,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
 --
-**Virtual Cloud:**  
+**Virtual Cloud**  
 
 Data plane and the Control plane:
 --> https://controlplane.com/  
@@ -35,14 +36,14 @@ Data plane and the Control plane:
 - https://www.benthos.dev/
 
 --
-**AI Cloud:**  
+**AI Cloud**  
 
 - https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
 
 --
-**Network Services:**  
+**Network Services**  
 
 - https://github.com/cloudflare/pingora
 - https://github.com/bytedance/g3 
