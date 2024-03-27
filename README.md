@@ -24,7 +24,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -- **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
--- **Virtual Cloud**  (MainFrame -> CPU + Lots of GPU)
+-- **Virtual Cloud**  (MainFrame -> Data center with CPUs + Lots of GPUs)
 
 Data plane and the Control plane:
 --> https://controlplane.com/  
