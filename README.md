@@ -9,8 +9,8 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
 --
+**Applications, State Machine & Data**  
 
-**Applications, State Machine & Data** 
 --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 --
@@ -22,26 +22,27 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 **Pulse:** Collect data that drives continuous improvements to your R&D tooling, processes, and culture --> [Building UI/UX for Developers Using Backstage](https://backstage.spotify.com/docs/) / Spotify Portal for Backstage is coming!
 
 --
-
 **Observability** --> https://lightrun.com/comparisons/ 
-
 **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
-**Data plane and the Control plane** 
+--
+**Virtual Cloud:**  
+
+Data plane and the Control plane:
 --> https://controlplane.com/  
 - Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure
 
 - https://www.benthos.dev/
 
 --
-
 **AI Cloud:**  
+
 - https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
 
 --
-
 **Network Services:**  
+
 - https://github.com/cloudflare/pingora
 - https://github.com/bytedance/g3 
