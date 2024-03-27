@@ -24,8 +24,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -- **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
--- **Virtual Cloud**  
-**MainFrame -> CPU/GPU**
+-- **Virtual Cloud**  (MainFrame -> CPU/GPU)
 
 Data plane and the Control plane:
 --> https://controlplane.com/  
@@ -38,8 +37,7 @@ Data plane and the Control plane:
   - https://modal.com/
   - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
 
--- **Network Services**  
-**C/C++ -> GO/RUST**
+-- **Network Services**  (C/C++ -> GO/RUST)
 
 - https://github.com/cloudflare/pingora
 - https://github.com/bytedance/g3
