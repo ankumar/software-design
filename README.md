@@ -33,11 +33,10 @@ Data plane and the Control plane:
 
 - https://www.benthos.dev/
 
--- **AI Cloud**  
-
-- https://skypilot.readthedocs.io/en/latest/docs/index.html
-- https://modal.com/
-- https://www.modular.com/ (https://github.com/dorjeduck/momograd)
+- **AI Cloud**  
+  - https://skypilot.readthedocs.io/en/latest/docs/index.html
+  - https://modal.com/
+  - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
 
 -- **Network Services**  
 **C/C++ -> GO/RUST**
