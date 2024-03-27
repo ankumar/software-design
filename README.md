@@ -24,11 +24,10 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -- **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
--- **Virtual Cloud**  (MainFrame -> Data center with CPUs + Lots of GPUs)
+-- **Virtual Cloud**  (MainFrame -> Data center with CPUs + Lots of GPUs), Data plane and the Control plane
 
-Data plane and the Control plane:
---> https://controlplane.com/  
-- Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure
+- https://controlplane.com/  
+  - Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure
 
 - https://www.benthos.dev/
 
