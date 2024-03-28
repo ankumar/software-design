@@ -37,8 +37,10 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 ---
 **Compound AI Systems**  (Data center with CPUs, Lots of GPUs & TPUs)
-- https://skypilot.readthedocs.io/en/latest/docs/index.html
-- https://modal.com/
+- https://skypilot.readthedocs.io/en/latest/docs/index.html  
+
+- https://modal.com/  
+
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
      
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
