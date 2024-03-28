@@ -35,6 +35,10 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 - https://github.com/cloudflare/pingora
 - https://github.com/bytedance/g3
 - https://ngrok.com/
+
+-- **Security Model** (Zero Trust Architecture)
+
+- https://csrc.nist.gov/pubs/sp/800/207/final
  
 ![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
 
