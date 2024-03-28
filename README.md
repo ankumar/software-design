@@ -29,13 +29,15 @@ The loop of progress - The best ideas are born from years of iterative refinemen
   - https://skypilot.readthedocs.io/en/latest/docs/index.html
   - https://modal.com/
   - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
- 
-![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
-
-Innovation is balancing the world as it could be with the world as it is and both are important
 
 -- **Network Services**  (C/C++ -> GO/RUST)
 
 - https://github.com/cloudflare/pingora
 - https://github.com/bytedance/g3
 - https://ngrok.com/
+ 
+![](https://github.com/ankumar/architecture/blob/main/images/product%20development%2C%20change%2C%20and%20improvement.jpeg)
+
+Innovation is balancing the world as it could be with the world as it is and both are important
+
+
