@@ -2,7 +2,7 @@
 
 The loop of progress - The best ideas are born from years of iterative refinement. "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
--- **Applications, State Machine & Data (Domain + Your Users & Customers)**  --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
+-- **Applications, State Machine & Data (Business Domain + Users & Customers)**  --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 -- **Internal Platform UI/UX**  
 
