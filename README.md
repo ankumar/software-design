@@ -36,7 +36,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 - https://csrc.nist.gov/pubs/sp/800/207/final
 
 ---
-**Compound AI Systems**  (Data center with CPUs + Lots of GPUs),
+**Compound AI Systems**  (Data center with CPUs + Lots of GPUs)
 - https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
