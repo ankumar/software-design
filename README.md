@@ -18,7 +18,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -- **Open Formats** --> https://materializedview.io/p/ce-nest-pas-un-kafka
 
--- **Virtual Cloud**  (MainFrame -> Data center with CPUs + Lots of GPUs), Data plane and the Control plane
+-- **Virtual Cloud** (Data center with CPUs), Data plane and the Control plane
 
 - https://controlplane.com/  
   - Bring Your Own Cloud (BYOC) Deployments --> https://www.warpstream.com/blog/the-original-sin-of-cloud-infrastructure
@@ -36,7 +36,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 - https://csrc.nist.gov/pubs/sp/800/207/final
 
 ---
-**Compound AI Systems**  
+**Compound AI Systems**  (Data center with CPUs + Lots of GPUs),
 - https://skypilot.readthedocs.io/en/latest/docs/index.html
 - https://modal.com/
 - https://www.modular.com/ (https://github.com/dorjeduck/momograd)
