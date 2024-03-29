@@ -4,7 +4,7 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 -- **Applications, State Machine & Data (Business Domain + Users & Customers)**  --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
--- **Internal Platform UI/UX**  
+-- **Internal Developer Platform**  
 
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
 **Insights:** Identify, benchmark, and understand usage trends to drive Backstage adoption  
