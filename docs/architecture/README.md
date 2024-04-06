@@ -1,5 +1,7 @@
 -- **Applications, State Machine & Data (Business Domain + Users & Customers)**  --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
+-- **DDD** --> https://github.com/bytedance/dddfirework
+
 -- **Internal Developer Platform**  
 
 **RBAC (Role-Based Access Control):** Control access to actions and data in Backstage with ease  
