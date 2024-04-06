@@ -3,4 +3,4 @@
 The loop of progress - The best ideas are born from years of iterative refinement. "A version of this is even true for people: the more willing we are to reevaluate our views and admit mistakes, the faster we learn and the further we can improve."
 
 Examples:
-- https://github.com/dspinellis/unix-history-repo
+- [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
