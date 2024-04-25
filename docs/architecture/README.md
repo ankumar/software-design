@@ -1,3 +1,5 @@
+-- **Book** --> [Residues: Time, Change, and Uncertainty in Software Architecture](https://leanpub.com/residuality)
+
 -- **Applications, State Machine & Data (Business Domain + Users & Customers)**  --> [Wiki](https://github.com/ankumar/Open-software-design/wiki)
 
 -- **DDD** --> https://github.com/bytedance/dddfirework
