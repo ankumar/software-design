@@ -7,7 +7,9 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 An awesome Repo for more [mentalmodels](https://github.com/kiwicopple/mentalmodels)
 
 History:
+- [WWW](https://mamund.substack.com/p/toward-a-universal-linked-information)
+  - [Web](https://hypermedia.systems/foreword/)
+ 
 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
-- [Web](https://hypermedia.systems/foreword/)
 
 
