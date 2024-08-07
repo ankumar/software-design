@@ -8,7 +8,7 @@ An awesome Repo for more [mentalmodels](https://github.com/kiwicopple/mentalmode
 
 History:
 - [WWW](https://mamund.substack.com/p/toward-a-universal-linked-information)
-  - [hypermedia](https://hypermedia.systems/foreword/)
+  - [Hypermedia](https://hypermedia.systems/foreword/)
  
 - [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 
