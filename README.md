@@ -4,11 +4,14 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 ![image](https://user-images.githubusercontent.com/658791/209478115-2fefbd42-26ce-4552-be01-bdc84a109277.png)
 
-An awesome Repo for more [mentalmodels](https://github.com/kiwicopple/mentalmodels)
+Topics:
+- Maintenance, By Stewart Brand [Maintenance: Of Everything](https://books.worksinprogress.co/)
+
+- Mental Models, An awesome [Repo](https://github.com/kiwicopple/mentalmodels)
 
 - [WWW](https://mamund.substack.com/p/toward-a-universal-linked-information)
   - [Hypermedia](https://hypermedia.systems/foreword/)
- 
-- [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
+
+- Learning from the Past, [Continuous Unix commit history from 1970 until today](https://github.com/dspinellis/unix-history-repo)
 
 
