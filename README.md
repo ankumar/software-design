@@ -12,3 +12,11 @@ The loop of progress - The best ideas are born from years of iterative refinemen
 
 - Mental Models, An awesome [Repo](https://github.com/kiwicopple/mentalmodels)
 
+## NotebookLM Deep Dives
+
+[Apple Private Cloud Compute (PCC)](https://notebooklm.google.com/notebook/168417ca-eb4f-4755-909e-321dd67b259b/audio)
+
+[garak: LLM Vulnerability Scanner](https://notebooklm.google.com/notebook/db77f24f-738b-4eed-af92-59b9bd519ea7/audio)
+
+[Hopfield Networks is All You Need](https://notebooklm.google.com/notebook/e4b4dcff-eafc-4667-847d-451bb405d60b/audio)
+
